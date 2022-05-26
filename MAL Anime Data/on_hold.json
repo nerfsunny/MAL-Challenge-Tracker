@@ -1,0 +1,2738 @@
+{
+    "data": [
+        {
+            "node": {
+                "id": 36904,
+                "title": "Aggressive Retsuko (ONA)",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/12/89288.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/12/89288l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 51,
+                        "name": "Anthropomorphic"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 48,
+                        "name": "Workplace"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 866,
+                        "name": "Fanworks"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2018-08-15T22:32:21+00:00",
+                "start_date": "2018-05-10"
+            }
+        },
+        {
+            "node": {
+                "id": 15061,
+                "title": "Aikatsu!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/74783.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/74783l.jpg"
+                },
+                "rating": "pg",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 60,
+                        "name": "Idols (Female)"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 14,
+                        "name": "Sunrise"
+                    },
+                    {
+                        "id": 1258,
+                        "name": "Bandai Namco Pictures"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 3,
+                "is_rewatching": false,
+                "updated_at": "2016-01-31T04:17:42+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 8676,
+                "title": "Amagami SS",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/78699.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/78699l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 48,
+                        "name": "AIC"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-09-10T17:40:32+00:00",
+                "start_date": "2019-07-18"
+            }
+        },
+        {
+            "node": {
+                "id": 231,
+                "title": "Asagiri no Miko",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/75196.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/75196l.jpg"
+                },
+                "rating": "pg",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 462,
+                        "name": "Chaos Project"
+                    },
+                    {
+                        "id": 721,
+                        "name": "GANSIS"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-04-22T00:06:31+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 37171,
+                "title": "Asobi Asobase",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1139/95077.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1139/95077l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 456,
+                        "name": "Lerche"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-07-11T04:08:58+00:00",
+                "start_date": "2020-02-20"
+            }
+        },
+        {
+            "node": {
+                "id": 6166,
+                "title": "Asobi ni Iku yo!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/7/75583.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/7/75583l.jpg"
+                },
+                "rating": "r+",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 292,
+                        "name": "AIC PLUS+"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-07-24T04:26:21+00:00",
+                "start_date": "2021-03-02"
+            }
+        },
+        {
+            "node": {
+                "id": 269,
+                "title": "Bleach",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/40451.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/40451l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1,
+                        "name": "Studio Pierrot"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 41,
+                "is_rewatching": false,
+                "updated_at": "2018-02-17T04:31:03+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 41587,
+                "title": "Boku no Hero Academia 5th Season",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1911/113611.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1911/113611l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 31,
+                        "name": "Super Power"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 4,
+                        "name": "Bones"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 19,
+                "is_rewatching": false,
+                "updated_at": "2022-03-26T10:21:24+00:00",
+                "start_date": "2021-07-26"
+            }
+        },
+        {
+            "node": {
+                "id": 357,
+                "title": "Bokusatsu Tenshi Dokuro-chan",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/13210.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/13210l.jpg"
+                },
+                "rating": "r",
+                "media_type": "ova",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 58,
+                        "name": "Gore"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 34,
+                        "name": "Hal Film Maker"
+                    },
+                    {
+                        "id": 70,
+                        "name": "Nomad"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-09-10T17:32:02+00:00",
+                "start_date": "2019-02-28"
+            }
+        },
+        {
+            "node": {
+                "id": 15037,
+                "title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/78811.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/78811l.jpg"
+                },
+                "rating": "r",
+                "media_type": "ova",
+                "genres": [
+                    {
+                        "id": 58,
+                        "name": "Gore"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 163,
+                        "name": "asread."
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-12-31T05:25:31+00:00",
+                "start_date": "2018-10-25"
+            }
+        },
+        {
+            "node": {
+                "id": 11843,
+                "title": "Danshi Koukousei no Nichijou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/33257.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/33257l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 14,
+                        "name": "Sunrise"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-08-16T20:25:06+00:00",
+                "start_date": "2018-04-05"
+            }
+        },
+        {
+            "node": {
+                "id": 28223,
+                "title": "Death Parade",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/5/71553.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/5/71553l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 50,
+                        "name": "Adult Cast"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 59,
+                        "name": "High Stakes Game"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Suspense"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 11,
+                        "name": "Madhouse"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2019-09-13T00:31:28+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 1221,
+                "title": "Demashita! Powerpuff Girls Z",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/12/3253.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/12/3253l.jpg"
+                },
+                "rating": "pg",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 31,
+                        "name": "Super Power"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 18,
+                        "name": "Toei Animation"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 3,
+                "is_rewatching": false,
+                "updated_at": "2018-02-15T03:17:04+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 32551,
+                "title": "Digimon Adventure tri. 3: Kokuhaku",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/4/82612.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/4/82612l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "movie",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 18,
+                        "name": "Toei Animation"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2018-02-06T06:17:56+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 31163,
+                "title": "Dimension W",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/8/86304.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/8/86304l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1109,
+                        "name": "Orange"
+                    },
+                    {
+                        "id": 1127,
+                        "name": "Studio 3Hz"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-04-20T18:20:55+00:00",
+                "start_date": "2020-02-27"
+            }
+        },
+        {
+            "node": {
+                "id": 38671,
+                "title": "Enen no Shouboutai",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1664/103275.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1664/103275l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 287,
+                        "name": "David Production"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 9,
+                "is_rewatching": false,
+                "updated_at": "2021-10-30T21:44:04+00:00",
+                "start_date": "2021-09-13"
+            }
+        },
+        {
+            "node": {
+                "id": 6702,
+                "title": "Fairy Tail",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/5/18179.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/5/18179l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 41,
+                        "name": "Satelight"
+                    },
+                    {
+                        "id": 56,
+                        "name": "A-1 Pictures"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 20,
+                "is_rewatching": false,
+                "updated_at": "2018-12-23T02:41:42+00:00",
+                "start_date": "2014-06-20"
+            }
+        },
+        {
+            "node": {
+                "id": 44248,
+                "title": "Fate/Grand Carnival",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1239/117596.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1239/117596l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ova",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 456,
+                        "name": "Lerche"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-02-23T21:13:52+00:00",
+                "start_date": "2021-02-23"
+            }
+        },
+        {
+            "node": {
+                "id": 9367,
+                "title": "Freezing",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/28535.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/28535l.jpg"
+                },
+                "rating": "r+",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Martial Arts"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 179,
+                        "name": "A.C.G.T."
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-11-13T17:37:40+00:00",
+                "start_date": "2020-08-29"
+            }
+        },
+        {
+            "node": {
+                "id": 38680,
+                "title": "Fruits Basket 1st Season",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1447/99827.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1447/99827l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 64,
+                        "name": "Love Polygon"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 73,
+                        "name": "TMS Entertainment"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-04-22T00:05:46+00:00",
+                "start_date": "2019-04-11"
+            }
+        },
+        {
+            "node": {
+                "id": 24765,
+                "title": "Gakkougurashi!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1798/91548.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1798/91548l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 76,
+                        "name": "Survival"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 456,
+                        "name": "Lerche"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-10-25T23:48:29+00:00",
+                "start_date": "2018-10-25"
+            }
+        },
+        {
+            "node": {
+                "id": 28669,
+                "title": "Go! Princess Precure",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/88625.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/88625l.jpg"
+                },
+                "rating": "g",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 66,
+                        "name": "Mahou Shoujo"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 18,
+                        "name": "Toei Animation"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2018-02-17T04:19:09+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 21855,
+                "title": "Hanamonogatari",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/13/65755.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/13/65755l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 44,
+                        "name": "Shaft"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-10-30T21:43:58+00:00",
+                "start_date": "2021-08-07"
+            }
+        },
+        {
+            "node": {
+                "id": 135,
+                "title": "Hikaru no Go",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/12/78317.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/12/78317l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Strategy Game"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1,
+                        "name": "Studio Pierrot"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 8,
+                "is_rewatching": false,
+                "updated_at": "2016-02-28T21:29:03+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 14753,
+                "title": "Hori-san to Miyamura-kun",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/2/40175.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/2/40175l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ova",
+                "genres": [
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 3,
+                        "name": "Gonzo"
+                    },
+                    {
+                        "id": 346,
+                        "name": "Hoods Entertainment"
+                    },
+                    {
+                        "id": 2188,
+                        "name": "Marone"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 6,
+                "num_episodes_watched": 3,
+                "is_rewatching": false,
+                "updated_at": "2019-01-21T01:54:18+00:00",
+                "start_date": "2015-05-02"
+            }
+        },
+        {
+            "node": {
+                "id": 33899,
+                "title": "IDOLiSH7",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1390/90828.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1390/90828l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 61,
+                        "name": "Idols (Male)"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1103,
+                        "name": "TROYCA"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-09-16T23:29:14+00:00",
+                "start_date": "2021-09-16"
+            }
+        },
+        {
+            "node": {
+                "id": 42361,
+                "title": "Ijiranaide, Nagatoro-san",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1900/110097.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1900/110097l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Romantic Subtext"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 94,
+                        "name": "Telecom Animation Film"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-10-30T21:44:15+00:00",
+                "start_date": "2021-07-15"
+            }
+        },
+        {
+            "node": {
+                "id": 36906,
+                "title": "Jashin-chan Dropkick",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1892/93420.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1892/93420l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 70,
+                        "name": "Nomad"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2018-08-31T02:36:59+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 28387,
+                "title": "Joukamachi no Dandelion",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/11/82559.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/11/82559l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 31,
+                        "name": "Super Power"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1053,
+                        "name": "Production IMS"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-01-23T05:06:33+00:00",
+                "start_date": "2017-05-16"
+            }
+        },
+        {
+            "node": {
+                "id": 34933,
+                "title": "Kakegurui",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/86578.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/86578l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 59,
+                        "name": "High Stakes Game"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Strategy Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 569,
+                        "name": "MAPPA"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-07-27T01:58:11+00:00",
+                "start_date": "2020-02-20"
+            }
+        },
+        {
+            "node": {
+                "id": 3958,
+                "title": "Kannagi",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/19724.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/19724l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Visual Arts"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 56,
+                        "name": "A-1 Pictures"
+                    },
+                    {
+                        "id": 334,
+                        "name": "Ordet"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2021-07-24T04:26:28+00:00",
+                "start_date": "2021-03-16"
+            }
+        },
+        {
+            "node": {
+                "id": 35860,
+                "title": "Karakai Jouzu no Takagi-san",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1591/95091.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1591/95091l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 63,
+                        "name": "Iyashikei"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Romantic Subtext"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 247,
+                        "name": "Shin-Ei Animation"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-07-20T22:16:53+00:00",
+                "start_date": "2018-05-25"
+            }
+        },
+        {
+            "node": {
+                "id": 34825,
+                "title": "Keppeki Danshi! Aoyama-kun",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/9/86644.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/9/86644l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Sports"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Team Sports"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 101,
+                        "name": "Studio Hibari"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-04-11T07:51:28+00:00",
+                "start_date": "2020-03-23"
+            }
+        },
+        {
+            "node": {
+                "id": 237,
+                "title": "Koukyoushihen Eureka Seven",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/12/34443.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/12/34443l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Mecha"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 4,
+                        "name": "Bones"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2016-04-23T00:56:58+00:00",
+                "start_date": "2016-01-04"
+            }
+        },
+        {
+            "node": {
+                "id": 25283,
+                "title": "Kuusen Madoushi Kouhosei no Kyoukan",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/74541.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/74541l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 51,
+                        "name": "Diomedéa"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-07-24T04:26:35+00:00",
+                "start_date": "2021-04-04"
+            }
+        },
+        {
+            "node": {
+                "id": 97,
+                "title": "Last Exile",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/7/10888.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/7/10888l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 3,
+                        "name": "Gonzo"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2019-03-01T00:44:32+00:00",
+                "start_date": "2019-02-28"
+            }
+        },
+        {
+            "node": {
+                "id": 17265,
+                "title": "Log Horizon",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/5/84004.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/5/84004l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 50,
+                        "name": "Adult Cast"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 79,
+                        "name": "Video Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 41,
+                        "name": "Satelight"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-04-22T00:05:29+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 189,
+                "title": "Love Hina",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1153/99366.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1153/99366l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 27,
+                        "name": "Xebec"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-09-13T05:02:23+00:00",
+                "start_date": "2021-07-12"
+            }
+        },
+        {
+            "node": {
+                "id": 40879,
+                "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1393/109203.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1393/109203l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 60,
+                        "name": "Idols (Female)"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 14,
+                        "name": "Sunrise"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 4,
+                "is_rewatching": false,
+                "updated_at": "2021-07-24T04:26:11+00:00",
+                "start_date": "2021-01-21"
+            }
+        },
+        {
+            "node": {
+                "id": 323,
+                "title": "Mousou Dairinin",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/7/10240.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/7/10240l.jpg"
+                },
+                "rating": "r+",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 5,
+                        "name": "Avant Garde"
+                    },
+                    {
+                        "id": 39,
+                        "name": "Detective"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Suspense"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 11,
+                        "name": "Madhouse"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2019-03-01T01:37:37+00:00",
+                "start_date": "2019-02-28"
+            }
+        },
+        {
+            "node": {
+                "id": 1735,
+                "title": "Naruto: Shippuuden",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/5/17407.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/5/17407l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Martial Arts"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1,
+                        "name": "Studio Pierrot"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 10,
+                "is_rewatching": false,
+                "updated_at": "2018-02-17T04:29:46+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 36038,
+                "title": "Net-juu no Susume",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/87463.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/87463l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 50,
+                        "name": "Adult Cast"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 79,
+                        "name": "Video Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1278,
+                        "name": "Signal.MD"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-02-21T03:18:53+00:00",
+                "start_date": "2020-02-20"
+            }
+        },
+        {
+            "node": {
+                "id": 5040,
+                "title": "One Outs",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/7/21065.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/7/21065l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 50,
+                        "name": "Adult Cast"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Sports"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Team Sports"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 11,
+                        "name": "Madhouse"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-02-07T15:29:10+00:00",
+                "start_date": "2020-02-06"
+            }
+        },
+        {
+            "node": {
+                "id": 21,
+                "title": "One Piece",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/73245.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/73245l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 18,
+                        "name": "Toei Animation"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 98,
+                "is_rewatching": false,
+                "updated_at": "2018-02-17T23:44:26+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 22135,
+                "title": "Ping Pong the Animation",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/58041.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/58041l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Sports"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 103,
+                        "name": "Tatsunoko Production"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-08-15T00:54:24+00:00",
+                "start_date": "2020-02-07"
+            }
+        },
+        {
+            "node": {
+                "id": 35330,
+                "title": "Poputepipikku",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/88816.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/88816l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Parody"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 437,
+                        "name": "Kamikaze Douga"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2018-02-02T01:49:49+00:00",
+                "start_date": "2018-02-01"
+            }
+        },
+        {
+            "node": {
+                "id": 32542,
+                "title": "Sakamoto Desu ga?",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/4/79468.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/4/79468l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 37,
+                        "name": "Studio Deen"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2016-06-02T17:15:31+00:00",
+                "start_date": "2016-04-11"
+            }
+        },
+        {
+            "node": {
+                "id": 44074,
+                "title": "Shiguang Dailiren",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1135/114867.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    },
+                    {
+                        "id": 78,
+                        "name": "Time Travel"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1774,
+                        "name": "Studio LAN"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2022-05-17T00:25:44+00:00",
+                "start_date": "2022-04-21"
+            }
+        },
+        {
+            "node": {
+                "id": 20555,
+                "title": "SoniAni: Super Sonico The Animation",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/56987.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/56987l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 314,
+                        "name": "White Fox"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2018-01-23T05:06:18+00:00",
+                "start_date": "2017-07-07"
+            }
+        },
+        {
+            "node": {
+                "id": 14289,
+                "title": "Sukitte Ii na yo.",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/11/39777.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/11/39777l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 218,
+                        "name": "Zexcs"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-02-14T02:57:01+00:00",
+                "start_date": "2020-02-13"
+            }
+        },
+        {
+            "node": {
+                "id": 23587,
+                "title": "The iDOLM@STER Cinderella Girls",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/70733.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/70733l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Idols (Female)"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 56,
+                        "name": "A-1 Pictures"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 3,
+                "is_rewatching": false,
+                "updated_at": "2021-12-14T20:09:40+00:00",
+                "start_date": "2021-09-16"
+            }
+        },
+        {
+            "node": {
+                "id": 37722,
+                "title": "Uchi no Maid ga Uzasugiru!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1786/95330.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1786/95330l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 26,
+                        "name": "Girls Love"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 95,
+                        "name": "Doga Kobo"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-02-28T00:32:45+00:00",
+                "start_date": "2020-02-27"
+            }
+        },
+        {
+            "node": {
+                "id": 37920,
+                "title": "Ueno-san wa Bukiyou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1874/111374.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1874/111374l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Romantic Subtext"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1829,
+                        "name": "Lesprit"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-07-06T01:02:30+00:00",
+                "start_date": "2019-01-31"
+            }
+        },
+        {
+            "node": {
+                "id": 35249,
+                "title": "Uma Musume: Pretty Derby (TV)",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1683/91888.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1683/91888l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 51,
+                        "name": "Anthropomorphic"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Sports"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 132,
+                        "name": "P.A. Works"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-02-07T15:28:40+00:00",
+                "start_date": "2020-02-06"
+            }
+        },
+        {
+            "node": {
+                "id": 38349,
+                "title": "Wotaku ni Koi wa Muzukashii OVA",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1892/111383.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1892/111383l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ova",
+                "genres": [
+                    {
+                        "id": 50,
+                        "name": "Adult Cast"
+                    },
+                    {
+                        "id": 69,
+                        "name": "Otaku Culture"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 48,
+                        "name": "Workplace"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 56,
+                        "name": "A-1 Pictures"
+                    },
+                    {
+                        "id": 1828,
+                        "name": "Lapin Track"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 8,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2020-08-07T19:00:50+00:00",
+                "start_date": "2019-12-21",
+                "finish_date": "2019-12-21"
+            }
+        },
+        {
+            "node": {
+                "id": 37779,
+                "title": "Yakusoku no Neverland",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1830/118780.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1830/118780l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 76,
+                        "name": "Survival"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Suspense"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1835,
+                        "name": "CloverWorks"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2019-02-01T01:53:45+00:00",
+                "start_date": "2019-01-31"
+            }
+        },
+        {
+            "node": {
+                "id": 34866,
+                "title": "Yu☆Gi☆Oh! VRAINS",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1789/101971.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1789/101971l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Strategy Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 36,
+                        "name": "Gallop"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 93,
+                "is_rewatching": false,
+                "updated_at": "2020-04-20T18:21:17+00:00",
+                "start_date": "2017-05-11"
+            }
+        },
+        {
+            "node": {
+                "id": 10015,
+                "title": "Yu☆Gi☆Oh! Zexal",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/4/40295.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/4/40295l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Strategy Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 36,
+                        "name": "Gallop"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 5,
+                "is_rewatching": false,
+                "updated_at": "2018-08-15T22:37:58+00:00",
+                "start_date": "2013-09-13"
+            }
+        },
+        {
+            "node": {
+                "id": 36726,
+                "title": "Yuragi-sou no Yuuna-san",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1462/98802.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1462/98802l.jpg"
+                },
+                "rating": "r+",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 27,
+                        "name": "Xebec"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-07-24T04:25:58+00:00",
+                "start_date": "2021-03-06"
+            }
+        },
+        {
+            "node": {
+                "id": 37976,
+                "title": "Zombieland Saga",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1094/95453.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1094/95453l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Idols (Female)"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 569,
+                        "name": "MAPPA"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "on_hold",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2021-10-30T21:43:52+00:00",
+                "start_date": "2018-10-25"
+            }
+        }
+    ],
+    "paging": {}
+}

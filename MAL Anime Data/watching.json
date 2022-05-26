@@ -1,0 +1,255 @@
+{
+    "data": [
+        {
+            "node": {
+                "id": 40904,
+                "title": "Bokutachi no Remake",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1871/118309.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1871/118309l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 78,
+                        "name": "Time Travel"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 91,
+                        "name": "feel."
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-05-26T05:43:23+00:00",
+                "start_date": "2022-03-23"
+            }
+        },
+        {
+            "node": {
+                "id": 40623,
+                "title": "Dokyuu Hentai HxEros",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1342/108321.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1342/108321l.jpg"
+                },
+                "rating": "r+",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 439,
+                        "name": "Project No.9"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2022-01-06T21:43:29+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 49854,
+                "title": "Getsuyoubi no Tawawa 2",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1370/117813.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1370/117813l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1687,
+                        "name": "Yokohama Animation Lab"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-01-07T04:34:16+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 39463,
+                "title": "Gleipnir",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1808/111697.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1808/111697l.jpg"
+                },
+                "rating": "r",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1295,
+                        "name": "Pine Jam"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 2,
+                "is_rewatching": false,
+                "updated_at": "2022-01-15T10:02:08+00:00",
+                "start_date": "2022-01-08"
+            }
+        },
+        {
+            "node": {
+                "id": 40746,
+                "title": "Overflow",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1781/104461.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1781/104461l.jpg"
+                },
+                "rating": "rx",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 12,
+                        "name": "Hentai"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1968,
+                        "name": "Studio Hokiboshi"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 4,
+                "is_rewatching": false,
+                "updated_at": "2022-03-26T10:16:45+00:00",
+                "start_date": "2022-01-23"
+            }
+        },
+        {
+            "node": {
+                "id": 33926,
+                "title": "Quanzhi Gaoshou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/7/81892.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/7/81892l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 79,
+                        "name": "Video Game"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1350,
+                        "name": "B.CMAY PICTURES"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "watching",
+                "score": 0,
+                "num_episodes_watched": 1,
+                "is_rewatching": false,
+                "updated_at": "2022-04-22T00:34:03+00:00",
+                "start_date": "2022-04-21"
+            }
+        }
+    ],
+    "paging": {}
+}
