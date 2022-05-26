@@ -6,10 +6,12 @@ import json
 def downloadMyAnimeData():
     animeListStatus = ['watching', 'completed', 'dropped', 'on_hold', 'plan_to_watch']
     selectedLimit = '1000'
+    print("Downloading my anime data.")
     for myStatus in animeListStatus:
         with open('./MAL Anime Data/' + myStatus + '.json', 'w', encoding='utf-8') as file:
             data = requests.get(myAnimeList, headers={'X-MAL-CLIENT-ID' : malClientID}, params={'status' : myStatus, 'fields' : selectedFields, 'nsfw' : 'true', 'limit' : selectedLimit})
             json.dump(data.json(), file, ensure_ascii=False, indent=4)
+            print('\t' + myStatus + " complete...")
 
 load_dotenv()
 
@@ -18,3 +20,4 @@ myAnimeList = os.getenv('myAnimeList')
 selectedFields = 'rating, media_type, genres, studios, list_status'
 
 downloadMyAnimeData()
+print("Finished downloading data.")
