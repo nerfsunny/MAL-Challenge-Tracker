@@ -13,7 +13,7 @@ def myAnimeData(malClientID, myAnimeList, selectedFields, directoryPath):
             json.dump(data.json(), file, ensure_ascii=False, indent=4)
             print('\t' + myStatus + " complete...")
 
-def hofAnimeData(themes_tags):
+def hofAnimeThemeData(themes_tags):
     hof = dict()
 
     for theme in themes_tags:
