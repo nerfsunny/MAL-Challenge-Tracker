@@ -13,7 +13,7 @@ def myAnimeData(malClientID, myAnimeList, selectedFields, directoryPath):
             json.dump(data.json(), file, ensure_ascii=False, indent=4)
             print('\t' + myStatus + " complete...")
 
-def hofAnimeThemeData(themes_tags):
+def hofAnimeThemeData(themes_tags, directoryPath):
     hof = dict()
 
     for theme in themes_tags:
@@ -45,6 +45,15 @@ def hofAnimeThemeData(themes_tags):
                 hof[malID] = hofAnime(malID, item.text.strip())
 
             hof[malID].addTheme(theme)
+
+        print('\tStoring data.')
+        hofList = []
+
+        for anime in hof.values():
+            hofList.append(json.loads(json.dumps(anime.__dict__, ensure_ascii=True)))
+
+        with open(directoryPath + 'hofTheme.json', 'w') as file:
+            json.dump(hofList, file, ensure_ascii=4,  indent=4)
 
         print('\tDone')
     
