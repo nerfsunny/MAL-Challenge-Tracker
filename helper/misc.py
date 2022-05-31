@@ -57,3 +57,17 @@ def loadMALJSONIntoDF(json, nodeColumns, listStatusColumns, df):
         row.clear()
 
     return df
+
+def createHOFThemeDF(hofThemeJSON, myMALDF):
+    hofThemeJSONDF = pd.DataFrame.from_records(hofThemeJSON)
+    hofThemeJSONDF = hofThemeJSONDF.astype({'mal_id' : 'int64', 'name' : 'string'})
+    uniqueToHOF = set(hofThemeJSONDF['mal_id']) - set(myMALDF['id'])
+    unneededItems = hofThemeJSONDF.index[hofThemeJSONDF['mal_id'].isin(uniqueToHOF)]
+    hofThemeJSONDF.drop(index=unneededItems, inplace=True)
+
+    myHOFAnimeDF = pd.merge(hofThemeJSONDF[['mal_id', 'themes']], myMALDF[['id', 'title', 'finish_date']], how='inner', left_on='mal_id', right_on='id').drop(columns='id')
+
+    myHOFAnimeDF.drop(index=myHOFAnimeDF.index[myHOFAnimeDF['finish_date'] == 'N/A'], inplace=True)
+    myHOFAnimeDF.sort_values('finish_date', inplace=True, ignore_index=True, ascending=False)
+    
+    return myHOFAnimeDF
