@@ -4,11 +4,6 @@ from dateutil.relativedelta import relativedelta
 from dotenv import set_key
 import os
 
-def storeAnimeUsed(challengeName, runNumber, series):
-    with open(f'./export_challenges/{challengeName}/{challengeName}_{runNumber}_animeUsed.txt', 'w') as file:
-        for id in series:
-            file.write(f'{id}\n')
-
 def canUpdateData(envFile, envVariable, date_format, incNumberOfWeeks):
     importDate = dt.datetime.strptime(os.getenv(envVariable), date_format).date()
     currentDate = dt.date.today()
@@ -58,16 +53,36 @@ def loadMALJSONIntoDF(json, nodeColumns, listStatusColumns, df):
 
     return df
 
-def createHOFThemeDF(hofThemeJSON, myMALDF):
-    hofThemeJSONDF = pd.DataFrame.from_records(hofThemeJSON)
-    hofThemeJSONDF = hofThemeJSONDF.astype({'mal_id' : 'int64', 'name' : 'string'})
-    uniqueToHOF = set(hofThemeJSONDF['mal_id']) - set(myMALDF['id'])
-    unneededItems = hofThemeJSONDF.index[hofThemeJSONDF['mal_id'].isin(uniqueToHOF)]
-    hofThemeJSONDF.drop(index=unneededItems, inplace=True)
+def createHOFDF(hofThemeJSONFile, myMALDF):
+    hofThemeDF = pd.DataFrame.from_records(hofThemeJSONFile)
+    hofThemeDF = hofThemeDF.astype({'mal_id' : 'int64', 'name' : 'string'})
+    myHOFDF = pd.merge(hofThemeDF[['mal_id', 'themes']], myMALDF[['id', 'title', 'status', 'finish_date', 'color', 'label']], how='inner', left_on='mal_id', right_on='id').drop(columns='id')
+    return myHOFDF
 
-    myHOFAnimeDF = pd.merge(hofThemeJSONDF[['mal_id', 'themes']], myMALDF[['id', 'title', 'finish_date']], how='inner', left_on='mal_id', right_on='id').drop(columns='id')
+def eligibleItems_Theme(myHOFThemeDF, theme, challengeStartDate):
+    eligibleItems = myHOFThemeDF
+    eligibleItems.drop(index=eligibleItems.index[eligibleItems['finish_date'] == 'N/A'].intersection(eligibleItems.index[eligibleItems['status'] == 'completed']), inplace=True)
+    eligibleItems.drop(index=eligibleItems.index[eligibleItems['finish_date'] < challengeStartDate].intersection(eligibleItems.index[eligibleItems['status'] == 'completed']), inplace=True)
+    eligibleItems = eligibleItems.explode('themes', ignore_index=True)
+    eligibleItems.drop(index=eligibleItems.index[eligibleItems['themes'] != theme], inplace=True)
 
-    myHOFAnimeDF.drop(index=myHOFAnimeDF.index[myHOFAnimeDF['finish_date'] == 'N/A'], inplace=True)
-    myHOFAnimeDF.sort_values('finish_date', inplace=True, ignore_index=True, ascending=False)
-    
-    return myHOFAnimeDF
+    eligibleItems.sort_values('finish_date', inplace=True, ignore_index=True)
+
+    eligibleItems.loc[eligibleItems['status'] == 'completed', ['color', 'label']] = 'green', 'o'
+    eligibleItems.loc[eligibleItems['status'] == 'watching', ['color', 'label']] = 'orange', 'x'
+    eligibleItems.drop(columns=['themes'], inplace=True)
+
+    return eligibleItems
+
+def summaryOfChallenge(challenge_name, difficulty, numberOfExpectedItems, animeDF):
+    numberOfCompleted = len(animeDF.index[animeDF['status'] == 'completed'])
+    new_row = pd.DataFrame({'challenge_name' : challenge_name, 
+                            'progress' : f'{min(numberOfCompleted, numberOfExpectedItems)}/{numberOfExpectedItems}', 
+                            'difficulty' : difficulty, 
+                            'items_added' : 'N/A',
+                            'items_removed' : 'N/A',
+                            'update' : 'N/A',
+                            'complete' : str(numberOfCompleted == numberOfExpectedItems)}, 
+                            index=[0])
+
+    return new_row
