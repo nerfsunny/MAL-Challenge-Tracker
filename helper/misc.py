@@ -56,7 +56,7 @@ def loadMALJSONIntoDF(json, nodeColumns, listStatusColumns, df):
 def createHOFDF(hofThemeJSONFile, myMALDF):
     hofThemeDF = pd.DataFrame.from_records(hofThemeJSONFile)
     hofThemeDF = hofThemeDF.astype({'mal_id' : 'int64', 'name' : 'string'})
-    myHOFDF = pd.merge(hofThemeDF[['mal_id', 'themes']], myMALDF[['id', 'title', 'status', 'finish_date', 'color', 'label']], how='inner', left_on='mal_id', right_on='id').drop(columns='id')
+    myHOFDF = pd.merge(hofThemeDF[['mal_id', 'themes']], myMALDF[['mal_id', 'title', 'status', 'finish_date', 'color', 'label']], how='inner', left_on='mal_id', right_on='mal_id')
     return myHOFDF
 
 def eligibleItems_Theme(myHOFThemeDF, theme, challengeStartDate):
@@ -86,3 +86,8 @@ def summaryOfChallenge(challenge_name, difficulty, numberOfExpectedItems, animeD
                             index=[0])
 
     return new_row
+
+def storeAnimeUsed(parent_path, challenge_name, animeDF):
+    with open(f'{parent_path}/{challenge_name}/{challenge_name}_used.txt', 'w') as file:
+        for id in animeDF['mal_id']:
+            file.write(f'{id}\n')
