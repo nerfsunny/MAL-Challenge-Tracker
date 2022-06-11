@@ -56,7 +56,7 @@ def loadMALJSONIntoDF(json, nodeColumns, listStatusColumns, df):
 def createHOFDF(hofThemeJSONFile, myMALDF):
     hofThemeDF = pd.DataFrame.from_records(hofThemeJSONFile)
     hofThemeDF = hofThemeDF.astype({'mal_id' : 'int64', 'name' : 'string'})
-    myHOFDF = pd.merge(hofThemeDF[['mal_id', 'themes']], myMALDF[['mal_id', 'title', 'status', 'finish_date', 'color', 'label']], how='inner', left_on='mal_id', right_on='mal_id')
+    myHOFDF = pd.merge(hofThemeDF[['mal_id', 'themes']], myMALDF[['id', 'title', 'status', 'finish_date', 'color', 'label']], how='inner', left_on='mal_id', right_on='id').drop(columns='id')
     return myHOFDF
 
 def eligibleItems_Theme(myHOFThemeDF, theme, challengeStartDate):
@@ -73,6 +73,36 @@ def eligibleItems_Theme(myHOFThemeDF, theme, challengeStartDate):
     eligibleItems.drop(columns=['themes'], inplace=True)
 
     return eligibleItems
+
+def specificStudios(myAnimeDF, studio, set=-1):
+    studioDF = myAnimeDF.explode('studios', ignore_index=True)
+    studioDF.drop(index=studioDF.index[studioDF['studios'] != studio], columns=['genres', 'rating', 'start_date'], inplace=True)
+
+    naItems = studioDF.loc[studioDF['finish_date'] == 'N/A']
+    studioDF.drop(index=naItems.index, inplace=True)
+
+    studioDF.sort_values('finish_date', inplace=True, ascending=True, ignore_index=True)
+    studioDF = pd.concat([naItems, studioDF], ignore_index=True)
+
+    studioDF.loc[studioDF['status'] == 'completed', ['color', 'label']] = 'green', 'o'
+    studioDF.loc[studioDF['status'] == 'watching', ['color', 'label']] = 'orange', 'x'
+
+    if set == 1:
+        studioDF['difficulty'] = 'N/A'
+
+        for row in range(0, min(201, studioDF.shape[0])):
+            if row <= 19:
+                studioDF.loc[row, 'difficulty'] = 'easy'
+            elif row <= 59:
+                studioDF.loc[row, 'difficulty'] = 'medium'
+            elif row <= 119:
+                studioDF.loc[row, 'difficulty'] = 'hard'
+            elif row <= 200:
+                studioDF.loc[row, 'difficulty'] = 'conquered'
+            else:
+                studioDF.loc[row, 'difficulty'] = 'N/A'
+
+    return studioDF
 
 def summaryOfChallenge(challenge_name, difficulty, numberOfExpectedItems, animeDF):
     numberOfCompleted = len(animeDF.index[animeDF['status'] == 'completed'])
