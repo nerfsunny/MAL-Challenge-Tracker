@@ -3,13 +3,12 @@ import json
 from bs4 import BeautifulSoup as bs
 from helper.custom_classes import hofAnime
 
-def myAnimeData(malClientID, myAnimeList, selectedFields, directoryPath):
-    animeListStatus = ['watching', 'completed', 'dropped', 'on_hold', 'plan_to_watch']
+def myMALData(malClientID, myList, selectedFields, directoryPath, listStatus):
     selectedLimit = '1000'
-    print("Downloading my anime data.")
-    for myStatus in animeListStatus:
+    print("Downloading my data.")
+    for myStatus in listStatus:
         with open(directoryPath + myStatus + '.json', 'w', encoding='utf-8') as file:
-            data = requests.get(myAnimeList, headers={'X-MAL-CLIENT-ID' : malClientID}, params={'status' : myStatus, 'fields' : selectedFields, 'nsfw' : 'true', 'limit' : selectedLimit})
+            data = requests.get(myList, headers={'X-MAL-CLIENT-ID' : malClientID}, params={'status' : myStatus, 'fields' : selectedFields, 'nsfw' : 'true', 'limit' : selectedLimit})
             json.dump(data.json(), file, ensure_ascii=False, indent=4)
             print('\t' + myStatus + " complete...")
 
