@@ -16,41 +16,47 @@ def canUpdateData(envFile, envVariable, date_format, incNumberOfWeeks):
     print(f'Cannot update data. Next scheduled update is {importDate}')
     return False
 
-def extractDataColumn(listOfDicts, colName):
-    extract = []
+def loadMALJSON_DF(jsonFile, itemInfo, userListInfo):
+    specialColumns = ['genres', 'studios']
 
-    for genre in listOfDicts:
-        extract.append(genre['name'])
+    if 'start_date' in itemInfo:
+        itemInfo[itemInfo.index('start_date')] = 'publish_start_date'
 
-    return extract
+    if 'end_date' in itemInfo:
+        itemInfo[itemInfo.index('end_date')] = 'publish_end_date'
 
-def loadMALJSONIntoDF(json, nodeColumns, listStatusColumns, df):
-    specialInstructionsCols = ['genres', 'studios']
-    
-    if list(df.columns) != (nodeColumns + listStatusColumns):
-        raise ValueError('Columns in given DataFrame do not match columns the result of combining nodeColumns and listStatusColumns.')
+    df = pd.DataFrame(columns=itemInfo + userListInfo)
 
-    row = {}
-    for animeNode in json['data']:
-        animeInfo = animeNode['node']
+    df_row = {}
+    for jsonData in jsonFile['data']:
+        itemNode = jsonData['node']
+        myListItemNode = jsonData['list_status']
 
-        for selectedColumn in nodeColumns:
-            if selectedColumn in specialInstructionsCols:
-                row[selectedColumn] = extractDataColumn(animeInfo[selectedColumn], "name")
+        for info in itemInfo:
+            if info in specialColumns:
+                expandEntry = []
+
+                for info2 in itemNode[info]:
+                    expandEntry.append(info2['name'])
+
+                df_row[info] = expandEntry
+            elif info == 'publish_start_date' or info == 'publish_end_date':
+                if info[8:] not in itemNode:
+                    df_row[info] = 'N/A'
+                else:
+                    df_row[info] = itemNode[info[8:]]
+            elif info not in itemNode:
+                df_row[info] = 'N/A'
             else:
-                row[selectedColumn] = animeInfo[selectedColumn]
+                df_row[info] = itemNode[info]
 
-        myListInfo = animeNode['list_status']
-
-        for selectedColumn in listStatusColumns:
-            if selectedColumn not in myListInfo.keys():
-                row[selectedColumn] = "N/A"
+        for info in userListInfo:
+            if info not in myListItemNode:
+                df_row[info] = 'N/A'
             else:
-                row[selectedColumn] = myListInfo[selectedColumn]
-
-        df = pd.concat([df, pd.DataFrame.from_dict(row, orient='index').transpose()], ignore_index=True)
-        row.clear()
-
+                df_row[info] = myListItemNode[info]
+            
+        df = pd.concat([df, pd.DataFrame.from_dict(df_row, orient='index').transpose()], ignore_index=True)
     return df
 
 def createHOFDF(hofThemeJSONFile, myMALDF):
@@ -109,8 +115,6 @@ def summaryOfChallenge(challenge_name, difficulty, numberOfExpectedItems, animeD
     new_row = pd.DataFrame({'challenge_name' : challenge_name, 
                             'progress' : f'{min(numberOfCompleted, numberOfExpectedItems)}/{numberOfExpectedItems}', 
                             'difficulty' : difficulty, 
-                            'items_added' : 'N/A',
-                            'items_removed' : 'N/A',
                             'update' : 'N/A',
                             'complete' : str(numberOfCompleted == numberOfExpectedItems)}, 
                             index=[0])
@@ -121,3 +125,6 @@ def storeAnimeUsed(parent_path, challenge_name, animeDF):
     with open(f'{parent_path}/{challenge_name}/{challenge_name}_used.txt', 'w') as file:
         for id in animeDF['mal_id']:
             file.write(f'{id}\n')
+
+def combineMALDFs(malDF1, malDF2):
+    return pd.concat([malDF1, malDF2], ignore_index=True)
