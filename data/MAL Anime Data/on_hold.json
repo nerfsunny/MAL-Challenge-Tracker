@@ -33,7 +33,9 @@
                         "id": 866,
                         "name": "Fanworks"
                     }
-                ]
+                ],
+                "start_date": "2018-04-20",
+                "end_date": "2018-04-20"
             },
             "list_status": {
                 "status": "on_hold",
@@ -85,7 +87,9 @@
                         "id": 1258,
                         "name": "Bandai Namco Pictures"
                     }
-                ]
+                ],
+                "start_date": "2012-10-08",
+                "end_date": "2016-03-31"
             },
             "list_status": {
                 "status": "on_hold",
@@ -124,7 +128,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "2010-07-02",
+                "end_date": "2010-12-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -176,7 +182,9 @@
                         "id": 721,
                         "name": "GANSIS"
                     }
-                ]
+                ],
+                "start_date": "2002-07-04",
+                "end_date": "2002-12-26"
             },
             "list_status": {
                 "status": "on_hold",
@@ -219,7 +227,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2018-07-08",
+                "end_date": "2018-09-23"
             },
             "list_status": {
                 "status": "on_hold",
@@ -267,7 +277,9 @@
                         "id": 292,
                         "name": "AIC PLUS+"
                     }
-                ]
+                ],
+                "start_date": "2010-07-11",
+                "end_date": "2010-09-26"
             },
             "list_status": {
                 "status": "on_hold",
@@ -309,9 +321,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2004-10-05",
+                "end_date": "2012-03-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -354,7 +368,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2021-03-27",
+                "end_date": "2021-09-25"
             },
             "list_status": {
                 "status": "on_hold",
@@ -402,7 +418,9 @@
                         "id": 70,
                         "name": "Nomad"
                     }
-                ]
+                ],
+                "start_date": "2005-03-13",
+                "end_date": "2005-09-22"
             },
             "list_status": {
                 "status": "on_hold",
@@ -446,7 +464,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2013-07-24",
+                "end_date": "2013-07-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -486,7 +506,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2012-01-10",
+                "end_date": "2012-03-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -538,7 +560,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2015-01-10",
+                "end_date": "2015-03-28"
             },
             "list_status": {
                 "status": "on_hold",
@@ -593,7 +617,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2006-07-01",
+                "end_date": "2007-06-30"
             },
             "list_status": {
                 "status": "on_hold",
@@ -636,7 +662,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-09-24",
+                "end_date": "2016-09-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -679,7 +707,9 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2016-01-10",
+                "end_date": "2016-03-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -719,7 +749,9 @@
                         "id": 287,
                         "name": "David Production"
                     }
-                ]
+                ],
+                "start_date": "2019-07-06",
+                "end_date": "2019-12-28"
             },
             "list_status": {
                 "status": "on_hold",
@@ -767,7 +799,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2009-10-12",
+                "end_date": "2013-03-30"
             },
             "list_status": {
                 "status": "on_hold",
@@ -807,7 +841,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2020-12-31",
+                "end_date": "2021-10-13"
             },
             "list_status": {
                 "status": "on_hold",
@@ -867,7 +903,9 @@
                         "id": 179,
                         "name": "A.C.G.T."
                     }
-                ]
+                ],
+                "start_date": "2011-01-08",
+                "end_date": "2011-04-07"
             },
             "list_status": {
                 "status": "on_hold",
@@ -915,7 +953,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2019-04-06",
+                "end_date": "2019-09-21"
             },
             "list_status": {
                 "status": "on_hold",
@@ -967,7 +1007,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2015-07-09",
+                "end_date": "2015-09-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1023,7 +1065,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2015-02-01",
+                "end_date": "2016-01-31"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1062,7 +1106,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2014-08-16",
+                "end_date": "2014-08-16"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1104,9 +1150,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2001-10-10",
+                "end_date": "2003-03-26"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1153,7 +1201,9 @@
                         "id": 2188,
                         "name": "Marone"
                     }
-                ]
+                ],
+                "start_date": "2012-09-26",
+                "end_date": "2021-05-25"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1193,7 +1243,9 @@
                         "id": 1103,
                         "name": "TROYCA"
                     }
-                ]
+                ],
+                "start_date": "2018-01-07",
+                "end_date": "2018-05-19"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1229,7 +1281,9 @@
                         "id": 94,
                         "name": "Telecom Animation Film"
                     }
-                ]
+                ],
+                "start_date": "2021-04-11",
+                "end_date": "2021-06-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1265,7 +1319,9 @@
                         "id": 70,
                         "name": "Nomad"
                     }
-                ]
+                ],
+                "start_date": "2018-07-10",
+                "end_date": "2018-09-17"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1308,7 +1364,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2015-07-03",
+                "end_date": "2015-09-18"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1364,7 +1422,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2017-07-01",
+                "end_date": "2017-09-23"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1416,7 +1476,9 @@
                         "id": 334,
                         "name": "Ordet"
                     }
-                ]
+                ],
+                "start_date": "2008-10-04",
+                "end_date": "2008-12-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1464,7 +1526,9 @@
                         "id": 247,
                         "name": "Shin-Ei Animation"
                     }
-                ]
+                ],
+                "start_date": "2018-01-08",
+                "end_date": "2018-03-26"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1512,7 +1576,9 @@
                         "id": 101,
                         "name": "Studio Hibari"
                     }
-                ]
+                ],
+                "start_date": "2017-07-03",
+                "end_date": "2017-09-18"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1560,7 +1626,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2005-04-17",
+                "end_date": "2006-04-02"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1604,7 +1672,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2015-07-09",
+                "end_date": "2015-09-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1644,7 +1714,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2003-04-08",
+                "end_date": "2003-09-30"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1692,7 +1764,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2013-10-05",
+                "end_date": "2014-03-22"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1743,7 +1817,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2000-04-19",
+                "end_date": "2000-09-27"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1787,7 +1863,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2020-10-03",
+                "end_date": "2020-12-26"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1843,7 +1921,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2004-02-03",
+                "end_date": "2004-05-18"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1859,8 +1939,8 @@
                 "id": 1735,
                 "title": "Naruto: Shippuuden",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/5/17407.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/5/17407l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1565/111305.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1565/111305l.jpg"
                 },
                 "rating": "pg_13",
                 "media_type": "tv",
@@ -1889,9 +1969,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2007-02-15",
+                "end_date": "2017-03-23"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1934,7 +2016,9 @@
                         "id": 1278,
                         "name": "Signal.MD"
                     }
-                ]
+                ],
+                "start_date": "2017-10-10",
+                "end_date": "2017-12-12"
             },
             "list_status": {
                 "status": "on_hold",
@@ -1982,7 +2066,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2008-10-08",
+                "end_date": "2009-04-01"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2026,7 +2112,8 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1999-10-20"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2065,7 +2152,9 @@
                         "id": 103,
                         "name": "Tatsunoko Production"
                     }
-                ]
+                ],
+                "start_date": "2014-04-11",
+                "end_date": "2014-06-20"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2105,7 +2194,9 @@
                         "id": 437,
                         "name": "Kamikaze Douga"
                     }
-                ]
+                ],
+                "start_date": "2018-01-07",
+                "end_date": "2018-03-25"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2149,7 +2240,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2016-04-08",
+                "end_date": "2016-07-01"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2189,7 +2282,9 @@
                         "id": 1774,
                         "name": "Studio LAN"
                     }
-                ]
+                ],
+                "start_date": "2021-04-30",
+                "end_date": "2021-07-09"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2225,7 +2320,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2014-01-06",
+                "end_date": "2014-03-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2269,7 +2366,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2012-10-07",
+                "end_date": "2012-12-30"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2313,7 +2412,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-01-10",
+                "end_date": "2015-04-11"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2353,7 +2454,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2018-10-05",
+                "end_date": "2018-12-21"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2397,7 +2500,9 @@
                         "id": 1829,
                         "name": "Lesprit"
                     }
-                ]
+                ],
+                "start_date": "2019-01-07",
+                "end_date": "2019-03-25"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2433,7 +2538,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2018-04-02",
+                "end_date": "2018-06-18"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2481,7 +2588,9 @@
                         "id": 1828,
                         "name": "Lapin Track"
                     }
-                ]
+                ],
+                "start_date": "2019-03-29",
+                "end_date": "2021-10-14"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2534,7 +2643,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-01-10",
+                "end_date": "2019-03-29"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2582,7 +2693,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2017-05-10",
+                "end_date": "2019-09-25"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2626,7 +2739,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2011-04-11",
+                "end_date": "2012-09-24"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2678,7 +2793,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2018-07-14",
+                "end_date": "2018-09-29"
             },
             "list_status": {
                 "status": "on_hold",
@@ -2722,7 +2839,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2018-10-04",
+                "end_date": "2018-12-20"
             },
             "list_status": {
                 "status": "on_hold",

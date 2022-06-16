@@ -2,6 +2,52 @@
     "data": [
         {
             "node": {
+                "id": 52034,
+                "title": "\"Oshi no Ko\"",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1077/124345.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1077/124345l.jpg"
+                },
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Music"
+                    },
+                    {
+                        "id": 72,
+                        "name": "Reincarnation"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 95,
+                        "name": "Doga Kobo"
+                    }
+                ]
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-09T23:31:42+00:00"
+            }
+        },
+        {
+            "node": {
                 "id": 41380,
                 "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
                 "main_picture": {
@@ -41,7 +87,9 @@
                         "id": 1978,
                         "name": "Maho Film"
                     }
-                ]
+                ],
+                "start_date": "2020-10-02",
+                "end_date": "2020-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -76,7 +124,9 @@
                         "id": 2248,
                         "name": "Indivision"
                     }
-                ]
+                ],
+                "start_date": "2021-10-15",
+                "end_date": "2021-12-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -127,7 +177,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2016-10-08",
+                "end_date": "2017-03-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -166,7 +218,9 @@
                         "id": 346,
                         "name": "Hoods Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2018-04-04",
+                "end_date": "2018-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -213,7 +267,9 @@
                         "id": 1722,
                         "name": "Bibury Animation Studios"
                     }
-                ]
+                ],
+                "start_date": "2022-05-20",
+                "end_date": "2022-05-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -260,7 +316,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2021-10-03",
+                "end_date": "2022-03-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -303,7 +361,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "2005-01-07",
+                "end_date": "2005-07-08"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -354,7 +414,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2002-04-04",
+                "end_date": "2002-06-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -397,7 +459,9 @@
                         "id": 1440,
                         "name": "Felix Film"
                     }
-                ]
+                ],
+                "start_date": "2022-04-02",
+                "end_date": "2022-06-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -440,7 +504,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2021-10-29",
+                "end_date": "2021-10-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -491,7 +557,9 @@
                         "id": 1023,
                         "name": "Polygon Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-01-16",
+                "end_date": "2016-04-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -540,9 +608,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2014-10-07",
+                "end_date": "2015-03-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -577,7 +647,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2022-01-09",
+                "end_date": "2022-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -636,7 +708,9 @@
                         "id": 65,
                         "name": "Tokyo Movie Shinsha"
                     }
-                ]
+                ],
+                "start_date": "1988-07-16",
+                "end_date": "1988-07-16"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -683,7 +757,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2013-04-05",
+                "end_date": "2013-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -730,7 +806,9 @@
                         "id": 1103,
                         "name": "TROYCA"
                     }
-                ]
+                ],
+                "start_date": "2014-07-06",
+                "end_date": "2014-09-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -769,7 +847,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2008-04-03",
+                "end_date": "2008-10-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -820,7 +900,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2016-07-05",
+                "end_date": "2016-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -867,7 +949,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2016-07-08",
+                "end_date": "2016-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -935,7 +1019,9 @@
                         "id": 894,
                         "name": "Graphinica"
                     }
-                ]
+                ],
+                "start_date": "2019-09-13",
+                "end_date": "2019-10-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -978,7 +1064,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2015-01-10",
+                "end_date": "2015-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1025,7 +1113,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2014-07-08",
+                "end_date": "2014-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1072,7 +1162,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-01-07",
+                "end_date": "2017-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1119,7 +1211,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2009-10-11",
+                "end_date": "2009-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1158,7 +1252,9 @@
                         "id": 537,
                         "name": "SANZIGEN"
                     }
-                ]
+                ],
+                "start_date": "2013-10-08",
+                "end_date": "2013-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1197,7 +1293,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2010-04-05",
+                "end_date": "2010-06-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1244,7 +1342,9 @@
                         "id": 34,
                         "name": "Hal Film Maker"
                     }
-                ]
+                ],
+                "start_date": "2005-10-06",
+                "end_date": "2005-12-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1295,7 +1395,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2019-07-08",
+                "end_date": "2019-10-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1354,7 +1456,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2015-04-05",
+                "end_date": "2015-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1401,7 +1505,9 @@
                         "id": 35,
                         "name": "Seven Arcs"
                     }
-                ]
+                ],
+                "start_date": "2020-04-04",
+                "end_date": "2020-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1432,7 +1538,9 @@
                         "id": 1264,
                         "name": "EMT Squared"
                     }
-                ]
+                ],
+                "start_date": "2019-10-10",
+                "end_date": "2019-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1473,7 +1581,8 @@
                         "name": "Shounen"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2023"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1516,7 +1625,9 @@
                         "id": 1722,
                         "name": "Bibury Animation Studios"
                     }
-                ]
+                ],
+                "start_date": "2019-10-03",
+                "end_date": "2020-03-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1555,7 +1666,9 @@
                         "id": 1692,
                         "name": "Revoroot"
                     }
-                ]
+                ],
+                "start_date": "2019-10-07",
+                "end_date": "2020-01-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1606,7 +1719,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2007-07-27",
+                "end_date": "2007-11-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1657,7 +1772,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2018-07-04",
+                "end_date": "2018-09-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1700,7 +1817,9 @@
                         "id": 555,
                         "name": "Studio Chizu"
                     }
-                ]
+                ],
+                "start_date": "2015-07-11",
+                "end_date": "2015-07-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1735,7 +1854,9 @@
                         "id": 1353,
                         "name": "Issen"
                     }
-                ]
+                ],
+                "start_date": "2017-01-21",
+                "end_date": "2017-04-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1778,7 +1899,9 @@
                         "id": 290,
                         "name": "Kinema Citrus"
                     }
-                ]
+                ],
+                "start_date": "2014-07-06",
+                "end_date": "2014-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1829,7 +1952,9 @@
                         "id": 1109,
                         "name": "Orange"
                     }
-                ]
+                ],
+                "start_date": "2019-10-10",
+                "end_date": "2019-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1872,7 +1997,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2018-01-13",
+                "end_date": "2018-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1931,7 +2058,9 @@
                         "id": 1129,
                         "name": "Pierrot Plus"
                     }
-                ]
+                ],
+                "start_date": "2011-01-09",
+                "end_date": "2012-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -1978,7 +2107,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2018-10-11",
+                "end_date": "2018-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2021,7 +2152,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2012-07-05",
+                "end_date": "2012-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2060,7 +2193,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2021-04-11",
+                "end_date": "2021-06-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2091,7 +2226,9 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2019-10-05",
+                "end_date": "2019-10-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2134,7 +2271,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2006-04-09",
+                "end_date": "2006-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2185,7 +2324,9 @@
                         "id": 1023,
                         "name": "Polygon Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-05-20",
+                "end_date": "2017-05-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2220,7 +2361,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-10-08",
+                "end_date": "2017-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2267,7 +2410,9 @@
                         "id": 35,
                         "name": "Seven Arcs"
                     }
-                ]
+                ],
+                "start_date": "2021-10-02",
+                "end_date": "2021-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2301,7 +2446,9 @@
                         "id": 94,
                         "name": "Telecom Animation Film"
                     }
-                ]
+                ],
+                "start_date": "2022-03-04",
+                "end_date": "2022-03-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2344,7 +2491,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2020-04-09",
+                "end_date": "2020-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2387,7 +2536,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-01-08",
+                "end_date": "2016-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2395,6 +2546,42 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2018-07-01T21:17:00+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 49834,
+                "title": "Boku ga Aishita Subete no Kimi e",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1149/123760.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1149/123760l.jpg"
+                },
+                "media_type": "movie",
+                "genres": [
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1984,
+                        "name": "Bakken Record"
+                    }
+                ],
+                "start_date": "2022-10-07",
+                "end_date": "2022-10-07"
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-02T21:21:40+00:00"
             }
         },
         {
@@ -2425,7 +2612,8 @@
                         "name": "Super Power"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2022-10"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2464,7 +2652,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2021-08-06",
+                "end_date": "2021-08-06"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2515,7 +2705,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2007-04-09",
+                "end_date": "2007-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2554,7 +2746,9 @@
                         "id": 30,
                         "name": "Ajia-Do"
                     }
-                ]
+                ],
+                "start_date": "2019-12-13",
+                "end_date": "2019-12-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2562,6 +2756,40 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2019-07-01T23:57:07+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 51307,
+                "title": "Bokura no Yoake",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1920/121584.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1920/121584l.jpg"
+                },
+                "media_type": "movie",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    }
+                ],
+                "studios": [],
+                "start_date": "2022"
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-02T21:19:49+00:00"
             }
         },
         {
@@ -2597,7 +2825,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2014-04-04",
+                "end_date": "2014-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2644,7 +2874,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2020-04-03",
+                "end_date": "2020-04-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2695,7 +2927,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2019-11-01",
+                "end_date": "2019-11-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2746,7 +2980,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2019-01-04",
+                "end_date": "2019-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2791,9 +3027,10 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2017-04-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2848,7 +3085,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2014-04-06",
+                "end_date": "2014-06-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2899,7 +3138,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2012-10-04",
+                "end_date": "2012-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2924,7 +3165,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2022-04-28",
+                "end_date": "2022-04-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -2971,7 +3214,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "1998-10-08",
+                "end_date": "1999-04-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3014,7 +3259,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2014-01-06",
+                "end_date": "2014-03-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3065,7 +3312,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2016-04-07",
+                "end_date": "2016-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3112,7 +3361,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2017-04-05",
+                "end_date": "2017-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3151,7 +3402,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2015-07-05",
+                "end_date": "2015-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3206,7 +3459,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2011-10-05",
+                "end_date": "2012-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3241,7 +3496,9 @@
                         "id": 2157,
                         "name": "Production +h."
                     }
-                ]
+                ],
+                "start_date": "2022-01-28",
+                "end_date": "2022-01-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3292,7 +3549,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2002-04-03",
+                "end_date": "2002-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3339,7 +3598,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2009-01-11",
+                "end_date": "2009-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3382,7 +3643,9 @@
                         "id": 1892,
                         "name": "Sublimation"
                     }
-                ]
+                ],
+                "start_date": "2021-07-22",
+                "end_date": "2021-07-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3425,7 +3688,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2019-01-08",
+                "end_date": "2019-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3468,7 +3733,9 @@
                         "id": 911,
                         "name": "Passione"
                     }
-                ]
+                ],
+                "start_date": "2018-01-06",
+                "end_date": "2018-03-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3511,7 +3778,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2015-07-04",
+                "end_date": "2015-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3546,7 +3815,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2017-04-07",
+                "end_date": "2017-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3597,7 +3868,9 @@
                         "id": 290,
                         "name": "Kinema Citrus"
                     }
-                ]
+                ],
+                "start_date": "2012-10-07",
+                "end_date": "2012-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3640,7 +3913,9 @@
                         "id": 473,
                         "name": "Ascension"
                     }
-                ]
+                ],
+                "start_date": "2010-08-21",
+                "end_date": "2010-08-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3687,7 +3962,9 @@
                         "id": 1237,
                         "name": "Millepensee"
                     }
-                ]
+                ],
+                "start_date": "2019-07-09",
+                "end_date": "2019-10-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3726,7 +4003,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2014-10-05",
+                "end_date": "2015-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3777,7 +4056,9 @@
                         "id": 118,
                         "name": "SynergySP"
                     }
-                ]
+                ],
+                "start_date": "2009-04-05",
+                "end_date": "2010-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3828,7 +4109,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2013-01-04",
+                "end_date": "2013-03-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3843,8 +4126,8 @@
                 "id": 42310,
                 "title": "Cyberpunk: Edgerunners",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1562/108236.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1562/108236l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1656/124329.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1656/124329l.jpg"
                 },
                 "media_type": "ona",
                 "genres": [
@@ -3858,7 +4141,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2022-09",
+                "end_date": "2022-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3901,7 +4186,9 @@
                         "id": 200,
                         "name": "Tezuka Productions"
                     }
-                ]
+                ],
+                "start_date": "2018-01-12",
+                "end_date": "2018-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -3952,7 +4239,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2010-01-07",
+                "end_date": "2010-04-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4007,7 +4296,9 @@
                         "id": 852,
                         "name": "Nexus"
                     }
-                ]
+                ],
+                "start_date": "2020-01-04",
+                "end_date": "2020-03-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4046,7 +4337,9 @@
                         "id": 1857,
                         "name": "GEEK TOYS"
                     }
-                ]
+                ],
+                "start_date": "2020-08-14",
+                "end_date": "2020-08-14"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4081,7 +4374,9 @@
                         "id": 1857,
                         "name": "GEEK TOYS"
                     }
-                ]
+                ],
+                "start_date": "2020-11-13",
+                "end_date": "2020-11-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4132,7 +4427,9 @@
                         "id": 1857,
                         "name": "GEEK TOYS"
                     }
-                ]
+                ],
+                "start_date": "2022-04-08",
+                "end_date": "2022-06-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4183,7 +4480,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2018-01-11",
+                "end_date": "2018-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4222,7 +4521,9 @@
                         "id": 1567,
                         "name": "Nut"
                     }
-                ]
+                ],
+                "start_date": "2020-07-08",
+                "end_date": "2020-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4269,7 +4570,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4320,7 +4623,9 @@
                         "id": 1591,
                         "name": "Science SARU"
                     }
-                ]
+                ],
+                "start_date": "2018-01-05",
+                "end_date": "2018-01-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4363,7 +4668,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2017-02-25",
+                "end_date": "2017-02-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4410,7 +4717,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2020-04-05",
+                "end_date": "2021-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4453,7 +4762,9 @@
                         "id": 96,
                         "name": "Yumeta Company"
                     }
-                ]
+                ],
+                "start_date": "2020-02-21",
+                "end_date": "2020-02-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4496,7 +4807,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "1985-07-15",
+                "end_date": "1985-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4543,7 +4856,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-07-13",
+                "end_date": "2019-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4590,7 +4905,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-02-15",
+                "end_date": "2019-02-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4629,7 +4946,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2010-01-08",
+                "end_date": "2010-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4644,8 +4963,8 @@
                 "id": 51417,
                 "title": "Engage Kiss",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1354/123263.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1354/123263l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1593/124270.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1593/124270l.jpg"
                 },
                 "media_type": "tv",
                 "genres": [
@@ -4663,7 +4982,8 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2022-07-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4702,7 +5022,9 @@
                         "id": 999,
                         "name": "Studio Animal"
                     }
-                ]
+                ],
+                "start_date": "2019-11-25",
+                "end_date": "2019-12-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4741,7 +5063,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2006-02-25",
+                "end_date": "2006-08-12"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4776,7 +5100,9 @@
                         "id": 84,
                         "name": "Studio Rikka"
                     }
-                ]
+                ],
+                "start_date": "2010-03-06",
+                "end_date": "2010-03-06"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4819,7 +5145,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-10-05",
+                "end_date": "2020-03-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4862,7 +5190,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2013-07-13",
+                "end_date": "2013-09-14"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4901,7 +5231,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2020-08-15",
+                "end_date": "2020-08-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4960,7 +5292,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2000-04-26",
+                "end_date": "2001-03-16"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -4999,7 +5333,9 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2016-10-06",
+                "end_date": "2016-12-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5046,7 +5382,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2016-04-10",
+                "end_date": "2016-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5092,8 +5430,14 @@
                     {
                         "id": 1890,
                         "name": "Tear Studio"
+                    },
+                    {
+                        "id": 2455,
+                        "name": "East Fish Studio"
                     }
-                ]
+                ],
+                "start_date": "2019-11-22",
+                "end_date": "2019-11-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5140,7 +5484,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2017-11-25",
+                "end_date": "2017-11-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5183,7 +5529,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2021-04-12",
+                "end_date": "2021-08-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5230,7 +5578,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2015-07-02",
+                "end_date": "2015-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5265,7 +5615,9 @@
                         "id": 103,
                         "name": "Tatsunoko Production"
                     }
-                ]
+                ],
+                "start_date": "2013-07-13",
+                "end_date": "2013-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5316,7 +5668,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2021-07-04",
+                "end_date": "2021-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5359,7 +5713,9 @@
                         "id": 455,
                         "name": "Palm Studio"
                     }
-                ]
+                ],
+                "start_date": "2004-10-11",
+                "end_date": "2004-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5402,7 +5758,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2013-07-12",
+                "end_date": "2013-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5453,7 +5811,9 @@
                         "id": 2256,
                         "name": "Kitty Film Mitaka Studio"
                     }
-                ]
+                ],
+                "start_date": "1988-01-08",
+                "end_date": "1997-03-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5496,7 +5856,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2018-10-07",
+                "end_date": "2018-12-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5539,7 +5901,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2015-07-12",
+                "end_date": "2016-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5586,7 +5950,9 @@
                         "id": 77,
                         "name": "APPP"
                     }
-                ]
+                ],
+                "start_date": "1995-10-27",
+                "end_date": "1996-06-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5621,7 +5987,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2018-07-14",
+                "end_date": "2018-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5668,7 +6036,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2014-10-05",
+                "end_date": "2014-12-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5703,7 +6073,9 @@
                         "id": 1722,
                         "name": "Bibury Animation Studios"
                     }
-                ]
+                ],
+                "start_date": "2019-03-15",
+                "end_date": "2019-03-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5758,7 +6130,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2005-04-15",
+                "end_date": "2005-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5805,7 +6179,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2012-07-06",
+                "end_date": "2012-09-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5852,7 +6228,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-01-11",
+                "end_date": "2016-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5891,7 +6269,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2012-04-10",
+                "end_date": "2012-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5938,7 +6318,9 @@
                         "id": 951,
                         "name": "NAZ"
                     }
-                ]
+                ],
+                "start_date": "2017-07-12",
+                "end_date": "2017-09-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -5989,7 +6371,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2022-01-05",
+                "end_date": "2022-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6028,7 +6412,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2013-06-08",
+                "end_date": "2013-06-08"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6071,7 +6457,9 @@
                         "id": 951,
                         "name": "NAZ"
                     }
-                ]
+                ],
+                "start_date": "2014-01-08",
+                "end_date": "2014-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6106,7 +6494,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2018-07-02",
+                "end_date": "2018-10-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6145,7 +6535,9 @@
                         "id": 605,
                         "name": "C2C"
                     }
-                ]
+                ],
+                "start_date": "2018-07-06",
+                "end_date": "2018-09-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6158,10 +6550,10 @@
         {
             "node": {
                 "id": 48413,
-                "title": "Hataraku Maou-sama! 2nd Season",
+                "title": "Hataraku Maou-sama!!",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1543/120053.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1543/120053l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1502/124354.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1502/124354l.jpg"
                 },
                 "rating": "pg_13",
                 "media_type": "tv",
@@ -6192,7 +6584,8 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2022-07-14"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6239,7 +6632,9 @@
                         "id": 287,
                         "name": "David Production"
                     }
-                ]
+                ],
+                "start_date": "2018-07-08",
+                "end_date": "2018-09-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6286,7 +6681,9 @@
                         "id": 537,
                         "name": "SANZIGEN"
                     }
-                ]
+                ],
+                "start_date": "2015-10-03",
+                "end_date": "2016-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6325,7 +6722,9 @@
                         "id": 894,
                         "name": "Graphinica"
                     }
-                ]
+                ],
+                "start_date": "2019-09-20",
+                "end_date": "2019-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6372,7 +6771,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2013-04-13",
+                "end_date": "2013-06-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6407,7 +6808,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2022-04-07",
+                "end_date": "2022-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6450,7 +6853,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2015-04-08",
+                "end_date": "2015-07-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6493,7 +6898,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2009-04-10",
+                "end_date": "2009-06-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6548,7 +6955,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6599,7 +7008,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2018-07-14",
+                "end_date": "2018-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6646,7 +7057,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2014-04-10",
+                "end_date": "2014-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6696,7 +7109,8 @@
                         "id": 951,
                         "name": "NAZ"
                     }
-                ]
+                ],
+                "start_date": "2022-07-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6735,7 +7149,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2011-05-07",
+                "end_date": "2011-05-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6774,7 +7190,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2019-10-11",
+                "end_date": "2019-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6821,7 +7239,9 @@
                         "id": 1306,
                         "name": "AIC Classic"
                     }
-                ]
+                ],
+                "start_date": "2011-01-14",
+                "end_date": "2011-04-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6872,7 +7292,9 @@
                         "id": 1109,
                         "name": "Orange"
                     }
-                ]
+                ],
+                "start_date": "2017-10-07",
+                "end_date": "2017-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6915,7 +7337,9 @@
                         "id": 1023,
                         "name": "Polygon Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-10-22",
+                "end_date": "2019-10-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -6958,7 +7382,9 @@
                         "id": 951,
                         "name": "NAZ"
                     }
-                ]
+                ],
+                "start_date": "2020-01-06",
+                "end_date": "2020-03-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7001,7 +7427,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2003-07-30",
+                "end_date": "2003-10-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7036,7 +7464,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2017-10-08",
+                "end_date": "2017-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7071,7 +7501,9 @@
                         "id": 951,
                         "name": "NAZ"
                     }
-                ]
+                ],
+                "start_date": "2020-01-09",
+                "end_date": "2020-04-16"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7106,7 +7538,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2013-07-02",
+                "end_date": "2013-09-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7157,7 +7591,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2017-10-13",
+                "end_date": "2017-12-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7208,7 +7644,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2018-10-06",
+                "end_date": "2018-12-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7255,7 +7693,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2018-04-13",
+                "end_date": "2018-09-14"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7306,7 +7746,9 @@
                         "id": 2037,
                         "name": "Okuruto Noboru"
                     }
-                ]
+                ],
+                "start_date": "2021-04-09",
+                "end_date": "2021-06-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7369,7 +7811,9 @@
                         "id": 89,
                         "name": "BeSTACK"
                     }
-                ]
+                ],
+                "start_date": "2009-05-22",
+                "end_date": "2010-05-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7412,7 +7856,9 @@
                         "id": 911,
                         "name": "Passione"
                     }
-                ]
+                ],
+                "start_date": "2020-01-11",
+                "end_date": "2020-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7463,7 +7909,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2020-01-08",
+                "end_date": "2020-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7510,7 +7958,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2017-11-25",
+                "end_date": "2017-12-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7549,7 +7999,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2021-08-01",
+                "end_date": "2021-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7637,12 +8089,10 @@
                     {
                         "id": 73,
                         "name": "TMS Entertainment"
-                    },
-                    {
-                        "id": 1079,
-                        "name": "3xCube"
                     }
-                ]
+                ],
+                "start_date": "2015-07-07",
+                "end_date": "2015-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7685,7 +8135,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2020-12-25",
+                "end_date": "2020-12-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7732,7 +8184,9 @@
                         "id": 1295,
                         "name": "Pine Jam"
                     }
-                ]
+                ],
+                "start_date": "2017-10-05",
+                "end_date": "2017-12-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7771,7 +8225,9 @@
                         "id": 894,
                         "name": "Graphinica"
                     }
-                ]
+                ],
+                "start_date": "2017-10-03",
+                "end_date": "2017-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7814,7 +8270,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2015-01-09",
+                "end_date": "2015-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7861,7 +8319,9 @@
                         "id": 1851,
                         "name": "Jumonji"
                     }
-                ]
+                ],
+                "start_date": "2016-11-04",
+                "end_date": "2016-11-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7896,7 +8356,9 @@
                         "id": 21,
                         "name": "Studio Ghibli"
                     }
-                ]
+                ],
+                "start_date": "2013-11-23",
+                "end_date": "2013-11-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7947,7 +8409,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2022-04-09",
+                "end_date": "2022-07-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -7994,7 +8458,8 @@
                         "id": 247,
                         "name": "Shin-Ei Animation"
                     }
-                ]
+                ],
+                "start_date": "2022-04-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8037,7 +8502,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2013-04-12",
+                "end_date": "2013-06-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8088,7 +8555,9 @@
                         "id": 30,
                         "name": "Ajia-Do"
                     }
-                ]
+                ],
+                "start_date": "2020-04-02",
+                "end_date": "2020-06-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8139,7 +8608,9 @@
                         "id": 131,
                         "name": "G&G Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2003-04-03",
+                "end_date": "2004-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8186,7 +8657,9 @@
                         "id": 94,
                         "name": "Telecom Animation Film"
                     }
-                ]
+                ],
+                "start_date": "2020-04-02",
+                "end_date": "2020-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8221,7 +8694,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2020-10-11",
+                "end_date": "2020-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8263,7 +8738,8 @@
                         "name": "Slice of Life"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2022-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8306,7 +8782,8 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2022-07-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8349,7 +8826,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2007-12-01",
+                "end_date": "2007-12-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8396,7 +8875,9 @@
                         "id": 247,
                         "name": "Shin-Ei Animation"
                     }
-                ]
+                ],
+                "start_date": "2019-07-07",
+                "end_date": "2019-09-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8451,7 +8932,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "1998-10-02",
+                "end_date": "1999-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8498,7 +8981,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2010-01-26",
+                "end_date": "2010-12-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8537,7 +9022,8 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2022-04-10"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8592,7 +9078,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2015-04-05",
+                "end_date": "2015-10-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8643,7 +9131,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2019-04-10",
+                "end_date": "2019-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8683,14 +9173,12 @@
                 ],
                 "studios": [
                     {
-                        "id": 10,
-                        "name": "Production I.G"
-                    },
-                    {
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "1988-04-25",
+                "end_date": "1989-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8733,7 +9221,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "1989-10-11",
+                "end_date": "1990-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8780,7 +9270,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2018-01-13",
+                "end_date": "2018-03-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8833,9 +9325,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "1987-04-06",
+                "end_date": "1988-03-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8878,7 +9372,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2019-04-06",
+                "end_date": "2019-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8921,7 +9417,9 @@
                         "id": 24,
                         "name": "Studio Fantasia"
                     }
-                ]
+                ],
+                "start_date": "2003-10-05",
+                "end_date": "2004-01-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8952,7 +9450,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2017-08-25",
+                "end_date": "2017-08-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -8995,7 +9495,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2020-10-07",
+                "end_date": "2020-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9034,7 +9536,9 @@
                         "id": 1591,
                         "name": "Science SARU"
                     }
-                ]
+                ],
+                "start_date": "2019-06-21",
+                "end_date": "2019-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9042,6 +9546,42 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2019-08-07T23:27:59+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 49835,
+                "title": "Kimi wo Aishita Hitori no Boku e",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1706/123761.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1706/123761l.jpg"
+                },
+                "media_type": "movie",
+                "genres": [
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 73,
+                        "name": "TMS Entertainment"
+                    }
+                ],
+                "start_date": "2022-10-07",
+                "end_date": "2022-10-07"
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-02T21:21:35+00:00"
             }
         },
         {
@@ -9073,7 +9613,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2017-10-06",
+                "end_date": "2017-12-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9124,7 +9666,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2014-10-09",
+                "end_date": "2015-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9163,7 +9707,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2016-04-09",
+                "end_date": "2016-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9202,7 +9748,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-09-17",
+                "end_date": "2016-09-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9241,7 +9789,9 @@
                         "id": 436,
                         "name": "AIC Build"
                     }
-                ]
+                ],
+                "start_date": "2012-07-06",
+                "end_date": "2012-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9284,7 +9834,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2017-07-04",
+                "end_date": "2017-09-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9331,7 +9883,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2018-01-12",
+                "end_date": "2018-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9370,7 +9924,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2022-04-08",
+                "end_date": "2022-06-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9401,7 +9957,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2013-04-28",
+                "end_date": "2013-04-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9444,7 +10002,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-09-19",
+                "end_date": "2015-09-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9487,7 +10047,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2021-10-07",
+                "end_date": "2021-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9534,7 +10096,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2016-07-08",
+                "end_date": "2016-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9573,7 +10137,9 @@
                         "id": 755,
                         "name": "Jumondo"
                     }
-                ]
+                ],
+                "start_date": "2022-04-10",
+                "end_date": "2022-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9624,7 +10190,9 @@
                         "id": 1471,
                         "name": "Platinum Vision"
                     }
-                ]
+                ],
+                "start_date": "2019-04-07",
+                "end_date": "2019-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9637,13 +10205,13 @@
         {
             "node": {
                 "id": 49458,
-                "title": "Kono Subarashii Sekai ni Shukufuku wo! (Shinsaku Anime)",
+                "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1841/116616.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1841/116616l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1893/124134.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1893/124134l.jpg"
                 },
                 "rating": "pg_13",
-                "media_type": "unknown",
+                "media_type": "tv",
                 "genres": [
                     {
                         "id": 2,
@@ -9674,7 +10242,12 @@
                         "name": "Supernatural"
                     }
                 ],
-                "studios": []
+                "studios": [
+                    {
+                        "id": 1967,
+                        "name": "Drive"
+                    }
+                ]
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9725,7 +10298,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-08-30",
+                "end_date": "2019-08-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9768,7 +10343,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2013-05-31",
+                "end_date": "2013-05-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9807,7 +10384,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2016-01-10",
+                "end_date": "2016-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9854,7 +10433,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2017-10-08",
+                "end_date": "2017-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9897,7 +10478,9 @@
                         "id": 1264,
                         "name": "EMT Squared"
                     }
-                ]
+                ],
+                "start_date": "2016-04-03",
+                "end_date": "2016-06-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9940,7 +10523,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2004-11-20",
+                "end_date": "2004-11-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -9975,7 +10560,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2022-04-10",
+                "end_date": "2022-07-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10018,7 +10605,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2008-04-04",
+                "end_date": "2008-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10061,7 +10650,9 @@
                         "id": 2198,
                         "name": "Irawias"
                     }
-                ]
+                ],
+                "start_date": "2021-04-05",
+                "end_date": "2021-05-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10100,7 +10691,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2016-04-07",
+                "end_date": "2016-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10139,7 +10732,9 @@
                         "id": 1023,
                         "name": "Polygon Pictures"
                     }
-                ]
+                ],
+                "start_date": "2020-01-09",
+                "end_date": "2020-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10182,7 +10777,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2017-01-13",
+                "end_date": "2017-03-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10224,7 +10821,8 @@
                         "name": "Supernatural"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2023-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10263,7 +10861,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2011-10-02",
+                "end_date": "2011-12-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10306,7 +10906,9 @@
                         "id": 1974,
                         "name": "ENGI"
                     }
-                ]
+                ],
+                "start_date": "2021-04-07",
+                "end_date": "2021-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10347,13 +10949,15 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     },
                     {
                         "id": 287,
                         "name": "David Production"
                     }
-                ]
+                ],
+                "start_date": "2011-01-11",
+                "end_date": "2011-04-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10392,7 +10996,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2020-04-04",
+                "end_date": "2020-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10435,7 +11041,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2013-03-02",
+                "end_date": "2013-03-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10478,7 +11086,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2017-01-09",
+                "end_date": "2017-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10521,7 +11131,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2018-04-21",
+                "end_date": "2018-04-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10564,7 +11176,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2013-07-05",
+                "end_date": "2013-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10607,7 +11221,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2019-01-04",
+                "end_date": "2019-01-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10650,7 +11266,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2021-07-11",
+                "end_date": "2021-10-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10689,7 +11307,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2007-04-07",
+                "end_date": "2007-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10740,7 +11360,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2014-04-22",
+                "end_date": "2014-09-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10795,7 +11417,9 @@
                         "id": 103,
                         "name": "Tatsunoko Production"
                     }
-                ]
+                ],
+                "start_date": "1982-10-03",
+                "end_date": "1983-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10838,7 +11462,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2016-04-16",
+                "end_date": "2016-07-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10881,7 +11507,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2020-01-05",
+                "end_date": "2020-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10944,7 +11572,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2005-01-06",
+                "end_date": "2005-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -10979,7 +11609,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2014-01-10",
+                "end_date": "2014-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11030,7 +11662,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2016-10-02",
+                "end_date": "2016-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11107,7 +11741,9 @@
                         "id": 1129,
                         "name": "Pierrot Plus"
                     }
-                ]
+                ],
+                "start_date": "2018-04-02",
+                "end_date": "2018-06-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11158,7 +11794,9 @@
                         "id": 1669,
                         "name": "production doA"
                     }
-                ]
+                ],
+                "start_date": "2018-04-07",
+                "end_date": "2018-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11201,7 +11839,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2019-01-12",
+                "end_date": "2019-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11248,7 +11888,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2020-10-04",
+                "end_date": "2020-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11283,7 +11925,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2021-12-31",
+                "end_date": "2021-12-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11318,7 +11962,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2021-07-03",
+                "end_date": "2021-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11365,7 +12011,9 @@
                         "id": 34,
                         "name": "Hal Film Maker"
                     }
-                ]
+                ],
+                "start_date": "2008-07-03",
+                "end_date": "2008-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11404,7 +12052,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2017-10-08",
+                "end_date": "2018-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11443,7 +12093,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2016-09-10",
+                "end_date": "2017-09-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11494,7 +12146,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-02-07",
+                "end_date": "2017-01-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11574,7 +12228,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2011-10-02",
+                "end_date": "2011-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11609,7 +12265,9 @@
                         "id": 605,
                         "name": "C2C"
                     }
-                ]
+                ],
+                "start_date": "2020-10-02",
+                "end_date": "2020-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11656,7 +12314,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "1998-10-03",
+                "end_date": "1999-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11671,8 +12331,8 @@
                 "id": 9936,
                 "title": "Maken-Ki!",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/2/75234.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/2/75234l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1215/123362.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1215/123362l.jpg"
                 },
                 "rating": "r+",
                 "media_type": "tv",
@@ -11707,7 +12367,9 @@
                         "id": 83,
                         "name": "AIC Spirits"
                     }
-                ]
+                ],
+                "start_date": "2011-10-05",
+                "end_date": "2011-12-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11742,7 +12404,8 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2022-07-06"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11785,7 +12448,9 @@
                         "id": 1893,
                         "name": "CygamesPictures"
                     }
-                ]
+                ],
+                "start_date": "2019-01-21",
+                "end_date": "2019-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11832,7 +12497,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2014-04-08",
+                "end_date": "2014-06-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11879,7 +12546,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2009-01-04",
+                "end_date": "2009-03-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -11926,7 +12595,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2017-01-05",
+                "end_date": "2017-03-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12020,7 +12691,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2011-07-08",
+                "end_date": "2011-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12038,7 +12711,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/13/29971.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/13/29971l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r+",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -12071,7 +12744,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2011-07-08",
+                "end_date": "2011-09-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12114,7 +12789,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2021-10-01",
+                "end_date": "2021-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12191,7 +12868,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2008-10-16",
+                "end_date": "2009-03-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12234,7 +12913,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2019-04-06",
+                "end_date": "2019-06-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12277,7 +12958,9 @@
                         "id": 911,
                         "name": "Passione"
                     }
-                ]
+                ],
+                "start_date": "2021-10-03",
+                "end_date": "2021-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12316,7 +12999,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2014-01-09",
+                "end_date": "2014-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12359,7 +13044,9 @@
                         "id": 39,
                         "name": "Daume"
                     }
-                ]
+                ],
+                "start_date": "2007-10-08",
+                "end_date": "2007-12-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12402,7 +13089,9 @@
                         "id": 555,
                         "name": "Studio Chizu"
                     }
-                ]
+                ],
+                "start_date": "2018-07-20",
+                "end_date": "2018-07-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12453,7 +13142,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2008-02-04",
+                "end_date": "2008-07-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12500,7 +13191,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2015-10-04",
+                "end_date": "2016-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12543,7 +13236,9 @@
                         "id": 1165,
                         "name": "Tri-Slash"
                     }
-                ]
+                ],
+                "start_date": "2014-07-09",
+                "end_date": "2014-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12594,7 +13289,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2020-07-12",
+                "end_date": "2020-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12641,7 +13338,9 @@
                         "id": 397,
                         "name": "Bridge"
                     }
-                ]
+                ],
+                "start_date": "2020-10-04",
+                "end_date": "2020-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12680,7 +13379,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-01-07",
+                "end_date": "2016-03-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12727,7 +13428,9 @@
                         "id": 1993,
                         "name": "Studio Bind"
                     }
-                ]
+                ],
+                "start_date": "2021-10-04",
+                "end_date": "2021-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12778,7 +13481,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2007-04-05",
+                "end_date": "2007-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12825,7 +13530,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-07-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12864,7 +13571,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2013-10-03",
+                "end_date": "2014-04-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12911,7 +13620,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2020-04-04",
+                "end_date": "2020-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12956,9 +13667,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2010-07-31",
+                "end_date": "2010-07-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -12999,9 +13712,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2011-07-30",
+                "end_date": "2011-07-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13039,7 +13754,9 @@
                         "id": 1876,
                         "name": "CLAP"
                     }
-                ]
+                ],
+                "start_date": "2022-09-09",
+                "end_date": "2022-09-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13090,7 +13807,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2008-07-08",
+                "end_date": "2008-09-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13133,7 +13852,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2016-07-09",
+                "end_date": "2016-10-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13168,7 +13889,9 @@
                         "id": 1440,
                         "name": "Felix Film"
                     }
-                ]
+                ],
+                "start_date": "2020-01-09",
+                "end_date": "2020-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13203,7 +13926,9 @@
                         "id": 1440,
                         "name": "Felix Film"
                     }
-                ]
+                ],
+                "start_date": "2017-12-22",
+                "end_date": "2017-12-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13246,7 +13971,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2016-07-04",
+                "end_date": "2016-09-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13293,7 +14020,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2006-07-10",
+                "end_date": "2006-12-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13336,7 +14065,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2019-08-23",
+                "end_date": "2019-08-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13379,7 +14110,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2011-04-03",
+                "end_date": "2011-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13468,7 +14201,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2007-01-12",
+                "end_date": "2007-06-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13511,7 +14246,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2005-10-12",
+                "end_date": "2006-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13558,7 +14295,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2013-10-08",
+                "end_date": "2013-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13605,7 +14344,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2014-01-11",
+                "end_date": "2014-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13652,7 +14393,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2014-08-18",
+                "end_date": "2015-02-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13699,7 +14442,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2020-09-18",
+                "end_date": "2020-09-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13746,7 +14491,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-04-10",
+                "end_date": "2019-07-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13793,7 +14540,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2012-10-05",
+                "end_date": "2012-12-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13886,7 +14635,9 @@
                         "id": 94,
                         "name": "Telecom Animation Film"
                     }
-                ]
+                ],
+                "start_date": "2016-07-04",
+                "end_date": "2016-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -13937,7 +14688,9 @@
                         "id": 94,
                         "name": "Telecom Animation Film"
                     }
-                ]
+                ],
+                "start_date": "2016-11-18",
+                "end_date": "2016-11-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14022,7 +14775,9 @@
                         "id": 2037,
                         "name": "Okuruto Noboru"
                     }
-                ]
+                ],
+                "start_date": "2021-01-09",
+                "end_date": "2021-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14065,7 +14820,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2013-10-10",
+                "end_date": "2013-12-12"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14104,7 +14861,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2020-09-02",
+                "end_date": "2020-09-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14159,7 +14918,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2020-01-10",
+                "end_date": "2020-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14218,7 +14979,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2020-04-05",
+                "end_date": "2020-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14265,7 +15028,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2006-10-08",
+                "end_date": "2006-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14316,7 +15081,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2010-10-05",
+                "end_date": "2010-12-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14367,7 +15134,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2013-10-04",
+                "end_date": "2013-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14418,7 +15187,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2015-07-07",
+                "end_date": "2015-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14461,7 +15232,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2015-10-04",
+                "end_date": "2015-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14504,7 +15277,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2017-08-12",
+                "end_date": "2017-08-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14547,7 +15322,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2005-07-04",
+                "end_date": "2005-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14606,7 +15383,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2006-11-25",
+                "end_date": "2006-11-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14641,7 +15420,9 @@
                         "id": 1033,
                         "name": "Studio Colorido"
                     }
-                ]
+                ],
+                "start_date": "2018-08-17",
+                "end_date": "2018-08-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14692,7 +15473,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "1998-02-28",
+                "end_date": "1998-02-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14710,7 +15493,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/8/22470.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/8/22470l.jpg"
                 },
-                "rating": "r",
+                "rating": "r+",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -14739,7 +15522,9 @@
                         "id": 5,
                         "name": "Bee Train"
                     }
-                ]
+                ],
+                "start_date": "2009-04-03",
+                "end_date": "2009-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14774,7 +15559,9 @@
                         "id": 287,
                         "name": "David Production"
                     }
-                ]
+                ],
+                "start_date": "2016-07-07",
+                "end_date": "2016-08-04"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14829,7 +15616,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2003-10-04",
+                "end_date": "2004-04-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14872,7 +15661,9 @@
                         "id": 1278,
                         "name": "Signal.MD"
                     }
-                ]
+                ],
+                "start_date": "2021-10-08",
+                "end_date": "2022-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -14915,7 +15706,9 @@
                         "id": 1857,
                         "name": "GEEK TOYS"
                     }
-                ]
+                ],
+                "start_date": "2020-01-09",
+                "end_date": "2020-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15012,7 +15805,8 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2019-11-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15055,7 +15849,9 @@
                         "id": 1893,
                         "name": "CygamesPictures"
                     }
-                ]
+                ],
+                "start_date": "2022-01-11",
+                "end_date": "2022-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15098,7 +15894,9 @@
                         "id": 309,
                         "name": "GoHands"
                     }
-                ]
+                ],
+                "start_date": "2009-07-06",
+                "end_date": "2009-09-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15141,7 +15939,9 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2017-07-09",
+                "end_date": "2017-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15192,7 +15992,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2015-07-11",
+                "end_date": "2015-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15235,7 +16037,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2019-05-24",
+                "end_date": "2019-05-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15286,7 +16090,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2019-10-25",
+                "end_date": "2019-12-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15333,7 +16139,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2015-04-10",
+                "end_date": "2015-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15364,7 +16172,9 @@
                         "id": 1853,
                         "name": "Saetta"
                     }
-                ]
+                ],
+                "start_date": "2020-10-03",
+                "end_date": "2020-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15415,7 +16225,9 @@
                         "id": 852,
                         "name": "Nexus"
                     }
-                ]
+                ],
+                "start_date": "2015-10-03",
+                "end_date": "2015-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15454,7 +16266,9 @@
                         "id": 894,
                         "name": "Graphinica"
                     }
-                ]
+                ],
+                "start_date": "2014-11-15",
+                "end_date": "2014-11-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15497,7 +16311,9 @@
                         "id": 1129,
                         "name": "Pierrot Plus"
                     }
-                ]
+                ],
+                "start_date": "2015-04-03",
+                "end_date": "2015-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15540,7 +16356,9 @@
                         "id": 1103,
                         "name": "TROYCA"
                     }
-                ]
+                ],
+                "start_date": "2017-04-08",
+                "end_date": "2017-09-16"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15591,7 +16409,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2016-04-04",
+                "end_date": "2016-09-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15626,7 +16446,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2018-10-07",
+                "end_date": "2018-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15677,7 +16499,9 @@
                         "id": 1264,
                         "name": "EMT Squared"
                     }
-                ]
+                ],
+                "start_date": "2017-04-07",
+                "end_date": "2017-06-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15720,7 +16544,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2012-01-08",
+                "end_date": "2012-03-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15767,7 +16593,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2012-10-12",
+                "end_date": "2013-03-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15810,7 +16638,9 @@
                         "id": 911,
                         "name": "Passione"
                     }
-                ]
+                ],
+                "start_date": "2015-07-05",
+                "end_date": "2015-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15849,7 +16679,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2017-04-04",
+                "end_date": "2017-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15892,7 +16724,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2015-01-11",
+                "end_date": "2015-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15943,7 +16777,9 @@
                         "id": 1864,
                         "name": "Ezόla"
                     }
-                ]
+                ],
+                "start_date": "2020-01-11",
+                "end_date": "2020-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -15982,7 +16818,9 @@
                         "id": 555,
                         "name": "Studio Chizu"
                     }
-                ]
+                ],
+                "start_date": "2021-07-16",
+                "end_date": "2021-07-16"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16025,7 +16863,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-04-11",
+                "end_date": "2014-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16084,7 +16924,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2016-01-11",
+                "end_date": "2016-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16135,7 +16977,9 @@
                         "id": 1444,
                         "name": "Egg Firm"
                     }
-                ]
+                ],
+                "start_date": "2016-07-04",
+                "end_date": "2016-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16143,6 +16987,49 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2020-01-13T21:52:09+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 51837,
+                "title": "Saikin Yatotta Maid ga Ayashii",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1022/123845.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1022/123845l.jpg"
+                },
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Romantic Subtext"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 300,
+                        "name": "SILVER LINK."
+                    },
+                    {
+                        "id": 1547,
+                        "name": "Blade"
+                    }
+                ],
+                "start_date": "2022-07"
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-02T21:25:17+00:00"
             }
         },
         {
@@ -16190,7 +17077,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2012-04-13",
+                "end_date": "2012-06-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16237,7 +17126,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2000-04-08",
+                "end_date": "2000-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16284,7 +17175,9 @@
                         "id": 287,
                         "name": "David Production"
                     }
-                ]
+                ],
+                "start_date": "2017-04-05",
+                "end_date": "2017-09-13"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16323,7 +17216,9 @@
                         "id": 1103,
                         "name": "TROYCA"
                     }
-                ]
+                ],
+                "start_date": "2015-10-08",
+                "end_date": "2015-12-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16374,7 +17269,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2004-05-20",
+                "end_date": "2005-03-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16417,7 +17314,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2013-10-11",
+                "end_date": "2014-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16468,7 +17367,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2012-04-06",
+                "end_date": "2012-06-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16515,7 +17416,9 @@
                         "id": 1828,
                         "name": "Lapin Track"
                     }
-                ]
+                ],
+                "start_date": "2019-04-12",
+                "end_date": "2019-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16554,7 +17457,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2013-01-11",
+                "end_date": "2013-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16601,7 +17506,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2007-07-08",
+                "end_date": "2007-09-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16648,7 +17555,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "1998-01-09",
+                "end_date": "1998-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16695,7 +17604,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "1999-01-03",
+                "end_date": "1999-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16746,7 +17657,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2015-01-12",
+                "end_date": "2015-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16797,7 +17710,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2010-07-06",
+                "end_date": "2010-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16844,7 +17759,9 @@
                         "id": 346,
                         "name": "Hoods Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2010-01-10",
+                "end_date": "2010-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16903,7 +17820,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2014-07-14",
+                "end_date": "2014-09-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16946,7 +17865,9 @@
                         "id": 1299,
                         "name": "AXsiZ"
                     }
-                ]
+                ],
+                "start_date": "2017-01-06",
+                "end_date": "2017-03-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -16989,7 +17910,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-06-15",
+                "end_date": "2019-06-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17032,7 +17955,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2009-10-03",
+                "end_date": "2009-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17075,7 +18000,9 @@
                         "id": 309,
                         "name": "GoHands"
                     }
-                ]
+                ],
+                "start_date": "2010-07-04",
+                "end_date": "2010-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17122,7 +18049,9 @@
                         "id": 35,
                         "name": "Seven Arcs"
                     }
-                ]
+                ],
+                "start_date": "2008-07-02",
+                "end_date": "2008-09-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17161,7 +18090,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2014-04-04",
+                "end_date": "2014-06-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17200,7 +18131,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2009-04-05",
+                "end_date": "2009-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17247,7 +18180,9 @@
                         "id": 354,
                         "name": "Encourage Films"
                     }
-                ]
+                ],
+                "start_date": "2012-01-06",
+                "end_date": "2012-03-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17294,7 +18229,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2021-10-10",
+                "end_date": "2021-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17337,7 +18274,9 @@
                         "id": 8,
                         "name": "Artland"
                     }
-                ]
+                ],
+                "start_date": "2013-01-06",
+                "end_date": "2013-03-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17388,7 +18327,9 @@
                         "id": 110,
                         "name": "Triangle Staff"
                     }
-                ]
+                ],
+                "start_date": "1998-07-06",
+                "end_date": "1998-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17443,7 +18384,9 @@
                         "id": 1471,
                         "name": "Platinum Vision"
                     }
-                ]
+                ],
+                "start_date": "2016-07-05",
+                "end_date": "2016-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17498,7 +18441,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "2007-04-02",
+                "end_date": "2007-10-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17537,7 +18482,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2019-04-10",
+                "end_date": "2019-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17592,7 +18539,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2005-10-06",
+                "end_date": "2006-03-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17631,7 +18580,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2009-04-06",
+                "end_date": "2009-09-14"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17682,7 +18633,9 @@
                         "id": 39,
                         "name": "Daume"
                     }
-                ]
+                ],
+                "start_date": "2010-07-09",
+                "end_date": "2010-12-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17721,7 +18674,9 @@
                         "id": 1892,
                         "name": "Sublimation"
                     }
-                ]
+                ],
+                "start_date": "2021-10-10",
+                "end_date": "2021-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17739,7 +18694,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/1715/103419.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/1715/103419l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -17768,7 +18723,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2019-10-02",
+                "end_date": "2019-12-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17819,7 +18776,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2018-07-23",
+                "end_date": "2018-10-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17854,7 +18813,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2017-12-08",
+                "end_date": "2018-08-09"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17897,7 +18858,8 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2023"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17948,7 +18910,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2018-03-28",
+                "end_date": "2018-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -17956,6 +18920,31 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2018-02-13T23:40:04+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 51098,
+                "title": "Shinobi no Ittoki",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1276/123977.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1276/123977l.jpg"
+                },
+                "media_type": "tv",
+                "studios": [
+                    {
+                        "id": 1103,
+                        "name": "TROYCA"
+                    }
+                ],
+                "start_date": "2022-10"
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-02T21:20:22+00:00"
             }
         },
         {
@@ -17999,7 +18988,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2012-09-29",
+                "end_date": "2013-03-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18052,9 +19043,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2012-04-05",
+                "end_date": "2013-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18097,7 +19090,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2016-07-02",
+                "end_date": "2016-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18140,7 +19135,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2017-10-04",
+                "end_date": "2017-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18183,7 +19180,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2018-04-09",
+                "end_date": "2018-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18230,7 +19229,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2016-01-09",
+                "end_date": "2016-04-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18289,7 +19290,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2005-07-08",
+                "end_date": "2006-01-06"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18336,7 +19339,9 @@
                         "id": 605,
                         "name": "C2C"
                     }
-                ]
+                ],
+                "start_date": "2017-04-11",
+                "end_date": "2017-06-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18387,7 +19392,9 @@
                         "id": 1299,
                         "name": "AXsiZ"
                     }
-                ]
+                ],
+                "start_date": "2021-10-08",
+                "end_date": "2022-03-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18395,6 +19402,40 @@
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
                 "updated_at": "2020-05-21T02:49:23+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 50416,
+                "title": "Skip to Loafer",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1533/119557.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1533/119557l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "tv",
+                "genres": [
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": []
+            },
+            "list_status": {
+                "status": "plan_to_watch",
+                "score": 0,
+                "num_episodes_watched": 0,
+                "is_rewatching": false,
+                "updated_at": "2022-06-14T16:19:09+00:00"
             }
         },
         {
@@ -18434,7 +19475,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2022-01-09",
+                "end_date": "2022-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18481,7 +19524,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-10-11",
+                "end_date": "2019-10-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18528,7 +19573,9 @@
                         "id": 126,
                         "name": "Studio Comet"
                     }
-                ]
+                ],
+                "start_date": "2009-07-07",
+                "end_date": "2009-09-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18567,7 +19614,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2018-01-02",
+                "end_date": "2018-03-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18614,7 +19663,8 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2022-07-08"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18655,9 +19705,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2014-04-06",
+                "end_date": "2014-06-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18708,7 +19760,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2005-12-30",
+                "end_date": "2005-12-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18753,9 +19807,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2016-04-06",
+                "end_date": "2017-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18802,7 +19858,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2022-04-09",
+                "end_date": "2022-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18841,14 +19899,16 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2021-04-02",
+                "end_date": "2021-06-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
                 "score": 0,
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
-                "updated_at": "2020-04-19T21:51:57+00:00"
+                "updated_at": "2022-05-27T09:41:57+00:00"
             }
         },
         {
@@ -18884,7 +19944,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2018-04-12",
+                "end_date": "2018-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18923,7 +19985,9 @@
                         "id": 1380,
                         "name": "domerica"
                     }
-                ]
+                ],
+                "start_date": "2021-04-10",
+                "end_date": "2021-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18966,7 +20030,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2013-04-07",
+                "end_date": "2013-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -18997,7 +20063,9 @@
                         "id": 2067,
                         "name": "Flat Studio"
                     }
-                ]
+                ],
+                "start_date": "2021-11-12",
+                "end_date": "2021-11-12"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19040,7 +20108,8 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2022-04-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19075,7 +20144,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2018-07-05",
+                "end_date": "2018-09-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19105,7 +20176,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2022-11-11",
+                "end_date": "2022-11-11"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19144,7 +20217,9 @@
                         "id": 1127,
                         "name": "Studio 3Hz"
                     }
-                ]
+                ],
+                "start_date": "2018-04-08",
+                "end_date": "2018-07-01"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19186,7 +20261,9 @@
                         "name": "Video Game"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2022-10",
+                "end_date": "2022-10"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19233,7 +20310,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "1994-09-24",
+                "end_date": "1995-11-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19248,8 +20327,8 @@
                 "id": 16417,
                 "title": "Tamako Market",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/79594.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/6/79594l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1669/122434.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1669/122434l.jpg"
                 },
                 "rating": "pg_13",
                 "media_type": "tv",
@@ -19268,7 +20347,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2013-01-10",
+                "end_date": "2013-03-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19307,7 +20388,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2016-04-09",
+                "end_date": "2016-06-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19354,7 +20437,9 @@
                         "id": 290,
                         "name": "Kinema Citrus"
                     }
-                ]
+                ],
+                "start_date": "2019-01-09",
+                "end_date": "2019-06-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19405,7 +20490,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "1995-04-02",
+                "end_date": "1995-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19460,7 +20547,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2004-04-02",
+                "end_date": "2004-09-17"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19507,7 +20596,8 @@
                         "id": 463,
                         "name": "M.S.C"
                     }
-                ]
+                ],
+                "start_date": "2018-08-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19550,7 +20640,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2003-04-17",
+                "end_date": "2003-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19593,7 +20685,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2011-07-08",
+                "end_date": "2011-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19640,7 +20734,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2011-04-03",
+                "end_date": "2011-09-18"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19695,7 +20791,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2012-10-06",
+                "end_date": "2012-12-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19742,7 +20840,9 @@
                         "id": 179,
                         "name": "A.C.G.T."
                     }
-                ]
+                ],
+                "start_date": "2019-07-12",
+                "end_date": "2019-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19781,7 +20881,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2020-01-10",
+                "end_date": "2020-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19820,7 +20922,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2018-10-05",
+                "end_date": "2019-04-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19867,7 +20971,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2013-10-09",
+                "end_date": "2014-03-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19940,7 +21046,9 @@
                         "id": 35,
                         "name": "Seven Arcs"
                     }
-                ]
+                ],
+                "start_date": "2020-10-03",
+                "end_date": "2020-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -19999,7 +21107,9 @@
                         "id": 6,
                         "name": "Gainax"
                     }
-                ]
+                ],
+                "start_date": "1988-10-07",
+                "end_date": "1989-07-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20050,7 +21160,9 @@
                         "id": 1569,
                         "name": "Seven Arcs Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-03-29",
+                "end_date": "2019-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20085,7 +21197,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2017-04-07",
+                "end_date": "2017-06-30"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20124,7 +21238,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2021-10-04",
+                "end_date": "2021-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20167,7 +21283,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2014-12-31",
+                "end_date": "2014-12-31"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20206,7 +21324,9 @@
                         "id": 1978,
                         "name": "Maho Film"
                     }
-                ]
+                ],
+                "start_date": "2019-07-04",
+                "end_date": "2019-09-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20261,7 +21381,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2012-04-01",
+                "end_date": "2014-03-22"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20316,7 +21438,9 @@
                         "id": 48,
                         "name": "AIC"
                     }
-                ]
+                ],
+                "start_date": "2012-05-25",
+                "end_date": "2013-10-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20367,7 +21491,9 @@
                         "id": 478,
                         "name": "Studio Blanc"
                     }
-                ]
+                ],
+                "start_date": "2021-07-06",
+                "end_date": "2021-09-28"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20422,7 +21548,9 @@
                         "id": 346,
                         "name": "Hoods Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2019-10-05",
+                "end_date": "2019-12-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20461,7 +21589,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2018-01-11",
+                "end_date": "2018-04-05"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20508,7 +21638,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2021-04-03",
+                "end_date": "2021-06-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20555,7 +21687,9 @@
                         "id": 218,
                         "name": "Zexcs"
                     }
-                ]
+                ],
+                "start_date": "2008-04-07",
+                "end_date": "2008-09-15"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20594,7 +21728,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2013-07-09",
+                "end_date": "2013-09-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20637,7 +21773,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2014-01-05",
+                "end_date": "2014-03-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20684,7 +21822,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2014-10-05",
+                "end_date": "2016-04-03"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20727,7 +21867,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2020-07-10",
+                "end_date": "2020-09-25"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20774,7 +21916,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2020-04-05",
+                "end_date": "2020-06-21"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20817,7 +21961,8 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2022-07-08"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20832,8 +21977,8 @@
                 "id": 7785,
                 "title": "Yojouhan Shinwa Taikei",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/50457.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/10/50457l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1633/123689.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1633/123689l.jpg"
                 },
                 "rating": "r",
                 "media_type": "tv",
@@ -20864,7 +22009,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2010-04-23",
+                "end_date": "2010-07-02"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20899,7 +22046,9 @@
                         "id": 1591,
                         "name": "Science SARU"
                     }
-                ]
+                ],
+                "start_date": "2017-04-07",
+                "end_date": "2017-04-07"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20942,7 +22091,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2010-10-04",
+                "end_date": "2010-12-20"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -20981,7 +22132,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2017-07-12",
+                "end_date": "2017-09-27"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21028,7 +22181,9 @@
                         "id": 70,
                         "name": "Nomad"
                     }
-                ]
+                ],
+                "start_date": "2008-10-03",
+                "end_date": "2008-12-19"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21063,7 +22218,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2011-01-07",
+                "end_date": "2011-04-08"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21110,7 +22267,9 @@
                         "id": 418,
                         "name": "Studio Gokumi"
                     }
-                ]
+                ],
+                "start_date": "2014-10-17",
+                "end_date": "2014-12-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21149,7 +22308,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2014-07-11",
+                "end_date": "2014-09-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21200,7 +22361,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2012-10-05",
+                "end_date": "2013-03-29"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21247,7 +22410,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "1999-09-04",
+                "end_date": "2000-12-23"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21290,7 +22455,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2021-04-08",
+                "end_date": "2021-06-24"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21333,7 +22500,9 @@
                         "id": 1845,
                         "name": "Guton Animation Studio"
                     }
-                ]
+                ],
+                "start_date": "2018-10-26",
+                "end_date": "2018-10-26"
             },
             "list_status": {
                 "status": "plan_to_watch",
@@ -21368,7 +22537,9 @@
                         "id": 1304,
                         "name": "Qualia Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-04-23",
+                "end_date": "2016-04-23"
             },
             "list_status": {
                 "status": "plan_to_watch",

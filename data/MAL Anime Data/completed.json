@@ -33,7 +33,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2009-10-07",
+                "end_date": "2009-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -80,7 +82,9 @@
                         "id": 200,
                         "name": "Tezuka Productions"
                     }
-                ]
+                ],
+                "start_date": "2019-01-11",
+                "end_date": "2019-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -129,7 +133,9 @@
                         "id": 1722,
                         "name": "Bibury Animation Studios"
                     }
-                ]
+                ],
+                "start_date": "2021-01-08",
+                "end_date": "2021-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -178,7 +184,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2021-04-11",
+                "end_date": "2021-06-20"
             },
             "list_status": {
                 "status": "completed",
@@ -231,7 +239,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2015-01-04",
+                "end_date": "2015-03-22"
             },
             "list_status": {
                 "status": "completed",
@@ -280,7 +290,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2012-04-07",
+                "end_date": "2012-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -325,7 +337,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2017-07-04",
+                "end_date": "2017-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -366,7 +380,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2006-04-05",
+                "end_date": "2006-09-27"
             },
             "list_status": {
                 "status": "completed",
@@ -411,7 +427,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2015-07-07",
+                "end_date": "2015-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -460,7 +478,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2014-07-07",
+                "end_date": "2014-12-15"
             },
             "list_status": {
                 "status": "completed",
@@ -505,7 +525,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2014-10-07",
+                "end_date": "2014-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -550,7 +572,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2013-01-07",
+                "end_date": "2013-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -591,7 +615,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2010-04-03",
+                "end_date": "2010-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -632,7 +658,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2011-04-15",
+                "end_date": "2011-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -683,7 +711,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2012-01-10",
+                "end_date": "2012-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -730,7 +760,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2011-04-17",
+                "end_date": "2011-10-02"
             },
             "list_status": {
                 "status": "completed",
@@ -767,7 +799,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2011-10-26",
+                "end_date": "2011-10-26"
             },
             "list_status": {
                 "status": "completed",
@@ -816,7 +850,9 @@
                         "id": 309,
                         "name": "GoHands"
                     }
-                ]
+                ],
+                "start_date": "2012-06-23",
+                "end_date": "2012-06-23"
             },
             "list_status": {
                 "status": "completed",
@@ -873,7 +909,9 @@
                         "id": 2134,
                         "name": "CANDY BOX"
                     }
-                ]
+                ],
+                "start_date": "2021-01-12",
+                "end_date": "2021-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -918,7 +956,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2010-01-07",
+                "end_date": "2010-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -967,7 +1007,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2011-07-08",
+                "end_date": "2011-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -1008,7 +1050,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2011-02-23",
+                "end_date": "2011-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -1053,7 +1097,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2009-07-03",
+                "end_date": "2010-06-25"
             },
             "list_status": {
                 "status": "completed",
@@ -1094,7 +1140,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2007-04-05",
+                "end_date": "2008-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -1139,7 +1187,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2011-04-03",
+                "end_date": "2012-01-22"
             },
             "list_status": {
                 "status": "completed",
@@ -1156,8 +1206,8 @@
                 "id": 5337,
                 "title": "Bakugan Battle Brawlers: New Vestroia",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1339/117249.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1339/117249l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1506/124355.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1506/124355l.jpg"
                 },
                 "rating": "pg",
                 "media_type": "tv",
@@ -1184,7 +1234,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2010-03-02",
+                "end_date": "2011-03-05"
             },
             "list_status": {
                 "status": "completed",
@@ -1229,7 +1281,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1992-03-07",
+                "end_date": "1993-02-27"
             },
             "list_status": {
                 "status": "completed",
@@ -1274,7 +1328,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1993-03-06",
+                "end_date": "1994-03-12"
             },
             "list_status": {
                 "status": "completed",
@@ -1323,7 +1379,9 @@
                         "id": 1109,
                         "name": "Orange"
                     }
-                ]
+                ],
+                "start_date": "2014-04-08",
+                "end_date": "2014-07-01"
             },
             "list_status": {
                 "status": "completed",
@@ -1372,7 +1430,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2003-11-08",
+                "end_date": "2005-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -1417,7 +1477,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2016-04-03",
+                "end_date": "2016-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -1462,7 +1524,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2017-04-01",
+                "end_date": "2017-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -1507,7 +1571,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2018-04-07",
+                "end_date": "2018-09-29"
             },
             "list_status": {
                 "status": "completed",
@@ -1552,7 +1618,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2019-10-12",
+                "end_date": "2020-04-04"
             },
             "list_status": {
                 "status": "completed",
@@ -1593,7 +1661,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2018-08-03",
+                "end_date": "2018-08-03"
             },
             "list_status": {
                 "status": "completed",
@@ -1634,7 +1704,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2019-12-20",
+                "end_date": "2019-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -1679,7 +1751,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2020-08-16",
+                "end_date": "2020-08-16"
             },
             "list_status": {
                 "status": "completed",
@@ -1724,7 +1798,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2017-04-04",
+                "end_date": "2017-04-04"
             },
             "list_status": {
                 "status": "completed",
@@ -1769,7 +1845,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2017-06-02",
+                "end_date": "2017-06-02"
             },
             "list_status": {
                 "status": "completed",
@@ -1818,7 +1896,9 @@
                         "id": 436,
                         "name": "AIC Build"
                     }
-                ]
+                ],
+                "start_date": "2011-10-07",
+                "end_date": "2011-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -1863,7 +1943,9 @@
                         "id": 436,
                         "name": "AIC Build"
                     }
-                ]
+                ],
+                "start_date": "2013-01-11",
+                "end_date": "2013-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -1908,7 +1990,9 @@
                         "id": 436,
                         "name": "AIC Build"
                     }
-                ]
+                ],
+                "start_date": "2012-09-26",
+                "end_date": "2012-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -1957,7 +2041,9 @@
                         "id": 8,
                         "name": "Artland"
                     }
-                ]
+                ],
+                "start_date": "2006-07-04",
+                "end_date": "2006-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -2010,7 +2096,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2019-04-07",
+                "end_date": "2019-06-30"
             },
             "list_status": {
                 "status": "completed",
@@ -2063,7 +2151,9 @@
                         "id": 1874,
                         "name": "Arvo Animation"
                     }
-                ]
+                ],
+                "start_date": "2019-10-06",
+                "end_date": "2019-12-29"
             },
             "list_status": {
                 "status": "completed",
@@ -2103,8 +2193,14 @@
                     {
                         "id": 1033,
                         "name": "Studio Colorido"
+                    },
+                    {
+                        "id": 2456,
+                        "name": "team Yamahitsuji"
                     }
-                ]
+                ],
+                "start_date": "2020-10-02",
+                "end_date": "2020-10-02"
             },
             "list_status": {
                 "status": "completed",
@@ -2145,7 +2241,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2007-03-03",
+                "end_date": "2007-03-03"
             },
             "list_status": {
                 "status": "completed",
@@ -2190,7 +2288,9 @@
                         "id": 103,
                         "name": "Tatsunoko Production"
                     }
-                ]
+                ],
+                "start_date": "2011-04-15",
+                "end_date": "2011-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -2239,7 +2339,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2012-07-06",
+                "end_date": "2012-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -2280,7 +2382,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2011-08-14",
+                "end_date": "2011-12-31"
             },
             "list_status": {
                 "status": "completed",
@@ -2327,7 +2431,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2008-10-09",
+                "end_date": "2008-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -2368,7 +2474,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2012-10-04",
+                "end_date": "2012-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -2417,7 +2525,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2018-01-06",
+                "end_date": "2018-01-06"
             },
             "list_status": {
                 "status": "completed",
@@ -2458,7 +2568,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2014-01-09",
+                "end_date": "2014-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -2507,7 +2619,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2014-09-17",
+                "end_date": "2014-09-17"
             },
             "list_status": {
                 "status": "completed",
@@ -2548,7 +2662,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2013-06-19",
+                "end_date": "2013-06-19"
             },
             "list_status": {
                 "status": "completed",
@@ -2593,7 +2709,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2007-10-05",
+                "end_date": "2008-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -2634,7 +2752,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2008-10-03",
+                "end_date": "2009-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -2675,7 +2795,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2009-07-01",
+                "end_date": "2009-07-01"
             },
             "list_status": {
                 "status": "completed",
@@ -2716,7 +2838,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2008-07-16",
+                "end_date": "2008-07-16"
             },
             "list_status": {
                 "status": "completed",
@@ -2773,7 +2897,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2006-10-06",
+                "end_date": "2007-07-29"
             },
             "list_status": {
                 "status": "completed",
@@ -2826,7 +2952,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2008-04-06",
+                "end_date": "2008-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -2871,7 +2999,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "1998-04-03",
+                "end_date": "1999-04-24"
             },
             "list_status": {
                 "status": "completed",
@@ -2916,7 +3046,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2014-01-07",
+                "end_date": "2014-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -2953,7 +3085,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2014-09-22",
+                "end_date": "2014-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -2998,7 +3132,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2016-01-08",
+                "end_date": "2016-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -3043,7 +3179,9 @@
                         "id": 1440,
                         "name": "Felix Film"
                     }
-                ]
+                ],
+                "start_date": "2014-10-09",
+                "end_date": "2014-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -3088,7 +3226,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2012-07-06",
+                "end_date": "2012-09-25"
             },
             "list_status": {
                 "status": "completed",
@@ -3129,7 +3269,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2013-03-29",
+                "end_date": "2013-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -3182,7 +3324,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2013-07-05",
+                "end_date": "2013-09-27"
             },
             "list_status": {
                 "status": "completed",
@@ -3225,7 +3369,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2007-04-06",
+                "end_date": "2007-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -3270,7 +3416,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2009-10-09",
+                "end_date": "2009-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -3325,7 +3473,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2018-01-13",
+                "end_date": "2018-07-07"
             },
             "list_status": {
                 "status": "completed",
@@ -3378,7 +3528,9 @@
                         "id": 292,
                         "name": "AIC PLUS+"
                     }
-                ]
+                ],
+                "start_date": "2013-04-06",
+                "end_date": "2013-06-22"
             },
             "list_status": {
                 "status": "completed",
@@ -3431,7 +3583,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2014-04-12",
+                "end_date": "2014-06-14"
             },
             "list_status": {
                 "status": "completed",
@@ -3468,7 +3622,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2014-12-08",
+                "end_date": "2014-12-08"
             },
             "list_status": {
                 "status": "completed",
@@ -3521,7 +3677,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-01-11",
+                "end_date": "2019-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -3562,7 +3720,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2015-08-22",
+                "end_date": "2015-08-22"
             },
             "list_status": {
                 "status": "completed",
@@ -3611,7 +3771,9 @@
                         "id": 292,
                         "name": "AIC PLUS+"
                     }
-                ]
+                ],
+                "start_date": "2013-12-06",
+                "end_date": "2013-12-06"
             },
             "list_status": {
                 "status": "completed",
@@ -3672,7 +3834,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2011-04-17",
+                "end_date": "2011-07-03"
             },
             "list_status": {
                 "status": "completed",
@@ -3717,7 +3881,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2011-10-08",
+                "end_date": "2011-10-08"
             },
             "list_status": {
                 "status": "completed",
@@ -3766,7 +3932,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-01-08",
+                "end_date": "2017-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -3815,7 +3983,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-06-29",
+                "end_date": "2017-06-29"
             },
             "list_status": {
                 "status": "completed",
@@ -3860,7 +4030,9 @@
                         "id": 397,
                         "name": "Bridge"
                     }
-                ]
+                ],
+                "start_date": "2013-04-05",
+                "end_date": "2013-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -3913,7 +4085,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1999-03-07",
+                "end_date": "2000-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -3956,7 +4130,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2000-07-08",
+                "end_date": "2000-07-08"
             },
             "list_status": {
                 "status": "completed",
@@ -3999,7 +4175,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2015-11-21",
+                "end_date": "2015-11-21"
             },
             "list_status": {
                 "status": "completed",
@@ -4044,7 +4222,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2016-03-12",
+                "end_date": "2016-03-12"
             },
             "list_status": {
                 "status": "completed",
@@ -4089,7 +4269,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2000-03-04",
+                "end_date": "2000-03-04"
             },
             "list_status": {
                 "status": "completed",
@@ -4125,7 +4307,9 @@
                         "name": "Fantasy"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2020-10-14",
+                "end_date": "2020-12-30"
             },
             "list_status": {
                 "status": "completed",
@@ -4174,7 +4358,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2019-01-12",
+                "end_date": "2019-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -4227,7 +4413,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1986-02-26",
+                "end_date": "1989-04-12"
             },
             "list_status": {
                 "status": "completed",
@@ -4282,7 +4470,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1996-02-07",
+                "end_date": "1997-11-19"
             },
             "list_status": {
                 "status": "completed",
@@ -4337,7 +4527,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1989-04-26",
+                "end_date": "1996-01-31"
             },
             "list_status": {
                 "status": "completed",
@@ -4392,7 +4584,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2002-07-04",
+                "end_date": "2003-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -4443,7 +4637,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2007-10-04",
+                "end_date": "2008-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -4480,7 +4676,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2019-07-03",
+                "end_date": "2019-09-18"
             },
             "list_status": {
                 "status": "completed",
@@ -4529,7 +4727,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-06-27"
             },
             "list_status": {
                 "status": "completed",
@@ -4574,7 +4774,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-07-06",
+                "end_date": "2019-07-06"
             },
             "list_status": {
                 "status": "completed",
@@ -4623,7 +4825,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2016-12-07",
+                "end_date": "2016-12-07"
             },
             "list_status": {
                 "status": "completed",
@@ -4663,7 +4867,9 @@
                         "name": "Slice of Life"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2014-04-01",
+                "end_date": "2014-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -4724,7 +4930,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2004-07-25",
+                "end_date": "2004-10-17"
             },
             "list_status": {
                 "status": "completed",
@@ -4769,7 +4977,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-04-09",
+                "end_date": "2017-06-25"
             },
             "list_status": {
                 "status": "completed",
@@ -4814,7 +5024,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-01-16",
+                "end_date": "2019-01-16"
             },
             "list_status": {
                 "status": "completed",
@@ -4859,7 +5071,9 @@
                         "id": 1087,
                         "name": "Lay-duce"
                     }
-                ]
+                ],
+                "start_date": "2016-12-31",
+                "end_date": "2016-12-31"
             },
             "list_status": {
                 "status": "completed",
@@ -4900,7 +5114,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-08-04",
+                "end_date": "2019-08-04"
             },
             "list_status": {
                 "status": "completed",
@@ -4945,7 +5161,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2006-01-07",
+                "end_date": "2006-06-17"
             },
             "list_status": {
                 "status": "completed",
@@ -4984,7 +5202,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2017-10-14",
+                "end_date": "2017-10-14"
             },
             "list_status": {
                 "status": "completed",
@@ -5025,7 +5245,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2019-01-12",
+                "end_date": "2019-01-12"
             },
             "list_status": {
                 "status": "completed",
@@ -5066,7 +5288,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2014-10-12",
+                "end_date": "2014-12-28"
             },
             "list_status": {
                 "status": "completed",
@@ -5107,7 +5331,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2015-04-05",
+                "end_date": "2015-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -5148,7 +5374,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2014-10-05",
+                "end_date": "2014-10-05"
             },
             "list_status": {
                 "status": "completed",
@@ -5189,7 +5417,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2011-10-02",
+                "end_date": "2011-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -5228,7 +5458,9 @@
                         "id": 43,
                         "name": "ufotable"
                     }
-                ]
+                ],
+                "start_date": "2012-04-08",
+                "end_date": "2012-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -5267,7 +5499,9 @@
                         "id": 929,
                         "name": "Animation Do"
                     }
-                ]
+                ],
+                "start_date": "2013-07-04",
+                "end_date": "2013-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -5316,7 +5550,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2002-01-08",
+                "end_date": "2002-06-18"
             },
             "list_status": {
                 "status": "completed",
@@ -5357,7 +5593,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2018-04-13",
+                "end_date": "2018-07-18"
             },
             "list_status": {
                 "status": "completed",
@@ -5398,7 +5636,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2018-05-11",
+                "end_date": "2018-06-15"
             },
             "list_status": {
                 "status": "completed",
@@ -5439,7 +5679,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2005-07-14",
+                "end_date": "2005-10-20"
             },
             "list_status": {
                 "status": "completed",
@@ -5484,7 +5726,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2005-07-06",
+                "end_date": "2005-07-06"
             },
             "list_status": {
                 "status": "completed",
@@ -5517,7 +5761,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2006-05-26",
+                "end_date": "2006-05-26"
             },
             "list_status": {
                 "status": "completed",
@@ -5562,7 +5808,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2003-08-26",
+                "end_date": "2003-11-18"
             },
             "list_status": {
                 "status": "completed",
@@ -5615,7 +5863,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2003-10-04",
+                "end_date": "2004-10-02"
             },
             "list_status": {
                 "status": "completed",
@@ -5668,7 +5918,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2009-04-05",
+                "end_date": "2010-07-04"
             },
             "list_status": {
                 "status": "completed",
@@ -5688,7 +5940,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/1707/94039.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/1707/94039l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r",
                 "media_type": "movie",
                 "genres": [
                     {
@@ -5721,7 +5973,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2005-07-23",
+                "end_date": "2005-07-23"
             },
             "list_status": {
                 "status": "completed",
@@ -5774,7 +6028,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2011-07-02",
+                "end_date": "2011-07-02"
             },
             "list_status": {
                 "status": "completed",
@@ -5827,7 +6083,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2017-01-06",
+                "end_date": "2017-03-24"
             },
             "list_status": {
                 "status": "completed",
@@ -5876,7 +6134,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2017-01-09",
+                "end_date": "2017-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -5915,9 +6175,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2000-10-22",
+                "end_date": "2001-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -5982,7 +6244,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-10-03",
+                "end_date": "2015-12-19"
             },
             "list_status": {
                 "status": "completed",
@@ -6043,7 +6307,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-04-02",
+                "end_date": "2016-06-18"
             },
             "list_status": {
                 "status": "completed",
@@ -6092,7 +6358,9 @@
                         "id": 1295,
                         "name": "Pine Jam"
                     }
-                ]
+                ],
+                "start_date": "2017-07-13",
+                "end_date": "2017-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -6137,7 +6405,9 @@
                         "id": 2298,
                         "name": "AtelierPontdarc"
                     }
-                ]
+                ],
+                "start_date": "2021-09-20",
+                "end_date": "2021-12-06"
             },
             "list_status": {
                 "status": "completed",
@@ -6186,7 +6456,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-07-04",
+                "end_date": "2015-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -6235,7 +6507,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-01-09",
+                "end_date": "2016-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -6280,7 +6554,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2014-07-07",
+                "end_date": "2014-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -6317,7 +6593,9 @@
                         "id": 1295,
                         "name": "Pine Jam"
                     }
-                ]
+                ],
+                "start_date": "2016-10-10",
+                "end_date": "2016-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -6327,6 +6605,45 @@
                 "updated_at": "2018-07-24T02:42:41+00:00",
                 "start_date": "2016-10-18",
                 "finish_date": "2016-12-26"
+            }
+        },
+        {
+            "node": {
+                "id": 49854,
+                "title": "Getsuyoubi no Tawawa 2",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1370/117813.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1370/117813l.jpg"
+                },
+                "rating": "pg_13",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1687,
+                        "name": "Yokohama Animation Lab"
+                    }
+                ],
+                "start_date": "2021-09-20",
+                "end_date": "2021-12-06"
+            },
+            "list_status": {
+                "status": "completed",
+                "score": 6,
+                "num_episodes_watched": 12,
+                "is_rewatching": false,
+                "updated_at": "2022-06-10T21:34:41+00:00",
+                "start_date": "2022-06-08",
+                "finish_date": "2022-06-10"
             }
         },
         {
@@ -6354,7 +6671,9 @@
                         "id": 1295,
                         "name": "Pine Jam"
                     }
-                ]
+                ],
+                "start_date": "2016-12-29",
+                "end_date": "2016-12-29"
             },
             "list_status": {
                 "status": "completed",
@@ -6403,7 +6722,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2014-07-03",
+                "end_date": "2014-09-25"
             },
             "list_status": {
                 "status": "completed",
@@ -6448,7 +6769,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2014-04-06",
+                "end_date": "2014-06-29"
             },
             "list_status": {
                 "status": "completed",
@@ -6497,7 +6820,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2014-09-24",
+                "end_date": "2014-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -6542,7 +6867,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2013-10-04",
+                "end_date": "2014-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -6595,7 +6922,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2011-10-14",
+                "end_date": "2012-03-23"
             },
             "list_status": {
                 "status": "completed",
@@ -6640,7 +6969,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1958-10-22",
+                "end_date": "1958-10-22"
             },
             "list_status": {
                 "status": "completed",
@@ -6677,7 +7008,9 @@
                         "id": 318,
                         "name": "WAO World"
                     }
-                ]
+                ],
+                "start_date": "2005-07-06",
+                "end_date": "2005-07-06"
             },
             "list_status": {
                 "status": "completed",
@@ -6722,7 +7055,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2016-07-08",
+                "end_date": "2016-09-23"
             },
             "list_status": {
                 "status": "completed",
@@ -6767,7 +7102,9 @@
                         "id": 84,
                         "name": "Studio Rikka"
                     }
-                ]
+                ],
+                "start_date": "2014-03-01",
+                "end_date": "2014-03-01"
             },
             "list_status": {
                 "status": "completed",
@@ -6804,7 +7141,9 @@
                         "id": 13,
                         "name": "Studio 4°C"
                     }
-                ]
+                ],
+                "start_date": "2015-11-13",
+                "end_date": "2015-11-13"
             },
             "list_status": {
                 "status": "completed",
@@ -6853,7 +7192,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2013-04-04",
+                "end_date": "2013-06-27"
             },
             "list_status": {
                 "status": "completed",
@@ -6898,7 +7239,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2011-04-15",
+                "end_date": "2011-07-01"
             },
             "list_status": {
                 "status": "completed",
@@ -6943,7 +7286,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2011-12-21",
+                "end_date": "2011-12-21"
             },
             "list_status": {
                 "status": "completed",
@@ -6980,7 +7325,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2021-04-05",
+                "end_date": "2021-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -7033,7 +7380,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2012-01-06",
+                "end_date": "2012-03-23"
             },
             "list_status": {
                 "status": "completed",
@@ -7088,7 +7437,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2013-07-07",
+                "end_date": "2013-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -7135,7 +7486,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2012-09-06",
+                "end_date": "2013-05-31"
             },
             "list_status": {
                 "status": "completed",
@@ -7190,7 +7543,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2010-07-05",
+                "end_date": "2010-09-20"
             },
             "list_status": {
                 "status": "completed",
@@ -7237,7 +7592,9 @@
                         "id": 406,
                         "name": "Asahi Production"
                     }
-                ]
+                ],
+                "start_date": "2014-07-07",
+                "end_date": "2014-09-29"
             },
             "list_status": {
                 "status": "completed",
@@ -7286,7 +7643,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2018-04-06",
+                "end_date": "2018-06-22"
             },
             "list_status": {
                 "status": "completed",
@@ -7327,7 +7686,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2021-01-10",
+                "end_date": "2021-04-04"
             },
             "list_status": {
                 "status": "completed",
@@ -7384,7 +7745,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2016-04-05",
+                "end_date": "2016-06-21"
             },
             "list_status": {
                 "status": "completed",
@@ -7425,7 +7788,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2012-04-23",
+                "end_date": "2012-09-17"
             },
             "list_status": {
                 "status": "completed",
@@ -7466,7 +7831,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2012-07-08",
+                "end_date": "2012-07-08"
             },
             "list_status": {
                 "status": "completed",
@@ -7515,7 +7882,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2005-10-06",
+                "end_date": "2006-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -7560,7 +7929,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2006-05-20",
+                "end_date": "2006-08-26"
             },
             "list_status": {
                 "status": "completed",
@@ -7605,7 +7976,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2014-10-07",
+                "end_date": "2014-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -7658,7 +8031,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2011-01-07",
+                "end_date": "2011-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -7711,7 +8086,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2013-10-04",
+                "end_date": "2013-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -7760,7 +8137,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2013-10-30",
+                "end_date": "2013-10-30"
             },
             "list_status": {
                 "status": "completed",
@@ -7801,7 +8180,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2016-06-30",
+                "end_date": "2016-06-30"
             },
             "list_status": {
                 "status": "completed",
@@ -7854,7 +8235,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2014-11-26",
+                "end_date": "2014-11-26"
             },
             "list_status": {
                 "status": "completed",
@@ -7907,7 +8290,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2011-12-07",
+                "end_date": "2011-12-07"
             },
             "list_status": {
                 "status": "completed",
@@ -7956,7 +8341,9 @@
                         "id": 30,
                         "name": "Ajia-Do"
                     }
-                ]
+                ],
+                "start_date": "2018-07-05",
+                "end_date": "2018-09-20"
             },
             "list_status": {
                 "status": "completed",
@@ -8013,7 +8400,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2015-01-24",
+                "end_date": "2015-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -8046,7 +8435,9 @@
                         "id": 1882,
                         "name": "UWAN Pictures"
                     }
-                ]
+                ],
+                "start_date": "2018-07-14",
+                "end_date": "2018-08-13"
             },
             "list_status": {
                 "status": "completed",
@@ -8083,7 +8474,9 @@
                         "id": 1882,
                         "name": "UWAN Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-11-22",
+                "end_date": "2019-12-27"
             },
             "list_status": {
                 "status": "completed",
@@ -8124,7 +8517,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2021-01-08",
+                "end_date": "2021-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -8165,7 +8560,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2021-05-07",
+                "end_date": "2021-06-02"
             },
             "list_status": {
                 "status": "completed",
@@ -8210,7 +8607,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2020-10-03",
+                "end_date": "2021-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -8255,7 +8654,9 @@
                         "id": 309,
                         "name": "GoHands"
                     }
-                ]
+                ],
+                "start_date": "2012-10-05",
+                "end_date": "2012-12-28"
             },
             "list_status": {
                 "status": "completed",
@@ -8300,7 +8701,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2009-04-03",
+                "end_date": "2009-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -8349,7 +8752,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-01-12",
+                "end_date": "2019-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -8398,7 +8803,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2021-05-19",
+                "end_date": "2021-05-19"
             },
             "list_status": {
                 "status": "completed",
@@ -8447,7 +8854,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2020-04-11",
+                "end_date": "2020-06-27"
             },
             "list_status": {
                 "status": "completed",
@@ -8492,7 +8901,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2010-04-02",
+                "end_date": "2010-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -8545,7 +8956,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2019-07-03",
+                "end_date": "2019-09-18"
             },
             "list_status": {
                 "status": "completed",
@@ -8594,7 +9007,9 @@
                         "id": 200,
                         "name": "Tezuka Productions"
                     }
-                ]
+                ],
+                "start_date": "2021-07-03",
+                "end_date": "2021-09-18"
             },
             "list_status": {
                 "status": "completed",
@@ -8639,7 +9054,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2020-07-11",
+                "end_date": "2020-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -8688,7 +9105,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2015-01-08",
+                "end_date": "2015-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -8741,7 +9160,9 @@
                         "id": 1857,
                         "name": "GEEK TOYS"
                     }
-                ]
+                ],
+                "start_date": "2019-07-08",
+                "end_date": "2019-09-23"
             },
             "list_status": {
                 "status": "completed",
@@ -8782,7 +9203,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2007-04-13",
+                "end_date": "2007-09-21"
             },
             "list_status": {
                 "status": "completed",
@@ -8843,7 +9266,9 @@
                         "id": 70,
                         "name": "Nomad"
                     }
-                ]
+                ],
+                "start_date": "2009-10-02",
+                "end_date": "2009-12-18"
             },
             "list_status": {
                 "status": "completed",
@@ -8896,7 +9321,9 @@
                         "id": 70,
                         "name": "Nomad"
                     }
-                ]
+                ],
+                "start_date": "2011-03-06",
+                "end_date": "2011-03-06"
             },
             "list_status": {
                 "status": "completed",
@@ -8941,7 +9368,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2016-10-06",
+                "end_date": "2016-12-22"
             },
             "list_status": {
                 "status": "completed",
@@ -8990,7 +9419,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2013-10-04",
+                "end_date": "2014-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -9039,7 +9470,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2009-10-07",
+                "end_date": "2010-03-31"
             },
             "list_status": {
                 "status": "completed",
@@ -9080,7 +9513,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2016-08-26",
+                "end_date": "2016-08-26"
             },
             "list_status": {
                 "status": "completed",
@@ -9121,7 +9556,9 @@
                         "id": 1244,
                         "name": "Studio VOLN"
                     }
-                ]
+                ],
+                "start_date": "2018-09-01",
+                "end_date": "2018-09-01"
             },
             "list_status": {
                 "status": "completed",
@@ -9157,7 +9594,9 @@
                         "name": "Mystery"
                     }
                 ],
-                "studios": []
+                "studios": [],
+                "start_date": "2017-01-12",
+                "end_date": "2017-01-12"
             },
             "list_status": {
                 "status": "completed",
@@ -9206,7 +9645,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2018-10-06",
+                "end_date": "2018-12-22"
             },
             "list_status": {
                 "status": "completed",
@@ -9239,7 +9680,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2016-01-08",
+                "end_date": "2016-01-08"
             },
             "list_status": {
                 "status": "completed",
@@ -9284,7 +9727,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2016-08-19",
+                "end_date": "2016-08-19"
             },
             "list_status": {
                 "status": "completed",
@@ -9329,7 +9774,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2017-01-06",
+                "end_date": "2017-01-06"
             },
             "list_status": {
                 "status": "completed",
@@ -9366,7 +9813,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2017-01-12",
+                "end_date": "2017-04-06"
             },
             "list_status": {
                 "status": "completed",
@@ -9415,7 +9864,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2012-07-08",
+                "end_date": "2012-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -9458,7 +9909,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2012-11-19",
+                "end_date": "2012-12-10"
             },
             "list_status": {
                 "status": "completed",
@@ -9505,7 +9958,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "2003-04-06",
+                "end_date": "2006-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -9558,7 +10013,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2016-01-14",
+                "end_date": "2016-03-17"
             },
             "list_status": {
                 "status": "completed",
@@ -9611,7 +10068,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2017-01-12",
+                "end_date": "2017-03-16"
             },
             "list_status": {
                 "status": "completed",
@@ -9664,7 +10123,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2017-07-24",
+                "end_date": "2017-07-24"
             },
             "list_status": {
                 "status": "completed",
@@ -9713,7 +10174,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2016-06-24",
+                "end_date": "2016-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -9762,7 +10225,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2011-01-11",
+                "end_date": "2011-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -9811,7 +10276,9 @@
                         "id": 37,
                         "name": "Studio Deen"
                     }
-                ]
+                ],
+                "start_date": "2012-04-05",
+                "end_date": "2012-06-07"
             },
             "list_status": {
                 "status": "completed",
@@ -9868,7 +10335,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "1995-11-18",
+                "end_date": "1995-11-18"
             },
             "list_status": {
                 "status": "completed",
@@ -9925,7 +10394,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2002-10-01",
+                "end_date": "2003-10-01"
             },
             "list_status": {
                 "status": "completed",
@@ -9974,7 +10445,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2020-01-12",
+                "end_date": "2020-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -10015,7 +10488,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2013-10-03",
+                "end_date": "2013-12-19"
             },
             "list_status": {
                 "status": "completed",
@@ -10064,7 +10539,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2012-10-06",
+                "end_date": "2013-04-06"
             },
             "list_status": {
                 "status": "completed",
@@ -10109,7 +10586,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2013-01-06",
+                "end_date": "2013-03-31"
             },
             "list_status": {
                 "status": "completed",
@@ -10154,7 +10633,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2014-04-06",
+                "end_date": "2014-06-29"
             },
             "list_status": {
                 "status": "completed",
@@ -10199,7 +10680,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2016-07-02",
+                "end_date": "2016-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -10244,7 +10727,9 @@
                         "id": 14,
                         "name": "Sunrise"
                     }
-                ]
+                ],
+                "start_date": "2017-10-07",
+                "end_date": "2017-12-30"
             },
             "list_status": {
                 "status": "completed",
@@ -10289,7 +10774,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2013-10-07",
+                "end_date": "2013-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -10338,7 +10825,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2014-10-04",
+                "end_date": "2014-12-27"
             },
             "list_status": {
                 "status": "completed",
@@ -10387,7 +10876,9 @@
                         "id": 290,
                         "name": "Kinema Citrus"
                     }
-                ]
+                ],
+                "start_date": "2017-07-07",
+                "end_date": "2017-09-29"
             },
             "list_status": {
                 "status": "completed",
@@ -10432,7 +10923,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2011-01-07",
+                "end_date": "2011-04-22"
             },
             "list_status": {
                 "status": "completed",
@@ -10481,7 +10974,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2014-04-06",
+                "end_date": "2014-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -10522,7 +11017,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2017-06-17",
+                "end_date": "2017-06-17"
             },
             "list_status": {
                 "status": "completed",
@@ -10579,7 +11076,9 @@
                         "id": 1258,
                         "name": "Bandai Namco Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-10-05",
+                "end_date": "2020-03-07"
             },
             "list_status": {
                 "status": "completed",
@@ -10636,7 +11135,9 @@
                         "id": 1258,
                         "name": "Bandai Namco Pictures"
                     }
-                ]
+                ],
+                "start_date": "2021-04-17",
+                "end_date": "2021-09-11"
             },
             "list_status": {
                 "status": "completed",
@@ -10681,7 +11182,9 @@
                         "id": 21,
                         "name": "Studio Ghibli"
                     }
-                ]
+                ],
+                "start_date": "1989-07-29",
+                "end_date": "1989-07-29"
             },
             "list_status": {
                 "status": "completed",
@@ -10726,7 +11229,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2020-07-04",
+                "end_date": "2020-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -10771,7 +11276,9 @@
                         "id": 38,
                         "name": "Arms"
                     }
-                ]
+                ],
+                "start_date": "2013-01-05",
+                "end_date": "2013-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -10816,7 +11323,9 @@
                         "id": 32,
                         "name": "Manglobe"
                     }
-                ]
+                ],
+                "start_date": "2011-10-05",
+                "end_date": "2011-12-21"
             },
             "list_status": {
                 "status": "completed",
@@ -10875,7 +11384,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2016-07-06",
+                "end_date": "2016-09-21"
             },
             "list_status": {
                 "status": "completed",
@@ -10936,7 +11447,9 @@
                         "id": 406,
                         "name": "Asahi Production"
                     }
-                ]
+                ],
+                "start_date": "2012-04-05",
+                "end_date": "2012-06-21"
             },
             "list_status": {
                 "status": "completed",
@@ -10995,7 +11508,9 @@
                         "id": 406,
                         "name": "Asahi Production"
                     }
-                ]
+                ],
+                "start_date": "2012-10-11",
+                "end_date": "2012-12-27"
             },
             "list_status": {
                 "status": "completed",
@@ -11042,7 +11557,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2021-07-14",
+                "end_date": "2021-09-15"
             },
             "list_status": {
                 "status": "completed",
@@ -11087,7 +11604,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2014-04-13",
+                "end_date": "2014-06-29"
             },
             "list_status": {
                 "status": "completed",
@@ -11148,7 +11667,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2011-10-09",
+                "end_date": "2012-04-15"
             },
             "list_status": {
                 "status": "completed",
@@ -11189,7 +11710,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2013-06-19",
+                "end_date": "2013-06-19"
             },
             "list_status": {
                 "status": "completed",
@@ -11224,7 +11747,9 @@
                         "id": 1687,
                         "name": "Yokohama Animation Lab"
                     }
-                ]
+                ],
+                "start_date": "2019-05-11",
+                "end_date": "2019-07-27"
             },
             "list_status": {
                 "status": "completed",
@@ -11261,7 +11786,9 @@
                         "id": 1687,
                         "name": "Yokohama Animation Lab"
                     }
-                ]
+                ],
+                "start_date": "2019-08-23",
+                "end_date": "2019-08-23"
             },
             "list_status": {
                 "status": "completed",
@@ -11310,7 +11837,9 @@
                         "id": 51,
                         "name": "Diomedéa"
                     }
-                ]
+                ],
+                "start_date": "2013-01-12",
+                "end_date": "2013-03-16"
             },
             "list_status": {
                 "status": "completed",
@@ -11359,7 +11888,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2013-07-07",
+                "end_date": "2013-12-29"
             },
             "list_status": {
                 "status": "completed",
@@ -11400,7 +11931,9 @@
                         "id": 21,
                         "name": "Studio Ghibli"
                     }
-                ]
+                ],
+                "start_date": "1997-07-12",
+                "end_date": "1997-07-12"
             },
             "list_status": {
                 "status": "completed",
@@ -11457,7 +11990,9 @@
                         "id": 456,
                         "name": "Lerche"
                     }
-                ]
+                ],
+                "start_date": "2015-07-08",
+                "end_date": "2015-09-23"
             },
             "list_status": {
                 "status": "completed",
@@ -11510,7 +12045,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2010-10-06",
+                "end_date": "2010-12-22"
             },
             "list_status": {
                 "status": "completed",
@@ -11547,7 +12084,9 @@
                         "id": 41,
                         "name": "Satelight"
                     }
-                ]
+                ],
+                "start_date": "2012-01-08",
+                "end_date": "2012-07-01"
             },
             "list_status": {
                 "status": "completed",
@@ -11588,7 +12127,9 @@
                         "id": 418,
                         "name": "Studio Gokumi"
                     }
-                ]
+                ],
+                "start_date": "2020-01-07",
+                "end_date": "2020-03-24"
             },
             "list_status": {
                 "status": "completed",
@@ -11637,7 +12178,9 @@
                         "id": 1993,
                         "name": "Studio Bind"
                     }
-                ]
+                ],
+                "start_date": "2021-01-11",
+                "end_date": "2021-03-22"
             },
             "list_status": {
                 "status": "completed",
@@ -11686,7 +12229,9 @@
                         "id": 1033,
                         "name": "Studio Colorido"
                     }
-                ]
+                ],
+                "start_date": "2020-06-18",
+                "end_date": "2020-06-18"
             },
             "list_status": {
                 "status": "completed",
@@ -11731,7 +12276,9 @@
                         "id": 1890,
                         "name": "Tear Studio"
                     }
-                ]
+                ],
+                "start_date": "2019-04-08",
+                "end_date": "2019-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -11776,7 +12323,9 @@
                         "id": 1890,
                         "name": "Tear Studio"
                     }
-                ]
+                ],
+                "start_date": "2019-12-11",
+                "end_date": "2019-12-11"
             },
             "list_status": {
                 "status": "completed",
@@ -11823,9 +12372,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2002-10-03",
+                "end_date": "2007-02-08"
             },
             "list_status": {
                 "status": "completed",
@@ -11868,9 +12419,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2004-08-21",
+                "end_date": "2004-08-21"
             },
             "list_status": {
                 "status": "completed",
@@ -11913,9 +12466,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2005-08-06",
+                "end_date": "2005-08-06"
             },
             "list_status": {
                 "status": "completed",
@@ -11962,9 +12517,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2012-07-28",
+                "end_date": "2012-07-28"
             },
             "list_status": {
                 "status": "completed",
@@ -12007,7 +12564,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2012-12-31",
+                "end_date": "2012-12-31"
             },
             "list_status": {
                 "status": "completed",
@@ -12064,7 +12623,9 @@
                         "id": 103,
                         "name": "Tatsunoko Production"
                     }
-                ]
+                ],
+                "start_date": "1995-10-04",
+                "end_date": "1996-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -12113,7 +12674,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2016-04-07",
+                "end_date": "2016-06-23"
             },
             "list_status": {
                 "status": "completed",
@@ -12162,7 +12725,9 @@
                         "id": 196,
                         "name": "Production Reed"
                     }
-                ]
+                ],
+                "start_date": "2016-01-10",
+                "end_date": "2016-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -12211,7 +12776,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2014-01-11",
+                "end_date": "2014-05-24"
             },
             "list_status": {
                 "status": "completed",
@@ -12260,7 +12827,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2014-10-03",
+                "end_date": "2015-04-03"
             },
             "list_status": {
                 "status": "completed",
@@ -12309,7 +12878,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2015-04-10",
+                "end_date": "2015-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -12358,7 +12929,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2016-01-04",
+                "end_date": "2016-01-04"
             },
             "list_status": {
                 "status": "completed",
@@ -12391,7 +12964,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2015-04-01",
+                "end_date": "2015-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -12436,7 +13011,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2012-01-08",
+                "end_date": "2012-03-18"
             },
             "list_status": {
                 "status": "completed",
@@ -12485,7 +13062,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2014-04-09",
+                "end_date": "2014-06-25"
             },
             "list_status": {
                 "status": "completed",
@@ -12530,7 +13109,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2017-07-15",
+                "end_date": "2017-07-15"
             },
             "list_status": {
                 "status": "completed",
@@ -12575,7 +13156,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2014-01-05",
+                "end_date": "2014-03-23"
             },
             "list_status": {
                 "status": "completed",
@@ -12620,7 +13203,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2015-10-03",
+                "end_date": "2015-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -12665,7 +13250,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2015-11-17",
+                "end_date": "2016-03-17"
             },
             "list_status": {
                 "status": "completed",
@@ -12714,7 +13301,9 @@
                         "id": 4,
                         "name": "Bones"
                     }
-                ]
+                ],
+                "start_date": "2014-02-17",
+                "end_date": "2014-07-17"
             },
             "list_status": {
                 "status": "completed",
@@ -12763,7 +13352,9 @@
                         "id": 418,
                         "name": "Studio Gokumi"
                     }
-                ]
+                ],
+                "start_date": "2012-07-09",
+                "end_date": "2012-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -12810,7 +13401,9 @@
                         "id": 541,
                         "name": "Seven"
                     }
-                ]
+                ],
+                "start_date": "2015-07-02",
+                "end_date": "2015-09-17"
             },
             "list_status": {
                 "status": "completed",
@@ -12859,7 +13452,9 @@
                         "id": 541,
                         "name": "Seven"
                     }
-                ]
+                ],
+                "start_date": "2016-10-02",
+                "end_date": "2016-12-18"
             },
             "list_status": {
                 "status": "completed",
@@ -12904,7 +13499,9 @@
                         "id": 541,
                         "name": "Seven"
                     }
-                ]
+                ],
+                "start_date": "2016-01-27",
+                "end_date": "2016-01-27"
             },
             "list_status": {
                 "status": "completed",
@@ -12953,7 +13550,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2015-10-05",
+                "end_date": "2015-12-21"
             },
             "list_status": {
                 "status": "completed",
@@ -12986,7 +13585,9 @@
                         "id": 1340,
                         "name": "Typhoon Graphics"
                     }
-                ]
+                ],
+                "start_date": "2017-01-11",
+                "end_date": "2017-03-29"
             },
             "list_status": {
                 "status": "completed",
@@ -13019,7 +13620,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2018-07-10",
+                "end_date": "2018-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -13052,7 +13655,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2018-11-30",
+                "end_date": "2018-11-30"
             },
             "list_status": {
                 "status": "completed",
@@ -13085,7 +13690,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2018-07-03",
+                "end_date": "2018-07-03"
             },
             "list_status": {
                 "status": "completed",
@@ -13118,7 +13725,9 @@
                         "id": 1340,
                         "name": "Typhoon Graphics"
                     }
-                ]
+                ],
+                "start_date": "2017-05-26",
+                "end_date": "2017-05-26"
             },
             "list_status": {
                 "status": "completed",
@@ -13151,7 +13760,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2020-10-06",
+                "end_date": "2020-12-22"
             },
             "list_status": {
                 "status": "completed",
@@ -13192,7 +13803,9 @@
                         "id": 555,
                         "name": "Studio Chizu"
                     }
-                ]
+                ],
+                "start_date": "2012-07-21",
+                "end_date": "2012-07-21"
             },
             "list_status": {
                 "status": "completed",
@@ -13237,7 +13850,9 @@
                         "id": 333,
                         "name": "TYO Animations"
                     }
-                ]
+                ],
+                "start_date": "2014-10-05",
+                "end_date": "2014-12-21"
             },
             "list_status": {
                 "status": "completed",
@@ -13282,7 +13897,9 @@
                         "id": 333,
                         "name": "TYO Animations"
                     }
-                ]
+                ],
+                "start_date": "2015-04-24",
+                "end_date": "2015-04-24"
             },
             "list_status": {
                 "status": "completed",
@@ -13331,7 +13948,9 @@
                         "id": 75,
                         "name": "Imagin"
                     }
-                ]
+                ],
+                "start_date": "2008-01-09",
+                "end_date": "2008-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -13382,7 +14001,9 @@
                         "id": 553,
                         "name": "Marvy Jack"
                     }
-                ]
+                ],
+                "start_date": "2009-07-09",
+                "end_date": "2009-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -13421,7 +14042,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2010-07-01",
+                "end_date": "2010-09-16"
             },
             "list_status": {
                 "status": "completed",
@@ -13470,7 +14093,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2015-10-07",
+                "end_date": "2015-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -13507,7 +14132,9 @@
                         "id": 436,
                         "name": "AIC Build"
                     }
-                ]
+                ],
+                "start_date": "2010-10-03",
+                "end_date": "2010-12-19"
             },
             "list_status": {
                 "status": "completed",
@@ -13546,7 +14173,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2013-04-07",
+                "end_date": "2013-06-30"
             },
             "list_status": {
                 "status": "completed",
@@ -13589,7 +14218,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2013-01-06",
+                "end_date": "2013-03-31"
             },
             "list_status": {
                 "status": "completed",
@@ -13634,7 +14265,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2019-10-03",
+                "end_date": "2019-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -13691,7 +14324,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2014-10-10",
+                "end_date": "2014-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -13736,7 +14371,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2021-04-14",
+                "end_date": "2021-06-30"
             },
             "list_status": {
                 "status": "completed",
@@ -13777,7 +14414,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2016-01-08",
+                "end_date": "2016-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -13814,7 +14453,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2017-01-23",
+                "end_date": "2017-01-23"
             },
             "list_status": {
                 "status": "completed",
@@ -13824,6 +14465,45 @@
                 "updated_at": "2018-08-21T00:42:54+00:00",
                 "start_date": "2018-08-20",
                 "finish_date": "2018-08-20"
+            }
+        },
+        {
+            "node": {
+                "id": 40746,
+                "title": "Overflow",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1781/104461.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1781/104461l.jpg"
+                },
+                "rating": "rx",
+                "media_type": "ona",
+                "genres": [
+                    {
+                        "id": 12,
+                        "name": "Hentai"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    }
+                ],
+                "studios": [
+                    {
+                        "id": 1968,
+                        "name": "Studio Hokiboshi"
+                    }
+                ],
+                "start_date": "2020-01-06",
+                "end_date": "2020-02-24"
+            },
+            "list_status": {
+                "status": "completed",
+                "score": 4,
+                "num_episodes_watched": 8,
+                "is_rewatching": false,
+                "updated_at": "2022-05-30T16:28:29+00:00",
+                "start_date": "2022-01-23",
+                "finish_date": "2022-05-30"
             }
         },
         {
@@ -13863,7 +14543,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2015-06-24",
+                "end_date": "2015-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -13904,7 +14586,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2015-12-25",
+                "end_date": "2016-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -13957,7 +14641,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-06-20"
             },
             "list_status": {
                 "status": "completed",
@@ -13974,8 +14660,8 @@
                 "id": 31378,
                 "title": "Owari no Seraph: Kyuuketsuki Shahar",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1121/123829.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1121/123829l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1272/121985.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1272/121985l.jpg"
                 },
                 "rating": "r",
                 "media_type": "ova",
@@ -14010,7 +14696,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2016-05-02",
+                "end_date": "2016-05-02"
             },
             "list_status": {
                 "status": "completed",
@@ -14063,7 +14751,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2015-10-10",
+                "end_date": "2015-12-26"
             },
             "list_status": {
                 "status": "completed",
@@ -14116,7 +14806,9 @@
                         "id": 6,
                         "name": "Gainax"
                     }
-                ]
+                ],
+                "start_date": "2010-10-02",
+                "end_date": "2010-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -14159,7 +14851,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2012-01-11",
+                "end_date": "2012-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -14198,7 +14892,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2018-04-08",
+                "end_date": "2018-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -14235,7 +14931,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-05-29",
+                "end_date": "2019-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -14280,7 +14978,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2018-12-31",
+                "end_date": "2019-03-23"
             },
             "list_status": {
                 "status": "completed",
@@ -14300,7 +15000,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/1368/108441.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/1368/108441l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r+",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -14325,7 +15025,9 @@
                         "id": 2052,
                         "name": "Wolfsbane"
                     }
-                ]
+                ],
+                "start_date": "2020-07-11",
+                "end_date": "2020-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -14366,7 +15068,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2015-04-05",
+                "end_date": "2015-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -14415,7 +15119,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "1997-04-01",
+                "end_date": "2002-11-14"
             },
             "list_status": {
                 "status": "completed",
@@ -14462,7 +15168,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2002-11-21",
+                "end_date": "2006-09-14"
             },
             "list_status": {
                 "status": "completed",
@@ -14509,7 +15217,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2001-12-30",
+                "end_date": "2001-12-30"
             },
             "list_status": {
                 "status": "completed",
@@ -14556,7 +15266,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2016-12-09",
+                "end_date": "2017-02-02"
             },
             "list_status": {
                 "status": "completed",
@@ -14609,7 +15321,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "1998-07-18",
+                "end_date": "1998-07-18"
             },
             "list_status": {
                 "status": "completed",
@@ -14656,7 +15370,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "1999-07-17",
+                "end_date": "1999-07-17"
             },
             "list_status": {
                 "status": "completed",
@@ -14707,7 +15423,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2000-07-08",
+                "end_date": "2000-07-08"
             },
             "list_status": {
                 "status": "completed",
@@ -14754,7 +15472,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2001-07-07",
+                "end_date": "2001-07-07"
             },
             "list_status": {
                 "status": "completed",
@@ -14801,7 +15521,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2002-07-13",
+                "end_date": "2002-07-13"
             },
             "list_status": {
                 "status": "completed",
@@ -14848,7 +15570,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2003-07-19",
+                "end_date": "2003-07-19"
             },
             "list_status": {
                 "status": "completed",
@@ -14899,7 +15623,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2004-07-17",
+                "end_date": "2004-07-17"
             },
             "list_status": {
                 "status": "completed",
@@ -14946,7 +15672,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2005-07-16",
+                "end_date": "2005-07-16"
             },
             "list_status": {
                 "status": "completed",
@@ -14993,7 +15721,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2006-07-15",
+                "end_date": "2006-07-15"
             },
             "list_status": {
                 "status": "completed",
@@ -15044,7 +15774,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2007-07-15",
+                "end_date": "2007-07-15"
             },
             "list_status": {
                 "status": "completed",
@@ -15089,7 +15821,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2008-07-19",
+                "end_date": "2008-07-19"
             },
             "list_status": {
                 "status": "completed",
@@ -15142,7 +15876,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2009-07-18",
+                "end_date": "2009-07-18"
             },
             "list_status": {
                 "status": "completed",
@@ -15197,7 +15933,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2018-07-13",
+                "end_date": "2018-07-13"
             },
             "list_status": {
                 "status": "completed",
@@ -15242,7 +15980,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2006-10-13",
+                "end_date": "2006-10-13"
             },
             "list_status": {
                 "status": "completed",
@@ -15297,7 +16037,9 @@
                         "id": 28,
                         "name": "OLM"
                     }
-                ]
+                ],
+                "start_date": "2013-10-02",
+                "end_date": "2013-10-02"
             },
             "list_status": {
                 "status": "completed",
@@ -15342,7 +16084,9 @@
                         "id": 1893,
                         "name": "CygamesPictures"
                     }
-                ]
+                ],
+                "start_date": "2020-04-07",
+                "end_date": "2020-06-30"
             },
             "list_status": {
                 "status": "completed",
@@ -15395,7 +16139,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2012-10-12",
+                "end_date": "2013-03-22"
             },
             "list_status": {
                 "status": "completed",
@@ -15413,7 +16159,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/13/65671.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/13/65671l.jpg"
                 },
-                "rating": "r+",
+                "rating": "pg_13",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -15442,7 +16188,9 @@
                         "id": 911,
                         "name": "Passione"
                     }
-                ]
+                ],
+                "start_date": "2014-07-04",
+                "end_date": "2014-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -15487,7 +16235,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2009-08-14",
+                "end_date": "2009-08-14"
             },
             "list_status": {
                 "status": "completed",
@@ -15532,7 +16282,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2016-07-02",
+                "end_date": "2016-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -15573,7 +16325,9 @@
                         "id": 73,
                         "name": "TMS Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2018-03-21",
+                "end_date": "2018-03-21"
             },
             "list_status": {
                 "status": "completed",
@@ -15610,7 +16364,9 @@
                         "id": 1379,
                         "name": "Zero-G"
                     }
-                ]
+                ],
+                "start_date": "2020-01-11",
+                "end_date": "2020-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -15655,7 +16411,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2014-07-12",
+                "end_date": "2014-09-27"
             },
             "list_status": {
                 "status": "completed",
@@ -15716,7 +16474,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2008-01-03",
+                "end_date": "2008-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -15773,7 +16533,9 @@
                         "id": 3,
                         "name": "Gonzo"
                     }
-                ]
+                ],
+                "start_date": "2008-10-02",
+                "end_date": "2008-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -15814,7 +16576,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2018-01-08",
+                "end_date": "2018-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -15867,7 +16631,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-01-16",
+                "end_date": "2015-03-27"
             },
             "list_status": {
                 "status": "completed",
@@ -15920,7 +16686,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-04-14",
+                "end_date": "2017-06-23"
             },
             "list_status": {
                 "status": "completed",
@@ -15969,7 +16737,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-04-06",
+                "end_date": "2017-04-06"
             },
             "list_status": {
                 "status": "completed",
@@ -16022,7 +16792,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2019-10-26",
+                "end_date": "2019-10-26"
             },
             "list_status": {
                 "status": "completed",
@@ -16067,7 +16839,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-01-09",
+                "end_date": "2015-01-09"
             },
             "list_status": {
                 "status": "completed",
@@ -16108,7 +16882,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2013-05-10",
+                "end_date": "2013-05-10"
             },
             "list_status": {
                 "status": "completed",
@@ -16153,7 +16929,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2012-10-09",
+                "end_date": "2013-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -16190,7 +16968,9 @@
                         "id": 132,
                         "name": "P.A. Works"
                     }
-                ]
+                ],
+                "start_date": "2018-02-24",
+                "end_date": "2018-02-24"
             },
             "list_status": {
                 "status": "completed",
@@ -16207,8 +16987,8 @@
                 "id": 2476,
                 "title": "School Days",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/8/86373.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/8/86373l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1593/122440.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1593/122440l.jpg"
                 },
                 "rating": "r+",
                 "media_type": "tv",
@@ -16235,7 +17015,9 @@
                         "id": 120,
                         "name": "TNK"
                     }
-                ]
+                ],
+                "start_date": "2007-07-04",
+                "end_date": "2007-09-27"
             },
             "list_status": {
                 "status": "completed",
@@ -16284,7 +17066,9 @@
                         "id": 1835,
                         "name": "CloverWorks"
                     }
-                ]
+                ],
+                "start_date": "2018-10-04",
+                "end_date": "2018-12-27"
             },
             "list_status": {
                 "status": "completed",
@@ -16329,7 +17113,9 @@
                         "id": 21,
                         "name": "Studio Ghibli"
                     }
-                ]
+                ],
+                "start_date": "2001-07-20",
+                "end_date": "2001-07-20"
             },
             "list_status": {
                 "status": "completed",
@@ -16374,7 +17160,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2019-04-06",
+                "end_date": "2019-06-22"
             },
             "list_status": {
                 "status": "completed",
@@ -16411,7 +17199,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2016-10-18",
+                "end_date": "2016-10-18"
             },
             "list_status": {
                 "status": "completed",
@@ -16460,7 +17250,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-10-10",
+                "end_date": "2015-03-20"
             },
             "list_status": {
                 "status": "completed",
@@ -16505,7 +17297,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2015-07-04",
+                "end_date": "2015-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -16554,7 +17348,9 @@
                         "id": 569,
                         "name": "MAPPA"
                     }
-                ]
+                ],
+                "start_date": "2014-10-06",
+                "end_date": "2014-12-29"
             },
             "list_status": {
                 "status": "completed",
@@ -16607,7 +17403,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2013-04-07",
+                "end_date": "2013-09-29"
             },
             "list_status": {
                 "status": "completed",
@@ -16660,7 +17458,9 @@
                         "id": 858,
                         "name": "Wit Studio"
                     }
-                ]
+                ],
+                "start_date": "2017-04-01",
+                "end_date": "2017-06-17"
             },
             "list_status": {
                 "status": "completed",
@@ -16705,7 +17505,9 @@
                         "id": 10,
                         "name": "Production I.G"
                     }
-                ]
+                ],
+                "start_date": "2015-10-04",
+                "end_date": "2015-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -16750,7 +17552,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2021-07-04",
+                "end_date": "2021-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -16803,7 +17607,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2015-01-08",
+                "end_date": "2015-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -16856,7 +17662,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2015-10-10",
+                "end_date": "2015-12-12"
             },
             "list_status": {
                 "status": "completed",
@@ -16909,7 +17717,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2016-01-26",
+                "end_date": "2016-01-26"
             },
             "list_status": {
                 "status": "completed",
@@ -16962,7 +17772,9 @@
                         "id": 1053,
                         "name": "Production IMS"
                     }
-                ]
+                ],
+                "start_date": "2015-06-22",
+                "end_date": "2015-06-22"
             },
             "list_status": {
                 "status": "completed",
@@ -17007,7 +17819,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2015-04-04",
+                "end_date": "2015-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -17060,7 +17874,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2005-05-27",
+                "end_date": "2005-05-27"
             },
             "list_status": {
                 "status": "completed",
@@ -17117,7 +17933,9 @@
                         "id": 88,
                         "name": "AIC ASTA"
                     }
-                ]
+                ],
+                "start_date": "2009-10-05",
+                "end_date": "2009-12-28"
             },
             "list_status": {
                 "status": "completed",
@@ -17156,7 +17974,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2010-10-08",
+                "end_date": "2010-12-24"
             },
             "list_status": {
                 "status": "completed",
@@ -17197,7 +18017,9 @@
                         "id": 803,
                         "name": "Trigger"
                     }
-                ]
+                ],
+                "start_date": "2018-10-07",
+                "end_date": "2018-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -17270,7 +18092,9 @@
                         "id": 1591,
                         "name": "Science SARU"
                     }
-                ]
+                ],
+                "start_date": "2021-09-22",
+                "end_date": "2021-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -17319,7 +18143,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2011-04-06",
+                "end_date": "2011-09-14"
             },
             "list_status": {
                 "status": "completed",
@@ -17360,7 +18186,9 @@
                         "id": 314,
                         "name": "White Fox"
                     }
-                ]
+                ],
+                "start_date": "2015-12-03",
+                "end_date": "2015-12-03"
             },
             "list_status": {
                 "status": "completed",
@@ -17421,7 +18249,9 @@
                         "id": 957,
                         "name": "Connect"
                     }
-                ]
+                ],
+                "start_date": "2013-10-04",
+                "end_date": "2014-03-28"
             },
             "list_status": {
                 "status": "completed",
@@ -17458,7 +18288,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2009-08-01",
+                "end_date": "2009-08-01"
             },
             "list_status": {
                 "status": "completed",
@@ -17503,7 +18335,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2010-02-06",
+                "end_date": "2010-02-06"
             },
             "list_status": {
                 "status": "completed",
@@ -17552,7 +18386,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2006-04-03",
+                "end_date": "2006-07-03"
             },
             "list_status": {
                 "status": "completed",
@@ -17601,7 +18437,9 @@
                         "id": 2,
                         "name": "Kyoto Animation"
                     }
-                ]
+                ],
+                "start_date": "2009-05-22",
+                "end_date": "2009-09-11"
             },
             "list_status": {
                 "status": "completed",
@@ -17654,7 +18492,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2012-07-08",
+                "end_date": "2012-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -17671,8 +18511,8 @@
                 "id": 21881,
                 "title": "Sword Art Online II",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/11/65185.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/11/65185l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1223/121999.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1223/121999l.jpg"
                 },
                 "rating": "pg_13",
                 "media_type": "tv",
@@ -17707,7 +18547,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-07-05",
+                "end_date": "2014-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -17752,7 +18594,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-10-11",
+                "end_date": "2014-10-11"
             },
             "list_status": {
                 "status": "completed",
@@ -17785,7 +18629,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-10-22",
+                "end_date": "2015-06-24"
             },
             "list_status": {
                 "status": "completed",
@@ -17830,7 +18676,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-02-18",
+                "end_date": "2017-02-18"
             },
             "list_status": {
                 "status": "completed",
@@ -17875,7 +18723,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2018-10-07",
+                "end_date": "2019-03-31"
             },
             "list_status": {
                 "status": "completed",
@@ -17920,7 +18770,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2019-10-13",
+                "end_date": "2019-12-29"
             },
             "list_status": {
                 "status": "completed",
@@ -17965,7 +18817,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2020-07-12",
+                "end_date": "2020-09-20"
             },
             "list_status": {
                 "status": "completed",
@@ -17982,8 +18836,8 @@
                 "id": 20021,
                 "title": "Sword Art Online: Extra Edition",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/64747.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/6/64747l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1927/121997.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1927/121997l.jpg"
                 },
                 "rating": "pg_13",
                 "media_type": "special",
@@ -18006,7 +18860,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2013-12-31",
+                "end_date": "2013-12-31"
             },
             "list_status": {
                 "status": "completed",
@@ -18051,7 +18907,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2021-10-30",
+                "end_date": "2021-10-30"
             },
             "list_status": {
                 "status": "completed",
@@ -18084,7 +18942,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2012-10-24",
+                "end_date": "2013-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -18129,7 +18989,9 @@
                         "id": 95,
                         "name": "Doga Kobo"
                     }
-                ]
+                ],
+                "start_date": "2018-04-05",
+                "end_date": "2018-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -18174,7 +19036,9 @@
                         "id": 1033,
                         "name": "Studio Colorido"
                     }
-                ]
+                ],
+                "start_date": "2015-06-05",
+                "end_date": "2015-06-05"
             },
             "list_status": {
                 "status": "completed",
@@ -18231,7 +19095,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2015-10-08",
+                "end_date": "2015-12-24"
             },
             "list_status": {
                 "status": "completed",
@@ -18284,7 +19150,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2012-04-09",
+                "end_date": "2012-06-25"
             },
             "list_status": {
                 "status": "completed",
@@ -18337,7 +19205,9 @@
                         "id": 300,
                         "name": "SILVER LINK."
                     }
-                ]
+                ],
+                "start_date": "2012-11-28",
+                "end_date": "2012-11-28"
             },
             "list_status": {
                 "status": "completed",
@@ -18390,7 +19260,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2019-07-02",
+                "end_date": "2019-09-17"
             },
             "list_status": {
                 "status": "completed",
@@ -18439,7 +19311,9 @@
                         "id": 6,
                         "name": "Gainax"
                     }
-                ]
+                ],
+                "start_date": "2007-04-01",
+                "end_date": "2007-09-30"
             },
             "list_status": {
                 "status": "completed",
@@ -18484,7 +19358,9 @@
                         "id": 291,
                         "name": "CoMix Wave Films"
                     }
-                ]
+                ],
+                "start_date": "2019-07-19",
+                "end_date": "2019-07-19"
             },
             "list_status": {
                 "status": "completed",
@@ -18541,7 +19417,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2008-04-04",
+                "end_date": "2008-09-26"
             },
             "list_status": {
                 "status": "completed",
@@ -18594,7 +19472,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2009-04-03",
+                "end_date": "2010-04-02"
             },
             "list_status": {
                 "status": "completed",
@@ -18635,7 +19515,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2009-10-03",
+                "end_date": "2010-03-20"
             },
             "list_status": {
                 "status": "completed",
@@ -18676,7 +19558,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2013-04-12",
+                "end_date": "2013-09-27"
             },
             "list_status": {
                 "status": "completed",
@@ -18717,7 +19601,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2008-10-05",
+                "end_date": "2009-03-19"
             },
             "list_status": {
                 "status": "completed",
@@ -18758,7 +19644,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2010-10-08",
+                "end_date": "2011-04-01"
             },
             "list_status": {
                 "status": "completed",
@@ -18807,7 +19695,9 @@
                         "id": 11,
                         "name": "Madhouse"
                     }
-                ]
+                ],
+                "start_date": "2006-07-15",
+                "end_date": "2006-07-15"
             },
             "list_status": {
                 "status": "completed",
@@ -18858,9 +19748,11 @@
                 "studios": [
                     {
                         "id": 1,
-                        "name": "Studio Pierrot"
+                        "name": "Pierrot"
                     }
-                ]
+                ],
+                "start_date": "2014-07-04",
+                "end_date": "2014-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -18905,7 +19797,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2008-10-02",
+                "end_date": "2009-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -18970,7 +19864,9 @@
                         "id": 1569,
                         "name": "Seven Arcs Pictures"
                     }
-                ]
+                ],
+                "start_date": "2014-10-08",
+                "end_date": "2014-12-24"
             },
             "list_status": {
                 "status": "completed",
@@ -19031,7 +19927,9 @@
                         "id": 1569,
                         "name": "Seven Arcs Pictures"
                     }
-                ]
+                ],
+                "start_date": "2017-02-25",
+                "end_date": "2017-02-25"
             },
             "list_status": {
                 "status": "completed",
@@ -19096,7 +19994,9 @@
                         "id": 1569,
                         "name": "Seven Arcs Pictures"
                     }
-                ]
+                ],
+                "start_date": "2015-03-25",
+                "end_date": "2015-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -19141,7 +20041,9 @@
                         "id": 418,
                         "name": "Studio Gokumi"
                     }
-                ]
+                ],
+                "start_date": "2017-07-04",
+                "end_date": "2017-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -19161,7 +20063,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/1225/102250.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/1225/102250l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r+",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -19182,7 +20084,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2019-07-13",
+                "end_date": "2019-09-28"
             },
             "list_status": {
                 "status": "completed",
@@ -19223,7 +20127,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2020-03-25",
+                "end_date": "2020-03-25"
             },
             "list_status": {
                 "status": "completed",
@@ -19256,7 +20162,9 @@
                         "id": 44,
                         "name": "Shaft"
                     }
-                ]
+                ],
+                "start_date": "2017-08-09",
+                "end_date": "2017-08-09"
             },
             "list_status": {
                 "status": "completed",
@@ -19305,7 +20213,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2014-10-04",
+                "end_date": "2014-12-20"
             },
             "list_status": {
                 "status": "completed",
@@ -19346,7 +20256,9 @@
                         "id": 1974,
                         "name": "ENGI"
                     }
-                ]
+                ],
+                "start_date": "2020-07-10",
+                "end_date": "2020-09-25"
             },
             "list_status": {
                 "status": "completed",
@@ -19395,7 +20307,9 @@
                         "id": 441,
                         "name": "8bit"
                     }
-                ]
+                ],
+                "start_date": "2013-10-07",
+                "end_date": "2013-12-23"
             },
             "list_status": {
                 "status": "completed",
@@ -19438,7 +20352,9 @@
                         "id": 56,
                         "name": "A-1 Pictures"
                     }
-                ]
+                ],
+                "start_date": "2018-04-13",
+                "end_date": "2018-06-22"
             },
             "list_status": {
                 "status": "completed",
@@ -19483,7 +20399,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2013-04-05",
+                "end_date": "2013-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -19528,7 +20446,9 @@
                         "id": 112,
                         "name": "Brain's Base"
                     }
-                ]
+                ],
+                "start_date": "2013-09-19",
+                "end_date": "2013-09-19"
             },
             "list_status": {
                 "status": "completed",
@@ -19573,7 +20493,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2015-04-03",
+                "end_date": "2015-06-26"
             },
             "list_status": {
                 "status": "completed",
@@ -19618,7 +20540,9 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2016-10-27",
+                "end_date": "2016-10-27"
             },
             "list_status": {
                 "status": "completed",
@@ -19675,7 +20599,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2015-04-12",
+                "end_date": "2015-06-28"
             },
             "list_status": {
                 "status": "completed",
@@ -19720,7 +20646,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2014-12-17",
+                "end_date": "2015-05-15"
             },
             "list_status": {
                 "status": "completed",
@@ -19761,7 +20689,9 @@
                         "id": 839,
                         "name": "LIDENFILMS"
                     }
-                ]
+                ],
+                "start_date": "2015-08-26",
+                "end_date": "2015-08-26"
             },
             "list_status": {
                 "status": "completed",
@@ -19810,7 +20740,9 @@
                         "id": 18,
                         "name": "Toei Animation"
                     }
-                ]
+                ],
+                "start_date": "1998-04-04",
+                "end_date": "1998-10-10"
             },
             "list_status": {
                 "status": "completed",
@@ -19849,7 +20781,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2008-04-02",
+                "end_date": "2011-03-30"
             },
             "list_status": {
                 "status": "completed",
@@ -19888,7 +20822,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2008-09-21",
+                "end_date": "2008-11-23"
             },
             "list_status": {
                 "status": "completed",
@@ -19935,7 +20871,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2000-04-18",
+                "end_date": "2004-09-29"
             },
             "list_status": {
                 "status": "completed",
@@ -19978,7 +20916,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2010-01-23",
+                "end_date": "2010-01-23"
             },
             "list_status": {
                 "status": "completed",
@@ -20017,7 +20957,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2016-04-23",
+                "end_date": "2016-04-23"
             },
             "list_status": {
                 "status": "completed",
@@ -20066,7 +21008,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2004-10-06",
+                "end_date": "2008-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -20109,7 +21053,9 @@
                         "id": 36,
                         "name": "Gallop"
                     }
-                ]
+                ],
+                "start_date": "2004-08-13",
+                "end_date": "2004-08-13"
             },
             "list_status": {
                 "status": "completed",
@@ -20129,7 +21075,7 @@
                     "medium": "https://api-cdn.myanimelist.net/images/anime/13/54389.jpg",
                     "large": "https://api-cdn.myanimelist.net/images/anime/13/54389l.jpg"
                 },
-                "rating": "pg_13",
+                "rating": "r+",
                 "media_type": "tv",
                 "genres": [
                     {
@@ -20154,7 +21100,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2013-10-05",
+                "end_date": "2013-12-21"
             },
             "list_status": {
                 "status": "completed",
@@ -20195,7 +21143,9 @@
                         "id": 163,
                         "name": "asread."
                     }
-                ]
+                ],
+                "start_date": "2014-03-07",
+                "end_date": "2014-03-07"
             },
             "list_status": {
                 "status": "completed",
@@ -20260,7 +21210,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2006-07-03",
+                "end_date": "2006-09-25"
             },
             "list_status": {
                 "status": "completed",
@@ -20309,7 +21261,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2012-01-07",
+                "end_date": "2012-03-24"
             },
             "list_status": {
                 "status": "completed",
@@ -20374,7 +21328,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2007-07-09",
+                "end_date": "2007-09-24"
             },
             "list_status": {
                 "status": "completed",
@@ -20439,7 +21395,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2008-07-07",
+                "end_date": "2008-09-22"
             },
             "list_status": {
                 "status": "completed",
@@ -20488,7 +21446,9 @@
                         "id": 7,
                         "name": "J.C.Staff"
                     }
-                ]
+                ],
+                "start_date": "2008-12-25",
+                "end_date": "2008-12-25"
             },
             "list_status": {
                 "status": "completed",
@@ -20537,7 +21497,9 @@
                         "id": 474,
                         "name": "Shogakukan Music & Digital Entertainment"
                     }
-                ]
+                ],
+                "start_date": "2005-04-10",
+                "end_date": "2006-03-26"
             },
             "list_status": {
                 "status": "completed",
@@ -20590,7 +21552,9 @@
                         "id": 27,
                         "name": "Xebec"
                     }
-                ]
+                ],
+                "start_date": "2001-01-06",
+                "end_date": "2001-06-30"
             },
             "list_status": {
                 "status": "completed",

@@ -33,15 +33,17 @@
                         "id": 91,
                         "name": "feel."
                     }
-                ]
+                ],
+                "start_date": "2021-07-03",
+                "end_date": "2021-09-25"
             },
             "list_status": {
                 "status": "watching",
                 "score": 0,
-                "num_episodes_watched": 0,
+                "num_episodes_watched": 1,
                 "is_rewatching": false,
-                "updated_at": "2022-05-26T05:43:23+00:00",
-                "start_date": "2022-03-23"
+                "updated_at": "2022-05-27T02:23:19+00:00",
+                "start_date": "2022-05-26"
             }
         },
         {
@@ -85,7 +87,9 @@
                         "id": 439,
                         "name": "Project No.9"
                     }
-                ]
+                ],
+                "start_date": "2020-07-04",
+                "end_date": "2020-09-26"
             },
             "list_status": {
                 "status": "watching",
@@ -97,37 +101,55 @@
         },
         {
             "node": {
-                "id": 49854,
-                "title": "Getsuyoubi no Tawawa 2",
+                "id": 48997,
+                "title": "Fantasy Bishoujo Juniku Ojisan to",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1370/117813.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1370/117813l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1430/120065.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1430/120065l.jpg"
                 },
                 "rating": "pg_13",
-                "media_type": "ona",
+                "media_type": "tv",
                 "genres": [
                     {
-                        "id": 9,
-                        "name": "Ecchi"
+                        "id": 2,
+                        "name": "Adventure"
                     },
                     {
-                        "id": 36,
-                        "name": "Slice of Life"
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 57,
+                        "name": "Gag Humor"
+                    },
+                    {
+                        "id": 62,
+                        "name": "Isekai"
+                    },
+                    {
+                        "id": 65,
+                        "name": "Magical Sex Shift"
                     }
                 ],
                 "studios": [
                     {
-                        "id": 1687,
-                        "name": "Yokohama Animation Lab"
+                        "id": 2326,
+                        "name": "OLM Team Yoshioka"
                     }
-                ]
+                ],
+                "start_date": "2022-01-12",
+                "end_date": "2022-03-30"
             },
             "list_status": {
                 "status": "watching",
                 "score": 0,
                 "num_episodes_watched": 0,
                 "is_rewatching": false,
-                "updated_at": "2022-01-07T04:34:16+00:00"
+                "updated_at": "2022-06-10T16:07:20+00:00"
             }
         },
         {
@@ -167,7 +189,9 @@
                         "id": 1295,
                         "name": "Pine Jam"
                     }
-                ]
+                ],
+                "start_date": "2020-04-05",
+                "end_date": "2020-06-28"
             },
             "list_status": {
                 "status": "watching",
@@ -176,42 +200,6 @@
                 "is_rewatching": false,
                 "updated_at": "2022-01-15T10:02:08+00:00",
                 "start_date": "2022-01-08"
-            }
-        },
-        {
-            "node": {
-                "id": 40746,
-                "title": "Overflow",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/anime/1781/104461.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/anime/1781/104461l.jpg"
-                },
-                "rating": "rx",
-                "media_type": "ona",
-                "genres": [
-                    {
-                        "id": 12,
-                        "name": "Hentai"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    }
-                ],
-                "studios": [
-                    {
-                        "id": 1968,
-                        "name": "Studio Hokiboshi"
-                    }
-                ]
-            },
-            "list_status": {
-                "status": "watching",
-                "score": 0,
-                "num_episodes_watched": 4,
-                "is_rewatching": false,
-                "updated_at": "2022-03-26T10:16:45+00:00",
-                "start_date": "2022-01-23"
             }
         },
         {
@@ -239,7 +227,9 @@
                         "id": 1350,
                         "name": "B.CMAY PICTURES"
                     }
-                ]
+                ],
+                "start_date": "2017-04-07",
+                "end_date": "2017-06-16"
             },
             "list_status": {
                 "status": "watching",
