@@ -18,12 +18,16 @@ def canUpdateData(envFile, envVariable, date_format, incNumberOfWeeks):
 
 def loadMALJSON_DF(jsonFile, itemInfo, userListInfo):
     specialColumns = ['genres', 'studios']
+    modifiedColumns = ['publish_start_date', 'publish_end_date', 'publish_status']
 
     if 'start_date' in itemInfo:
         itemInfo[itemInfo.index('start_date')] = 'publish_start_date'
 
     if 'end_date' in itemInfo:
         itemInfo[itemInfo.index('end_date')] = 'publish_end_date'
+
+    if 'status' in itemInfo:
+        itemInfo[itemInfo.index('status')] = 'publish_status'
 
     df = pd.DataFrame(columns=itemInfo + userListInfo)
 
@@ -40,7 +44,7 @@ def loadMALJSON_DF(jsonFile, itemInfo, userListInfo):
                     expandEntry.append(info2['name'])
 
                 df_row[info] = expandEntry
-            elif info == 'publish_start_date' or info == 'publish_end_date':
+            elif info in modifiedColumns:
                 if info[8:] not in itemNode:
                     df_row[info] = 'N/A'
                 else:
