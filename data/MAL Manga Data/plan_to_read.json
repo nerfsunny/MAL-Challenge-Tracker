@@ -2108,52 +2108,6 @@
         },
         {
             "node": {
-                "id": 35721,
-                "title": "Area D: Inou Ryouiki",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/188814.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/188814l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 31,
-                        "name": "Super Power"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 137,
-                "num_volumes": 14,
-                "start_date": "2012-03-14",
-                "end_date": "2016-01-20"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T01:37:33+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 81,
                 "title": "Aria",
                 "main_picture": {
@@ -2625,52 +2579,6 @@
         },
         {
             "node": {
-                "id": 70,
-                "title": "Übel Blatt",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/55347.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/55347l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 167,
-                "num_volumes": 23,
-                "start_date": "2004-12-03",
-                "end_date": "2019-03-25"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T06:44:43+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 119627,
                 "title": "⅒ no Hanayome",
                 "main_picture": {
@@ -3089,52 +2997,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2020-09-28T01:55:46+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 720,
-                "title": "Bamboo Blade",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/28784.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/28784l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 54,
-                        "name": "Combat Sports"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 30,
-                        "name": "Sports"
-                    }
-                ],
-                "num_chapters": 107,
-                "num_volumes": 14,
-                "start_date": "2004-12-03",
-                "end_date": "2010-09-03"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-04-30T20:56:09+00:00"
             }
         },
         {
@@ -7550,40 +7412,6 @@
         },
         {
             "node": {
-                "id": 78121,
-                "title": "Dolly♥Kill Kill",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/152513.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/152513l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 14,
-                        "name": "Horror"
-                    }
-                ],
-                "num_chapters": 155,
-                "num_volumes": 11,
-                "start_date": "2014-08-16",
-                "end_date": "2017-09-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T17:53:14+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 8427,
                 "title": "Dousei Recipe",
                 "main_picture": {
@@ -7835,48 +7663,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2021-07-27T21:46:37+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 2585,
-                "title": "Eiken",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/2780.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/2780l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 35,
-                        "name": "Harem"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    }
-                ],
-                "num_chapters": 160,
-                "num_volumes": 18,
-                "start_date": "2001",
-                "end_date": "2004"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-08-23T23:44:01+00:00"
             }
         },
         {
@@ -8652,8 +8438,8 @@
                 "id": 27019,
                 "title": "Fukashigi Philia",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/118849.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/118849l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/262980.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/262980l.jpg"
                 },
                 "status": "finished",
                 "media_type": "manga",
@@ -9458,56 +9244,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-09T22:02:59+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 320,
-                "title": "Gakuen Alice",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/190844.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/190844l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 64,
-                        "name": "Love Polygon"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    },
-                    {
-                        "id": 31,
-                        "name": "Super Power"
-                    }
-                ],
-                "num_chapters": 183,
-                "num_volumes": 31,
-                "start_date": "2002-09-05",
-                "end_date": "2013-06-20"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T22:03:40+00:00"
             }
         },
         {
@@ -10614,68 +10350,6 @@
         },
         {
             "node": {
-                "id": 1092,
-                "title": "Gokusen",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/171655.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/171655l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 55,
-                        "name": "Delinquents"
-                    },
-                    {
-                        "id": 42,
-                        "name": "Josei"
-                    },
-                    {
-                        "id": 69,
-                        "name": "Organized Crime"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 36,
-                        "name": "Slice of Life"
-                    },
-                    {
-                        "id": 48,
-                        "name": "Workplace"
-                    }
-                ],
-                "num_chapters": 156,
-                "num_volumes": 15,
-                "start_date": "1999-12-15",
-                "end_date": "2007-02-15"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T22:27:06+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 112922,
                 "title": "Gokushufudou",
                 "main_picture": {
@@ -11090,68 +10764,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-09T22:32:03+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 336,
-                "title": "GTO",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/172982.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/172982l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 46,
-                        "name": "Award Winning"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 55,
-                        "name": "Delinquents"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 48,
-                        "name": "Workplace"
-                    }
-                ],
-                "num_chapters": 208,
-                "num_volumes": 25,
-                "start_date": "1996-12-11",
-                "end_date": "2002-01-30"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-10T01:51:37+00:00"
             }
         },
         {
@@ -11963,52 +11575,6 @@
         },
         {
             "node": {
-                "id": 877,
-                "title": "Hana yori Dango",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/27280.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/27280l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 46,
-                        "name": "Award Winning"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    }
-                ],
-                "num_chapters": 244,
-                "num_volumes": 37,
-                "start_date": "1992-10",
-                "end_date": "2008-04"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-04-30T21:07:40+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 3826,
                 "title": "Hanaukyou Maid-tai",
                 "main_picture": {
@@ -12529,44 +12095,6 @@
         },
         {
             "node": {
-                "id": 845,
-                "title": "Happy!",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/148293.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/148293l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 30,
-                        "name": "Sports"
-                    }
-                ],
-                "num_chapters": 254,
-                "num_volumes": 23,
-                "start_date": "1993-10-25",
-                "end_date": "1999-03-08"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-08-22T17:50:18+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 39803,
                 "title": "Harajuku★Takenoko Kouban",
                 "main_picture": {
@@ -12911,48 +12439,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-10T02:42:38+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 8296,
-                "title": "Haruka 17",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/219782.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/219782l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 76,
-                        "name": "Showbiz"
-                    },
-                    {
-                        "id": 36,
-                        "name": "Slice of Life"
-                    }
-                ],
-                "num_chapters": 188,
-                "num_volumes": 19,
-                "start_date": "2003-10-30",
-                "end_date": "2007-09-27"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-10T02:43:16+00:00"
             }
         },
         {
@@ -13656,48 +13142,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-10T02:47:41+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 7634,
-                "title": "High School! Kimengumi",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/187153.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/187153l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 57,
-                        "name": "Gag Humor"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 261,
-                "num_volumes": 20,
-                "start_date": "1982-04-06",
-                "end_date": "1987-06-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-10T02:48:14+00:00"
             }
         },
         {
@@ -14536,13 +13980,13 @@
         },
         {
             "node": {
-                "id": 1149,
-                "title": "Hokuto no Ken",
+                "id": 141875,
+                "title": "Honey Trap Share House",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/258755.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/258755l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/257955.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/257955l.jpg"
                 },
-                "status": "finished",
+                "status": "currently_publishing",
                 "media_type": "manga",
                 "genres": [
                     {
@@ -14550,26 +13994,21 @@
                         "name": "Action"
                     },
                     {
-                        "id": 8,
-                        "name": "Drama"
+                        "id": 9,
+                        "name": "Ecchi"
                     },
                     {
-                        "id": 17,
-                        "name": "Martial Arts"
-                    },
-                    {
-                        "id": 24,
-                        "name": "Sci-Fi"
+                        "id": 22,
+                        "name": "Romance"
                     },
                     {
                         "id": 27,
                         "name": "Shounen"
                     }
                 ],
-                "num_chapters": 245,
-                "num_volumes": 27,
-                "start_date": "1983-09-13",
-                "end_date": "1988-07-26"
+                "num_chapters": 0,
+                "num_volumes": 0,
+                "start_date": "2021-11-09"
             },
             "list_status": {
                 "status": "plan_to_read",
@@ -14577,103 +14016,7 @@
                 "num_volumes_read": 0,
                 "num_chapters_read": 0,
                 "score": 0,
-                "updated_at": "2017-07-13T14:17:55+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 3285,
-                "title": "Holyland",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/258962.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/258962l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 55,
-                        "name": "Delinquents"
-                    },
-                    {
-                        "id": 17,
-                        "name": "Martial Arts"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 182,
-                "num_volumes": 18,
-                "start_date": "2000-10-13",
-                "end_date": "2008-05-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-09-13T01:37:03+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 936,
-                "title": "Homunculus",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/318.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/318l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 14,
-                        "name": "Horror"
-                    },
-                    {
-                        "id": 7,
-                        "name": "Mystery"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 166,
-                "num_volumes": 15,
-                "start_date": "2003-03-17",
-                "end_date": "2011-02-21"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-10T02:32:15+00:00"
+                "updated_at": "2022-06-19T00:52:58+00:00"
             }
         },
         {
@@ -15274,52 +14617,6 @@
         },
         {
             "node": {
-                "id": 922,
-                "title": "Houshin Engi",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/203313.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/203313l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Mythology"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 206,
-                "num_volumes": 23,
-                "start_date": "1996-06-11",
-                "end_date": "2000-10-24"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-13T18:31:47+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 47783,
                 "title": "Hyakki Koiran",
                 "main_picture": {
@@ -15717,48 +15014,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2019-05-05T14:33:08+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 3829,
-                "title": "Iketeru Futari",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/172465.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/172465l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 331,
-                "num_volumes": 33,
-                "start_date": "1997",
-                "end_date": "2010-04-26"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-12T11:15:56+00:00"
             }
         },
         {
@@ -17449,48 +16704,6 @@
         },
         {
             "node": {
-                "id": 3008,
-                "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/180417.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/180417l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 69,
-                        "name": "Organized Crime"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 155,
-                "num_volumes": 17,
-                "start_date": "1995-11-28",
-                "end_date": "1999-03-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T22:17:05+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 47533,
                 "title": "Jolyne, Gucci de Tobu",
                 "main_picture": {
@@ -18943,52 +18156,6 @@
         },
         {
             "node": {
-                "id": 47363,
-                "title": "Kamisama no Iutoori 2",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/187899.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/187899l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 58,
-                        "name": "Gore"
-                    },
-                    {
-                        "id": 14,
-                        "name": "Horror"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 186,
-                "num_volumes": 21,
-                "start_date": "2013-01-16",
-                "end_date": "2016-12-28"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-08-09T12:47:00+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 385,
                 "title": "Kamiyadori",
                 "main_picture": {
@@ -20254,40 +19421,6 @@
         },
         {
             "node": {
-                "id": 72025,
-                "title": "Kengan Ashura",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/210808.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/210808l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 17,
-                        "name": "Martial Arts"
-                    }
-                ],
-                "num_chapters": 256,
-                "num_volumes": 27,
-                "start_date": "2012-04-18",
-                "end_date": "2018-08-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-08-09T12:49:27+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 73823,
                 "title": "Kenja no Deshi wo Nanoru Kenja",
                 "main_picture": {
@@ -21490,52 +20623,6 @@
         },
         {
             "node": {
-                "id": 733,
-                "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/183577.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/183577l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 50,
-                        "name": "Adult Cast"
-                    },
-                    {
-                        "id": 46,
-                        "name": "Award Winning"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 57,
-                        "name": "Gag Humor"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 1957,
-                "num_volumes": 200,
-                "start_date": "1976-09-21",
-                "end_date": "2016-09-17"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-08-09T12:53:47+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 18,
                 "title": "Kodomo no Omocha",
                 "main_picture": {
@@ -22469,48 +21556,6 @@
         },
         {
             "node": {
-                "id": 7375,
-                "title": "Kokou no Hito",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/5/96223.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/5/96223l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 30,
-                        "name": "Sports"
-                    }
-                ],
-                "num_chapters": 170,
-                "num_volumes": 17,
-                "start_date": "2007",
-                "end_date": "2012"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-03-07T03:25:56+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 86655,
                 "title": "Kokuhaku Yokou Renshuu Series",
                 "main_picture": {
@@ -22996,56 +22041,6 @@
         },
         {
             "node": {
-                "id": 932,
-                "title": "Koroshiya 1",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/174206.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/174206l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 58,
-                        "name": "Gore"
-                    },
-                    {
-                        "id": 14,
-                        "name": "Horror"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 114,
-                "num_volumes": 10,
-                "start_date": "1998-02-19",
-                "end_date": "2001-04-05"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-05-07T06:23:11+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 51747,
                 "title": "Kotonoha no Niwa",
                 "main_picture": {
@@ -23206,48 +22201,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-08-19T20:19:41+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 904,
-                "title": "Kozure Ookami",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/159264.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/159264l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 13,
-                        "name": "Historical"
-                    },
-                    {
-                        "id": 21,
-                        "name": "Samurai"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 142,
-                "num_volumes": 28,
-                "start_date": "1970-09",
-                "end_date": "1976-04"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-27T00:24:50+00:00"
             }
         },
         {
@@ -23850,114 +22803,6 @@
         },
         {
             "node": {
-                "id": 1048,
-                "title": "Kyou kara Ma no Tsuku Jiyuugyou!",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/167622.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/167622l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 28,
-                        "name": "Boys Love"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 35,
-                        "name": "Harem"
-                    },
-                    {
-                        "id": 62,
-                        "name": "Isekai"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Mythology"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    }
-                ],
-                "num_chapters": 133,
-                "num_volumes": 21,
-                "start_date": "2005-04-23",
-                "end_date": "2016-07-23"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-03-13T00:41:44+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 6812,
-                "title": "Kyou kara Ore wa!!",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/5/156533.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/5/156533l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 55,
-                        "name": "Delinquents"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 366,
-                "num_volumes": 38,
-                "start_date": "1988",
-                "end_date": "1997-10"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-04-16T15:26:08+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 16709,
                 "title": "Kyou no Asuka Show",
                 "main_picture": {
@@ -24084,48 +22929,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-04-30T22:12:47+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 4514,
-                "title": "Kyou, Koi wo Hajimemasu",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/37974.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/37974l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    }
-                ],
-                "num_chapters": 100,
-                "num_volumes": 15,
-                "start_date": "2007-09-05",
-                "end_date": "2012-02-03"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-04-06T00:57:54+00:00"
             }
         },
         {
@@ -24549,52 +23352,6 @@
         },
         {
             "node": {
-                "id": 1649,
-                "title": "Liar Game",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/149018.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/149018l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 59,
-                        "name": "High Stakes Game"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 11,
-                        "name": "Strategy Game"
-                    }
-                ],
-                "num_chapters": 203,
-                "num_volumes": 19,
-                "start_date": "2005-02-17",
-                "end_date": "2015-01-22"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2016-01-22T01:09:30+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 16601,
                 "title": "Limit",
                 "main_picture": {
@@ -24877,48 +23634,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-03-02T08:21:03+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 28174,
-                "title": "Love Lab",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/95957.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/95957l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 52,
-                        "name": "CGDCT"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    }
-                ],
-                "num_chapters": 197,
-                "num_volumes": 15,
-                "start_date": "2006-10-02",
-                "end_date": "2019-10-21"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2015-09-22T23:01:10+00:00"
             }
         },
         {
@@ -26039,56 +24754,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-08-26T18:35:22+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 20521,
-                "title": "Mahou Shoujo Pretty☆Bell",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/149852.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/149852l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 112,
-                "num_volumes": 28,
-                "start_date": "2009-11-30",
-                "end_date": "2019-01-28"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-05T04:03:31+00:00"
             }
         },
         {
@@ -27480,52 +26145,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-26T08:21:40+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 134,
-                "title": "MÄR",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/165744.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/165744l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 62,
-                        "name": "Isekai"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 161,
-                "num_volumes": 15,
-                "start_date": "2003-05",
-                "end_date": "2006-07"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-03-26T19:48:00+00:00"
             }
         },
         {
@@ -29060,44 +27679,6 @@
         },
         {
             "node": {
-                "id": 11329,
-                "title": "Mudazumonaki Kaikaku",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/165537.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/165537l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 11,
-                        "name": "Strategy Game"
-                    }
-                ],
-                "num_chapters": 144,
-                "num_volumes": 16,
-                "start_date": "2006-02-08",
-                "end_date": "2015"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-03-11T00:28:24+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 107500,
                 "title": "Munou na Nana",
                 "main_picture": {
@@ -29717,52 +28298,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-07-15T02:24:21+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 67645,
-                "title": "Namaikizakari.",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/128825.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/128825l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    },
-                    {
-                        "id": 30,
-                        "name": "Sports"
-                    },
-                    {
-                        "id": 78,
-                        "name": "Team Sports"
-                    }
-                ],
-                "num_chapters": 140,
-                "num_volumes": 23,
-                "start_date": "2013-10-19",
-                "end_date": "2021-12-20"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-15T02:25:18+00:00"
             }
         },
         {
@@ -31426,60 +29961,6 @@
         },
         {
             "node": {
-                "id": 12450,
-                "title": "Nononono",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/261006.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/261006l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 44,
-                        "name": "Crossdressing"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 30,
-                        "name": "Sports"
-                    }
-                ],
-                "num_chapters": 142,
-                "num_volumes": 13,
-                "start_date": "2007-10-25",
-                "end_date": "2010-12-09"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2018-11-04T17:34:08+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 24698,
                 "title": "Nozo x Kimi",
                 "main_picture": {
@@ -32015,10 +30496,6 @@
                     {
                         "id": 4,
                         "name": "Comedy"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
                     },
                     {
                         "id": 41,
@@ -32621,6 +31098,52 @@
         },
         {
             "node": {
+                "id": 122267,
+                "title": "Onizuka-chan to Sawarida-kun",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/236481.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/236481l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Mythology"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 53,
+                "num_volumes": 2,
+                "start_date": "2019-10-21",
+                "end_date": "2021-05-21"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2022-06-16T07:13:25+00:00"
+            }
+        },
+        {
+            "node": {
                 "id": 50731,
                 "title": "Onnanoko ga H na Manga Egaicha Dame desu ka?",
                 "main_picture": {
@@ -32701,44 +31224,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-04-26T00:34:31+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 19200,
-                "title": "Ookami-heika no Hanayome",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/163577.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/163577l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 13,
-                        "name": "Historical"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    }
-                ],
-                "num_chapters": 118,
-                "num_volumes": 19,
-                "start_date": "2009-02-24",
-                "end_date": "2018-10-10"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2015-12-28T05:27:16+00:00"
             }
         },
         {
@@ -33248,48 +31733,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2020-09-01T05:26:36+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 7749,
-                "title": "Oresama Teacher",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/4/186262.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/4/186262l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 55,
-                        "name": "Delinquents"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 25,
-                        "name": "Shoujo"
-                    }
-                ],
-                "num_chapters": 176,
-                "num_volumes": 29,
-                "start_date": "2007-07-05",
-                "end_date": "2020-02-05"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T01:25:23+00:00"
             }
         },
         {
@@ -33899,56 +32342,6 @@
         },
         {
             "node": {
-                "id": 20266,
-                "title": "Ouroboros: Keisatsu wo Sabaku wa Ware ni Ari",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/175729.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/175729l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 39,
-                        "name": "Detective"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 7,
-                        "name": "Mystery"
-                    },
-                    {
-                        "id": 69,
-                        "name": "Organized Crime"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 144,
-                "num_volumes": 24,
-                "start_date": "2009-03-06",
-                "end_date": "2016-12-21"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-04-12T19:33:59+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 2720,
                 "title": "Over Drive",
                 "main_picture": {
@@ -34217,102 +32610,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2018-03-12T05:25:43+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 3031,
-                "title": "Pandora Hearts",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/169004.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/169004l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    },
-                    {
-                        "id": 7,
-                        "name": "Mystery"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 107,
-                "num_volumes": 24,
-                "start_date": "2006-05-18",
-                "end_date": "2015-03-18"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-10T04:38:44+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 22634,
-                "title": "Papa no Iukoto wo Kikinasai!",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/158133.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/158133l.jpg"
-                },
-                "status": "finished",
-                "media_type": "light_novel",
-                "genres": [
-                    {
-                        "id": 53,
-                        "name": "Childcare"
-                    },
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 36,
-                        "name": "Slice of Life"
-                    }
-                ],
-                "num_chapters": 144,
-                "num_volumes": 18,
-                "start_date": "2009-12-30",
-                "end_date": "2015-03-25"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-31T06:43:21+00:00"
             }
         },
         {
@@ -34815,48 +33112,6 @@
         },
         {
             "node": {
-                "id": 2895,
-                "title": "Piano no Mori",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/28336.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/28336l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 46,
-                        "name": "Award Winning"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 19,
-                        "name": "Music"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 242,
-                "num_volumes": 26,
-                "start_date": "1998-08-05",
-                "end_date": "2015-11-05"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-06-20T04:25:18+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 21286,
                 "title": "Pika☆Ichi",
                 "main_picture": {
@@ -35330,72 +33585,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2017-05-10T04:59:11+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 3438,
-                "title": "Psyren",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/160868.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/160868l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 1,
-                        "name": "Action"
-                    },
-                    {
-                        "id": 2,
-                        "name": "Adventure"
-                    },
-                    {
-                        "id": 59,
-                        "name": "High Stakes Game"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 24,
-                        "name": "Sci-Fi"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 11,
-                        "name": "Strategy Game"
-                    },
-                    {
-                        "id": 31,
-                        "name": "Super Power"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 145,
-                "num_volumes": 16,
-                "start_date": "2007-12-03",
-                "end_date": "2010-11-29"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-03-07T03:25:42+00:00"
             }
         },
         {
@@ -36845,64 +35034,6 @@
                 "num_chapters_read": 0,
                 "score": 0,
                 "updated_at": "2015-09-13T15:22:51+00:00"
-            }
-        },
-        {
-            "node": {
-                "id": 1603,
-                "title": "Sakura Tsuushin",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/53521.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/53521l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 35,
-                        "name": "Harem"
-                    },
-                    {
-                        "id": 64,
-                        "name": "Love Polygon"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 223,
-                "num_volumes": 20,
-                "start_date": "1995-04-14",
-                "end_date": "2000-06-01"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2020-09-01T07:45:34+00:00"
             }
         },
         {
@@ -40688,44 +38819,6 @@
         },
         {
             "node": {
-                "id": 85989,
-                "title": "Tenshi to Akuto!!",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/168134.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/168134l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 166,
-                "num_volumes": 17,
-                "start_date": "2014-12-24",
-                "end_date": "2018-05-30"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2016-07-15T18:14:44+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 3254,
                 "title": "Tetsuwan Birdy",
                 "main_picture": {
@@ -42249,8 +40342,8 @@
                 "id": 304,
                 "title": "Urusei Yatsura",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/156529.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/156529l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/263150.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/263150l.jpg"
                 },
                 "status": "finished",
                 "media_type": "manga",
@@ -43168,60 +41261,6 @@
         },
         {
             "node": {
-                "id": 100128,
-                "title": "Yakusoku no Neverland",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/186922.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/186922l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 46,
-                        "name": "Award Winning"
-                    },
-                    {
-                        "id": 7,
-                        "name": "Mystery"
-                    },
-                    {
-                        "id": 40,
-                        "name": "Psychological"
-                    },
-                    {
-                        "id": 24,
-                        "name": "Sci-Fi"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    },
-                    {
-                        "id": 77,
-                        "name": "Survival"
-                    },
-                    {
-                        "id": 45,
-                        "name": "Suspense"
-                    }
-                ],
-                "num_chapters": 181,
-                "num_volumes": 20,
-                "start_date": "2016-08-01",
-                "end_date": "2020-06-15"
-            },
-            "list_status": {
-                "status": "plan_to_read",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2017-07-09T02:26:53+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 12384,
                 "title": "Yamanko!",
                 "main_picture": {
@@ -43660,9 +41699,1082 @@
                 "score": 0,
                 "updated_at": "2017-07-09T02:10:40+00:00"
             }
+        },
+        {
+            "node": {
+                "id": 98234,
+                "title": "Yomekura",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/176085.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/176085l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 44,
+                "num_volumes": 11,
+                "start_date": "2015-03-06",
+                "end_date": "2018-10-06"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2018-01-17T05:20:22+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 104,
+                "title": "Yotsuba to!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/5/259524.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/5/259524l.jpg"
+                },
+                "status": "currently_publishing",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 46,
+                        "name": "Award Winning"
+                    },
+                    {
+                        "id": 53,
+                        "name": "Childcare"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 63,
+                        "name": "Iyashikei"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "num_chapters": 0,
+                "num_volumes": 0,
+                "start_date": "2003-03-21"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:09:34+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 31497,
+                "title": "Youkai Apartment no Yuuga na Nichijou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/57981.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/57981l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 122,
+                "num_volumes": 24,
+                "start_date": "2011-05-26",
+                "end_date": "2021-08-26"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:07:43+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 89357,
+                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/177958.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/177958l.jpg"
+                },
+                "status": "finished",
+                "media_type": "light_novel",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "num_chapters": 110,
+                "num_volumes": 14,
+                "start_date": "2015-05-25",
+                "end_date": "2019-09-25"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2019-11-30T08:36:56+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 2060,
+                "title": "Yozakura Quartet",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/153963.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/153963l.jpg"
+                },
+                "status": "currently_publishing",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    },
+                    {
+                        "id": 31,
+                        "name": "Super Power"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 0,
+                "num_volumes": 0,
+                "start_date": "2006-01-26"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T22:01:09+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 121426,
+                "title": "Yozakura-san Chi no Daisakusen",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/226602.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/226602l.jpg"
+                },
+                "status": "currently_publishing",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 0,
+                "num_volumes": 0,
+                "start_date": "2019-08-26"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2020-08-17T19:07:40+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 579,
+                "title": "Yubisaki Milk Tea",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/173786.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/173786l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 44,
+                        "name": "Crossdressing"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    }
+                ],
+                "num_chapters": 89,
+                "num_volumes": 10,
+                "start_date": "2002-12-27",
+                "end_date": "2010-03-12"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-15T04:21:59+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 78119,
+                "title": "Yugawara-kun wa Ooyamada Danshi Koukou de Moteru Houhou wo Kangaeteita ga",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/170930.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/170930l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "num_chapters": 48,
+                "num_volumes": 3,
+                "start_date": "2014-08-18",
+                "end_date": "2015-07-13"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:06:33+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 100165,
+                "title": "Yuizaki-san wa Nageru!",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/191158.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/191158l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Sports"
+                    }
+                ],
+                "num_chapters": 65,
+                "num_volumes": 5,
+                "start_date": "2016-07-07",
+                "end_date": "2017-12-21"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2018-03-12T05:29:15+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 815,
+                "title": "Yume de Aetara",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/212.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/212l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "num_chapters": 143,
+                "num_volumes": 17,
+                "start_date": "1994-02",
+                "end_date": "1999-12"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:04:36+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 14065,
+                "title": "Yumekui Merry",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/20001.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/20001l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 142,
+                "num_volumes": 24,
+                "start_date": "2008-03-24",
+                "end_date": "2020-11-24"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:03:45+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 34627,
+                "title": "Yumekuri",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/161441.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/161441l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 41,
+                "num_volumes": 5,
+                "start_date": "2012-01-27",
+                "end_date": "2016-12-27"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:03:07+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 96582,
+                "title": "Yuragi-sou no Yuuna-san",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/179022.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/179022l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 214,
+                "num_volumes": 24,
+                "start_date": "2016-02-08",
+                "end_date": "2020-06-08"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T02:02:02+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 1935,
+                "title": "Yuretsuzukeru",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/25320.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/25320l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    }
+                ],
+                "num_chapters": 7,
+                "num_volumes": 1,
+                "start_date": "2005-03-16",
+                "end_date": "2005-03-16"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:59:54+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 41709,
+                "title": "Yuureitou",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/89667.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/89667l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    }
+                ],
+                "num_chapters": 80,
+                "num_volumes": 9,
+                "start_date": "2010-05-28",
+                "end_date": "2014-10-24"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:56:41+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 49295,
+                "title": "Yuusen Shoujo: Plug-in Girl",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/128685.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/128685l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 16,
+                "num_volumes": 3,
+                "start_date": "2012-10-27",
+                "end_date": "2014-01-27"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:55:42+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 85941,
+                "title": "Yuusha ga Shinda!: Murabito no Ore ga Hotta Otoshiana ni Yuusha ga Ochita Kekka.",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/188923.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/188923l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    }
+                ],
+                "num_chapters": 202,
+                "num_volumes": 20,
+                "start_date": "2014-12-09",
+                "end_date": "2020-12-07"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:55:08+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 16499,
+                "title": "Yuzuko Peppermint",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/200147.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/200147l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 61,
+                "num_volumes": 8,
+                "start_date": "2008-05-16",
+                "end_date": "2011-10-21"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2019-09-01T15:57:23+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 58211,
+                "title": "Zai x 10",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/122803.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/122803l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    }
+                ],
+                "num_chapters": 48,
+                "num_volumes": 4,
+                "start_date": "2013-08-29",
+                "end_date": "2015-07-30"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:46:49+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 17154,
+                "title": "Zekkyou Gakkyuu",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/146491.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/146491l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 46,
+                        "name": "Award Winning"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Shoujo"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 81,
+                "num_volumes": 20,
+                "start_date": "2008-09-03",
+                "end_date": "2015-02-03"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:50:46+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 1716,
+                "title": "Zero-In",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/26617.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/26617l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 39,
+                        "name": "Detective"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 75,
+                "num_volumes": 12,
+                "start_date": "2003-06-09",
+                "end_date": "2011-01-08"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2020-09-01T05:30:05+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 76397,
+                "title": "Zero: Kage Miko",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/141405.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/141405l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 61,
+                "num_volumes": 7,
+                "start_date": "2014-07-18",
+                "end_date": "2017-07-28"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:51:20+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 15205,
+                "title": "Zetsuen no Tempest",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/76945.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/76945l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mystery"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Psychological"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 50,
+                "num_volumes": 10,
+                "start_date": "2009-07-10",
+                "end_date": "2013-10-12"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-09T01:46:17+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 99,
+                "title": "Zombie-Loan",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/183676.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/183676l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 1,
+                        "name": "Action"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Adventure"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Horror"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Supernatural"
+                    }
+                ],
+                "num_chapters": 83,
+                "num_volumes": 13,
+                "start_date": "2002-10-18",
+                "end_date": "2011-02-18"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2017-07-08T21:20:30+00:00"
+            }
+        },
+        {
+            "node": {
+                "id": 83849,
+                "title": "Zuori Qing Kong",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/212096.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/212096l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manhua",
+                "genres": [
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    }
+                ],
+                "num_chapters": 10,
+                "num_volumes": 2,
+                "start_date": "2011-05",
+                "end_date": "2012-02"
+            },
+            "list_status": {
+                "status": "plan_to_read",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2018-09-13T01:45:48+00:00"
+            }
         }
     ],
-    "paging": {
-        "next": "https://api.myanimelist.net/v2/users/nerfsunny/mangalist?offset=1000&status=plan_to_read&fields=status%2C+media_type%2C+genres%2C+num_chapters%2C+num_volumes%2C+start_date%2C+end_date%2C+list_status&nsfw=true&limit=1000"
-    }
+    "paging": {}
 }

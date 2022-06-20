@@ -2,32 +2,32 @@
     "data": [
         {
             "node": {
-                "id": 116987,
-                "title": "Fuuka: Yacchau!? Heroine to no Mousou Hatsutaiken - Special Edition",
+                "id": 118803,
+                "title": "Fetiple",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/232888.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/232888l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/219848.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/219848l.jpg"
                 },
                 "status": "finished",
                 "media_type": "manga",
                 "genres": [
                     {
-                        "id": 9,
-                        "name": "Ecchi"
+                        "id": 4,
+                        "name": "Comedy"
                     },
                     {
                         "id": 22,
                         "name": "Romance"
                     },
                     {
-                        "id": 27,
-                        "name": "Shounen"
+                        "id": 36,
+                        "name": "Slice of Life"
                     }
                 ],
-                "num_chapters": 10,
-                "num_volumes": 1,
-                "start_date": "2017-03-29",
-                "end_date": "2018-04-04"
+                "num_chapters": 148,
+                "num_volumes": 9,
+                "start_date": "2018-08-25",
+                "end_date": "2021-09-25"
             },
             "list_status": {
                 "status": "reading",
@@ -35,7 +35,7 @@
                 "num_volumes_read": 0,
                 "num_chapters_read": 0,
                 "score": 0,
-                "updated_at": "2020-08-16T08:42:53+00:00"
+                "updated_at": "2022-06-16T16:25:27+00:00"
             }
         },
         {
@@ -167,61 +167,6 @@
         },
         {
             "node": {
-                "id": 818,
-                "title": "I''s",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/54589.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/54589l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 8,
-                        "name": "Drama"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 35,
-                        "name": "Harem"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 143,
-                "num_volumes": 15,
-                "start_date": "1997-04-08",
-                "end_date": "2000-05-16"
-            },
-            "list_status": {
-                "status": "reading",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 1,
-                "score": 0,
-                "updated_at": "2022-01-03T20:18:53+00:00",
-                "start_date": "2022-01-03"
-            }
-        },
-        {
-            "node": {
                 "id": 90125,
                 "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
                 "main_picture": {
@@ -260,9 +205,9 @@
                 "status": "reading",
                 "is_rereading": false,
                 "num_volumes_read": 23,
-                "num_chapters_read": 265,
+                "num_chapters_read": 266,
                 "score": 0,
-                "updated_at": "2022-06-04T16:08:42+00:00",
+                "updated_at": "2022-06-16T20:41:26+00:00",
                 "start_date": "2019-02-18"
             }
         },
@@ -440,9 +385,9 @@
                 "status": "reading",
                 "is_rereading": false,
                 "num_volumes_read": 19,
-                "num_chapters_read": 359,
+                "num_chapters_read": 360,
                 "score": 0,
-                "updated_at": "2022-06-12T03:41:35+00:00",
+                "updated_at": "2022-06-18T02:12:36+00:00",
                 "start_date": "2018-03-03"
             }
         },
@@ -571,150 +516,6 @@
         },
         {
             "node": {
-                "id": 30123,
-                "title": "Minamoto-kun Monogatari",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/124721.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/124721l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 35,
-                        "name": "Harem"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    }
-                ],
-                "num_chapters": 360,
-                "num_volumes": 16,
-                "start_date": "2011-09-15",
-                "end_date": "2019-09-05"
-            },
-            "list_status": {
-                "status": "reading",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 14,
-                "score": 0,
-                "updated_at": "2022-03-04T04:09:47+00:00",
-                "start_date": "2022-03-03"
-            }
-        },
-        {
-            "node": {
-                "id": 604,
-                "title": "Okusama wa Joshikousei",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/178067.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/3/178067l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 41,
-                        "name": "Seinen"
-                    },
-                    {
-                        "id": 36,
-                        "name": "Slice of Life"
-                    }
-                ],
-                "num_chapters": 160,
-                "num_volumes": 13,
-                "start_date": "2001-01-11",
-                "end_date": "2007-03-29"
-            },
-            "list_status": {
-                "status": "reading",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 65,
-                "score": 0,
-                "updated_at": "2021-09-27T00:22:13+00:00",
-                "start_date": "2021-09-05"
-            }
-        },
-        {
-            "node": {
-                "id": 122267,
-                "title": "Onizuka-chan to Sawarida-kun",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/236481.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/236481l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 6,
-                        "name": "Mythology"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 23,
-                        "name": "School"
-                    },
-                    {
-                        "id": 37,
-                        "name": "Supernatural"
-                    }
-                ],
-                "num_chapters": 53,
-                "num_volumes": 2,
-                "start_date": "2019-10-21",
-                "end_date": "2021-05-21"
-            },
-            "list_status": {
-                "status": "reading",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 0,
-                "score": 0,
-                "updated_at": "2021-06-29T15:25:53+00:00"
-            }
-        },
-        {
-            "node": {
                 "id": 148054,
                 "title": "Ruri Dragon",
                 "main_picture": {
@@ -749,10 +550,48 @@
                 "status": "reading",
                 "is_rereading": false,
                 "num_volumes_read": 0,
-                "num_chapters_read": 1,
+                "num_chapters_read": 2,
                 "score": 0,
-                "updated_at": "2022-06-13T07:20:03+00:00",
+                "updated_at": "2022-06-20T02:19:06+00:00",
                 "start_date": "2022-06-13"
+            }
+        },
+        {
+            "node": {
+                "id": 147091,
+                "title": "Seihantai na Kimi to Boku",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/260350.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/260350l.jpg"
+                },
+                "status": "currently_publishing",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 0,
+                "num_volumes": 0,
+                "start_date": "2021-01-07"
+            },
+            "list_status": {
+                "status": "reading",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 2,
+                "score": 0,
+                "updated_at": "2022-06-20T06:20:15+00:00",
+                "start_date": "2022-06-20"
             }
         },
         {
@@ -869,41 +708,6 @@
                 "score": 0,
                 "updated_at": "2022-03-09T06:37:41+00:00",
                 "start_date": "2022-03-08"
-            }
-        },
-        {
-            "node": {
-                "id": 112019,
-                "title": "xx demo Mahou Shoujo ni Naremasu ka?",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/220653.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/2/220653l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 10,
-                        "name": "Fantasy"
-                    }
-                ],
-                "num_chapters": 23,
-                "num_volumes": 2,
-                "start_date": "2016-12-28",
-                "end_date": "2017-12-27"
-            },
-            "list_status": {
-                "status": "reading",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 7,
-                "score": 0,
-                "updated_at": "2021-08-19T19:11:36+00:00",
-                "start_date": "2021-07-14"
             }
         },
         {

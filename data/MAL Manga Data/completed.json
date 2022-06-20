@@ -2642,6 +2642,46 @@
         },
         {
             "node": {
+                "id": 131180,
+                "title": "Chikyuu Kiroku 0001",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/237152.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/237152l.jpg"
+                },
+                "status": "finished",
+                "media_type": "one_shot",
+                "genres": [
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    },
+                    {
+                        "id": 29,
+                        "name": "Space"
+                    }
+                ],
+                "num_chapters": 1,
+                "num_volumes": 0,
+                "start_date": "2020-11-08",
+                "end_date": "2020-11-08"
+            },
+            "list_status": {
+                "status": "completed",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 1,
+                "score": 7,
+                "updated_at": "2022-06-17T18:18:26+00:00",
+                "start_date": "2022-06-17",
+                "finish_date": "2022-06-17"
+            }
+        },
+        {
+            "node": {
                 "id": 71363,
                 "title": "Chikyuu no Houkago",
                 "main_picture": {
@@ -11273,8 +11313,8 @@
                 "is_rereading": false,
                 "num_volumes_read": 0,
                 "num_chapters_read": 1,
-                "score": 0,
-                "updated_at": "2022-04-23T15:01:09+00:00",
+                "score": 6,
+                "updated_at": "2022-06-16T21:14:31+00:00",
                 "start_date": "2022-04-23",
                 "finish_date": "2022-04-23"
             }
@@ -11591,6 +11631,50 @@
                 "updated_at": "2016-08-14T12:30:29+00:00",
                 "start_date": "2016-08-09",
                 "finish_date": "2016-08-09"
+            }
+        },
+        {
+            "node": {
+                "id": 136878,
+                "title": "Mutant wa Ningen no Kanojo to Kiss ga Shitai",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/245137.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/245137l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Sci-Fi"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 19,
+                "num_volumes": 0,
+                "start_date": "2021-05-18",
+                "end_date": "2022-01-25"
+            },
+            "list_status": {
+                "status": "completed",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 19,
+                "score": 6,
+                "updated_at": "2022-06-16T20:43:08+00:00",
+                "start_date": "2021-05-20",
+                "finish_date": "2022-02-04"
             }
         },
         {

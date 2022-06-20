@@ -122,9 +122,9 @@
                 "status": "on_hold",
                 "is_rereading": false,
                 "num_volumes_read": 2,
-                "num_chapters_read": 35,
+                "num_chapters_read": 36,
                 "score": 0,
-                "updated_at": "2022-06-14T00:15:20+00:00",
+                "updated_at": "2022-06-19T23:06:22+00:00",
                 "start_date": "2018-09-23"
             }
         },
@@ -613,8 +613,8 @@
                 "id": 142,
                 "title": "Battle Royale",
                 "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/53387.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/53387l.jpg"
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/262978.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/1/262978l.jpg"
                 },
                 "status": "finished",
                 "media_type": "manga",
@@ -677,10 +677,6 @@
                     {
                         "id": 4,
                         "name": "Comedy"
-                    },
-                    {
-                        "id": 9,
-                        "name": "Ecchi"
                     },
                     {
                         "id": 75,
@@ -1641,6 +1637,44 @@
         },
         {
             "node": {
+                "id": 116987,
+                "title": "Fuuka: Yacchau!? Heroine to no Mousou Hatsutaiken - Special Edition",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/232888.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/232888l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 10,
+                "num_volumes": 1,
+                "start_date": "2017-03-29",
+                "end_date": "2018-04-04"
+            },
+            "list_status": {
+                "status": "on_hold",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 0,
+                "score": 0,
+                "updated_at": "2022-06-16T07:13:01+00:00"
+            }
+        },
+        {
+            "node": {
                 "id": 1102,
                 "title": "Ga-Rei",
                 "main_picture": {
@@ -1726,9 +1760,9 @@
                 "status": "on_hold",
                 "is_rereading": false,
                 "num_volumes_read": 0,
-                "num_chapters_read": 20,
+                "num_chapters_read": 21,
                 "score": 0,
-                "updated_at": "2022-06-15T08:44:25+00:00",
+                "updated_at": "2022-06-17T21:46:04+00:00",
                 "start_date": "2021-11-18"
             }
         },
@@ -2770,6 +2804,61 @@
                 "score": 0,
                 "updated_at": "2019-06-15T19:34:26+00:00",
                 "start_date": "2019-04-24"
+            }
+        },
+        {
+            "node": {
+                "id": 818,
+                "title": "I''s",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/54589.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/54589l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Drama"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Shounen"
+                    }
+                ],
+                "num_chapters": 143,
+                "num_volumes": 15,
+                "start_date": "1997-04-08",
+                "end_date": "2000-05-16"
+            },
+            "list_status": {
+                "status": "on_hold",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 1,
+                "score": 0,
+                "updated_at": "2022-06-16T07:13:49+00:00",
+                "start_date": "2022-01-03"
             }
         },
         {
@@ -4496,6 +4585,53 @@
         },
         {
             "node": {
+                "id": 30123,
+                "title": "Minamoto-kun Monogatari",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/124721.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/124721l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Harem"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    }
+                ],
+                "num_chapters": 360,
+                "num_volumes": 16,
+                "start_date": "2011-09-15",
+                "end_date": "2019-09-05"
+            },
+            "list_status": {
+                "status": "on_hold",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 14,
+                "score": 0,
+                "updated_at": "2022-06-16T07:13:36+00:00",
+                "start_date": "2022-03-03"
+            }
+        },
+        {
+            "node": {
                 "id": 140102,
                 "title": "Mishiranu Joshikousei ni Kankin sareta Mangaka no Hanashi",
                 "main_picture": {
@@ -4809,50 +4945,6 @@
                 "score": 0,
                 "updated_at": "2021-07-27T21:46:48+00:00",
                 "start_date": "2021-03-15"
-            }
-        },
-        {
-            "node": {
-                "id": 136878,
-                "title": "Mutant wa Ningen no Kanojo to Kiss ga Shitai",
-                "main_picture": {
-                    "medium": "https://api-cdn.myanimelist.net/images/manga/1/245137.jpg",
-                    "large": "https://api-cdn.myanimelist.net/images/manga/1/245137l.jpg"
-                },
-                "status": "finished",
-                "media_type": "manga",
-                "genres": [
-                    {
-                        "id": 4,
-                        "name": "Comedy"
-                    },
-                    {
-                        "id": 22,
-                        "name": "Romance"
-                    },
-                    {
-                        "id": 24,
-                        "name": "Sci-Fi"
-                    },
-                    {
-                        "id": 27,
-                        "name": "Shounen"
-                    }
-                ],
-                "num_chapters": 19,
-                "num_volumes": 0,
-                "start_date": "2021-05-18",
-                "end_date": "2022-01-25"
-            },
-            "list_status": {
-                "status": "on_hold",
-                "is_rereading": false,
-                "num_volumes_read": 0,
-                "num_chapters_read": 19,
-                "score": 6,
-                "updated_at": "2022-02-05T02:41:24+00:00",
-                "start_date": "2021-05-20",
-                "finish_date": "2022-02-04"
             }
         },
         {
@@ -5358,6 +5450,57 @@
         },
         {
             "node": {
+                "id": 604,
+                "title": "Okusama wa Joshikousei",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/3/178067.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/3/178067l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Ecchi"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Romance"
+                    },
+                    {
+                        "id": 23,
+                        "name": "School"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Seinen"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Slice of Life"
+                    }
+                ],
+                "num_chapters": 160,
+                "num_volumes": 13,
+                "start_date": "2001-01-11",
+                "end_date": "2007-03-29"
+            },
+            "list_status": {
+                "status": "on_hold",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 65,
+                "score": 0,
+                "updated_at": "2022-06-16T07:12:41+00:00",
+                "start_date": "2021-09-05"
+            }
+        },
+        {
+            "node": {
                 "id": 136282,
                 "title": "Oneesan ga Shinryakuchuu!?",
                 "main_picture": {
@@ -5392,9 +5535,9 @@
                 "status": "on_hold",
                 "is_rereading": false,
                 "num_volumes_read": 0,
-                "num_chapters_read": 7,
+                "num_chapters_read": 8,
                 "score": 0,
-                "updated_at": "2022-06-03T15:54:12+00:00",
+                "updated_at": "2022-06-19T02:31:00+00:00",
                 "start_date": "2021-05-04"
             }
         },
@@ -5874,9 +6017,9 @@
                 "status": "on_hold",
                 "is_rereading": false,
                 "num_volumes_read": 5,
-                "num_chapters_read": 116,
+                "num_chapters_read": 118,
                 "score": 0,
-                "updated_at": "2022-06-06T19:17:08+00:00",
+                "updated_at": "2022-06-20T00:35:30+00:00",
                 "start_date": "2019-11-11"
             }
         },
@@ -7912,6 +8055,41 @@
                 "score": 0,
                 "updated_at": "2021-01-13T06:20:13+00:00",
                 "start_date": "2015-11-26"
+            }
+        },
+        {
+            "node": {
+                "id": 112019,
+                "title": "xx demo Mahou Shoujo ni Naremasu ka?",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/manga/2/220653.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/manga/2/220653l.jpg"
+                },
+                "status": "finished",
+                "media_type": "manga",
+                "genres": [
+                    {
+                        "id": 4,
+                        "name": "Comedy"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Fantasy"
+                    }
+                ],
+                "num_chapters": 23,
+                "num_volumes": 2,
+                "start_date": "2016-12-28",
+                "end_date": "2017-12-27"
+            },
+            "list_status": {
+                "status": "on_hold",
+                "is_rereading": false,
+                "num_volumes_read": 0,
+                "num_chapters_read": 7,
+                "score": 0,
+                "updated_at": "2022-06-16T07:12:51+00:00",
+                "start_date": "2021-07-14"
             }
         },
         {
