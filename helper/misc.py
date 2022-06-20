@@ -16,7 +16,7 @@ def canUpdateData(envFile, envVariable, date_format, incNumberOfWeeks):
     print(f'Cannot update data. Next scheduled update is {importDate}')
     return False
 
-def loadMALJSON_DF(jsonFile, itemInfo, userListInfo):
+def loadMALJSON_DF(jsonFile, itemInfo = [], userListInfo = []):
     specialColumns = ['genres', 'studios']
     modifiedColumns = ['publish_start_date', 'publish_end_date', 'publish_status']
 
